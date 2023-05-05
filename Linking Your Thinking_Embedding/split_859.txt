@@ -1,0 +1,17 @@
+ode let's see what this looks like   okay let's go check out what the actual linked 
+reference looks like for comparison so it gave   us this little paragraph now if we open the 
+link here's what i'm referencing and i'm in   preview mode here when i hop into edit mode notice 
+what's at the very end so the program has added   this little hex code the six digit code with a 
+carrot so that's the basics of a block reference   now let's look at other ways that it can be used 
+a regular link to the main block would look like   this so what's the in edit mode if i just if i 
+don't want to embed the block reference but if   i just want to link to it same thing i'm going to 
+type in mental okay arrow down to it in the pop-up   and then i can hit carrot which is shift six and 
+then i can go down to the thing that i want to   reference hit enter and boom there it is and so 
+when i go into preview mode no preview because   i exploded it here but we can still link to it 
+here click and there we go so i click back okay   so why does the carrot right now i have pulled up 
+why does this convert autocomplete to a hashtag   and for my limited tech knowledge this is so 
+every url that you create let's imagine that you   want to use obsidian publish all of these urls 
+are maintained so there's complete consistency and   you've been able to use obsidian publish to block 
+reference which i guess is pretty fascinating when   you think about it okay so that's the basic of 
+block reference now let's just explore a couple   simple use cases i know that you'll have a lot 
+yourself these are a couple 

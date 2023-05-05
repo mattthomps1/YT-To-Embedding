@@ -1,0 +1,17 @@
+k bit on on figma 
+or whatever you're maintaining it on on storybook   yeah uh in code yeah and then you'll do it in like 
+your web platform yes what not so that requires   a designer constantly updating and iterating and 
+changing a developer one developer maintaining a   storybook or or a similar product and then someone 
+doing the front end and like always syncing with   everything right um so what we're doing now is 
+with stack but you're basically making changes   on figma and they automatically update um either 
+on storybook or on uh it's not actually not sorry   they will be updating um we're we're integrating 
+with storybook as well so you can either think   from storybook or from figma or skip one of them 
+but it will automatically just update on on your   website on your live website so we started with 
+tokens which is colors typography spacing all   that we're shifting into like component changes so 
+you know you'll be able to easily change like The   Styling uh like a box a block a button whatever 
+so that's already functioning working and we also   have a very clear path forward for how we're going 
+to manipulate layouts uh create new components   with new models like our stack but we will be 
+able to read proper content models from stack   from figma so yeah in theory and not so Theory 
+and I I believe that very like soon with stack   bit you'll be able to just Define a new let's 
+say section by dragging a few components that you   already have on your component library on figma 
+and hit publish and then that section will show   up in your component library on

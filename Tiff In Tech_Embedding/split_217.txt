@@ -1,0 +1,1 @@
+I decided to use chatgpt to write a python script for me that would send out happy birthday text messages to my friends every year and it was pretty accurate it wrote out all the code for me and all I needed to do was sign up to twilio added my auth token have a little crisis and there you go

@@ -1,0 +1,20 @@
+been using swim
+and essentially swim is a Dev tool that reinvented the way developers manage knowledge about
+code what do I mean with that well here are three points that really help me understand
+swim one is it's easy to find so if you've ever used any documentation working for a
+company before or writing your own documentation a lot of times it can get messy really quickly
+and difficult to find think of when you're onboarding at a new company how difficult
+it can be another thing about it is it's always up to date developers don't need to worry
+about is my documentation up today documentation should be something that is almost like a
+third arm if that makes sense meaning it just functions it's just part of what we do versus
+it's this thing that we have to struggle with all the time okay so you can see on screen
+here I have swim I did add a repository uh as I was working around with it and we are
+going to add a new repository for this video so I'm going to exit out a swim for now we'll
+get back into it and let's create a react app okay so let's just start right from the
+beginning that's what I feel like a lot of tutorials typically Miss is okay where are
+we gonna go inside let's go inside documents and now we just create our typical react app
+MPX right my keyboards over here if it looks weird this is the problem with working with
+monitors well not really supposed to solve that problem but create react app and let's
+call this let's call this react search app all right and now we wait it's time to go
+get a coffee okay now that we have our project up and well
+not running yet 

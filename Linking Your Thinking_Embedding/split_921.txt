@@ -1,0 +1,15 @@
+in this pane but if we command click over here 
+on a node let's see what happens command click on   this node it opens a new pane and these might be a 
+little tight so in case you weren't aware you can   find the edges and drag these however you need 
+to so you can see them so now we have two windows   and remember what i can do to see preview 
+mode i can toggle that with command e here   is me toggling preview mode again now let's say 
+maybe i don't want to look at red pill blue pill   so what i'm going to do is quick switcher what 
+was that command o and i type adverse oh there   it is and i hit enter and i'm at the adversity 
+paradox so hopefully you can see just how powerful   this application is especially once you know the 
+markdown especially when you know a few basic   settings and especially especially when you 
+have a few hotkeys at your disposal so if you   like this video and you haven't already please 
+subscribe below and especially in this video   please comment below i mean these are just 
+eight hot keys i'm sure if you have any   experience with obsidian you may have found 
+your own hotkeys that you really really enjoy   and i'd love to see what those are below so 
+please comment down there and i hope you've   been enjoying these videos guess what we're on to 
+the very last video i'll see you in the next one you

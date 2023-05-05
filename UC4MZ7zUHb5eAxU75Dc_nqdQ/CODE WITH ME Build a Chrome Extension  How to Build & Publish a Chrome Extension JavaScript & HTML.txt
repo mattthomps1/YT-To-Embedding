@@ -1,0 +1,170 @@
+we are going to code today we are going to code 
+a Chrome extension we built a Chrome extension   a while back and one of the most common questions 
+on that video was Tiff we want to see it published   like go through the publishing process so 
+we're going to include that today starting   from beginning to end and do it all relatively 
+quickly I did not know how simple it is to build   Chrome extensions they are so cool and it's such 
+a great way to add something to your portfolio or   your projects and really stand out for employers 
+and be able to talk about this project that's not   you know a to-do app or a to-do list this is 
+something that whether you're a beginner or   further along in your career you can follow 
+along to very simple to do we are going to be   using HTML JavaScript and we're also going to 
+be using an API for this project specifically   we are going to do a currency converter so I 
+always am looking on my phone or searching up   to convert different currencies I'm Canadian so 
+from Canadian a lot of times to us or European I   work with a lot of different kind of companies and 
+I thought this would be a really fun project to do   if you are interested in something that's not a 
+currency converter the steps we are taking though   you can really modify this to use whatever API you 
+want to use whatever kind of structure your Chrome   extension however you want okay copy okay we have 
+the liquid of the Gods we're ready to get coating first what we're going to do is create 
+a manifest Json file and what this is   going to do is give some metadata the 
+glare on these glasses I'm telling you   it gives them metadata to Chrome about this 
+extension so things like the version things   like uh the description let's get into 
+it here first let's start with the name and let's give it the version for 
+this of course it's version 1.0   first version of this app manifest 
+version which is the version for this   manifest which let's just go to for now oops two 
+description description of this is extension two and then we need to give some information about 
+the browser actions so for this will be another   object here default under underscore icon 
+which will be the default icon for this   let's call this icon which we need to create still 
+do icon.png we're getting really fancy here and   then let's also give this a default pop-up which 
+will be our HTML so in this case let's call this   index.html all right perfect next up speaking 
+of HTML let's create this index.html file also I share this in one of my other videos and 
+I was kind of embarrassed to share this because I   thought oh everyone must know this but if you just 
+go exclamation mark and then enter it will create   a file for you or the beginning of a file for 
+you which is super nice so now in this index.html   we essentially want to be able to choose what 
+currency we are converting what currency we are   converting this is where I need more coffee right 
+now to US dollars so let's have Canadian European   let's put a few others in there and then 
+whatever you can select which currency you   are currently in and convert it to us so from 
+here let's take out all of this outside of the   head and let's start by giving this a title 
+and for this let's call this uh tiffs Exchange   currency exchange and obviously if you're 
+publishing this I'm not actually going to   publish this we'll go through that process 
+but I'm not actually going to uh publish it   but if you are obviously give it a better 
+title than that and then we are going to   be putting in some script here which will 
+be coming from uh let's call it exchange.js all right perfect and then let's actually just 
+create that file now so we don't name something   else later on or something happens perfect now 
+outside the head let's get into creating this   and inside the body of course okay so in here 
+let's give this an H1 for heading and this is   going to be exchange rate converter 
+and then let's also start giving it   some input where we will input what oops 
+what you liking me all right anyways input   and in this input it is a type of a number 
+just give it some information be specific here let's do a placeholder let's 
+call this enter and amount   so and actually let's make input self closing 
+there we go input is self-closing right yeah   all right next up we are going to have a select 
+which will be the ID of currency we will use these   IDs in our Javascript file and then in select 
+we will have some options so let's do option and the value will be European and as I mentioned 
+we'll do copy let's do a few others do CAD let's do British which I just looked up as GBP 
+maybe I should know that I don't know and then   no I should I'm not British and let's do one 
+more I'm going to search up another one let's do   Japanese because I've never been to 
+Japan and I always want to go once   again just give me whatever you 
+want and then let's also put this save that and then now under the select we'll 
+need a button that we can use to convert so button   and let's call this convert currency and the ID this button will be   convert we're getting very creative here you 
+know all right underneath the button let's do   a div which will have an ID of result and that is 
+where we'll display the result so this is pretty   simple so far you know we're just creating an HTML 
+file that once again you can follow along for this   tutorial and then from there I would really 
+suggest going ahead and making your own like   you can get so creative with Chrome extensions 
+there are so many different possibilities things   that I know I want to make and I wanted to start 
+with something though simple but also this time   using an API to really enable you to take this 
+tutorial and use your own apis if you want or   whatever you want to build with all right I think 
+we are in good shape let's format this better I always when I format I go on a Mac I 
+go command a to select all and then I go   now I can't do some talking about it option 
+shift format is there a better way we should   look this up is there a better way because 
+I feel like this didn't do the best I did   okay let me know down in the comments though all 
+right let's get into though our Javascript file   so the first thing we're going to do is get 
+these elements by ID so we made some IDs in   here from currency amount convert and results so 
+let's uh to go ahead and do that the first one is   amount let's go amount const amount 
+equals document get element by ID   and the ID is amount now let's copy and 
+then update it amount and we have currency and then we have convert and result now this is getting 
+the IDS from the HTML document   there we go perfect Next Step because we 
+are using an API we're going to need to   get our API key which I will share with you 
+in a bit here how to do that let's just put   that there temporarily and also too we will 
+need to define the API URL which once again   let's just continue on and then we'll 
+we'll get to the API stuff afterwards   okay and then the first one is now let's 
+start with convert the convert button   convert and then we want to add a listener event 
+essentially so when the button is clicked uh click   then let's create a function here oops I'm 
+doing this backwards oh it's early in the   morning to be honest it's not even 9am which 
+for me is pretty early to be coding okay then   let's start going constant amount total equals 
+Mount Dot value let's grab let's grab the value   I don't want that like let me live my life value let's take the URL and then also to the currency   total because in this we are passing in the 
+currency total all right now let's fetch this URL passenger headers which will be our API key thank you okay now that we have our JavaScript our 
+HTML and our manifest Json we need to as   a reminder get our icon so for this I just went 
+online search money icon PNG and then add it to   your project as well because if you remember here 
+default icon is icon.png and then we have as well   default index default pop-up which is index HTML 
+which is coming from here so it's very important   to make sure that you have those things outlined 
+properly next up let's go to API ninjas and this   is where I am getting this API from now I'm 
+actually here we go okay so for this API as   I mentioned it is for the currency exchange so 
+if you go down to exchange rate there is a one   hour delay in fetching the latest exchange rates 
+which I'm fine with if you I was using this in an   application where others were using it maybe 
+um for I mean but the exchange rate doesn't   change that much typically famous last words 
+in an hour so I'm fine with it uh so yeah API   ninjas it's free to sign up and I really love 
+they have a ton of different apis which makes   me get really creative and this isn't sponsored 
+by them or anything I just discovered them and   love them so yeah I went to exchange rate and 
+then if you scroll down you can see here they   have code examples so we used something similar 
+for JavaScript well we used fetch but similar   concept anyway so now we need to grab our API key 
+so I'm going to go ahead and log in and after I   log in I will take you along with me as to where 
+to get the API key from okay now that I've logged   into forgot my passwords how to reset that uh now 
+that I've logged into API ninjas you can see here   I just went to my account and then right here is 
+where you will be able to find your API key I'm   obviously not going to share it with you but this 
+is where you can find your own and once again this   is completely free this is why I wanted to use 
+this in this example because it's not like you   have to pay a fee or anything to use it it's just 
+a free fun API okay so let's grab our API key okay   one thing too before we go back into our code we 
+need to grab our API URL so you can see here I   love how they you know we're in Python right now 
+but whatever you're in um for the tab but the URL   so we're going to grab this up until your Euro 
+because we also made that you can select based on   a few different options for what currency you want 
+to convert to us so let's copy this as well copy   go back into our code there we go and then we can 
+make an environment file for this or you can just   input it well you should make it an Artful file 
+for this actually let's go ahead and do just that   this is what happens it's too early in 
+the morning to hear that noise oh my gosh   okay let's get this Chrome extension going so 
+for this we open up Google Chrome of course and   we're going to go to Chrome extension 
+Chrome extension it's perfect okay   so you can see here um I just have two 
+extensions right now you can see here make sure   your developer mode is toggled on and then go to 
+load unpacked there you can see here we have our   Chrome extension or whatever folder you put your 
+code and made this project into and let's select   okay there we go let's see is 
+there some errors here description manifest version 2 is appreciated well 
+what won't you be using let's go here manifest V3 all right Chrome will no longer 
+run manifest manifest V2 extensions so all right so let's go back to our code and update 
+that see this is what happens when you learn in   public we also fail in public so it just actually 
+got uh updated to version three it says in January   so pretty recently so let's go back here I love 
+how though they are so they just shared errors   with you like that let's go back to our code okay 
+there we go save and let's see do we have to re   do the re-upload the project yeah I think we do 
+okay let's go remove and let's try this again and we have spelling errors this is just the 
+reality of course you don't recognize this   this is there anything else I did wrong today okay I think we should be good now let's 
+remove it again this process one more time   move I'm packed so what to 
+use instead seeing browser browser action required Parts copy that oh it's just action now foreign okay let's try that so just to action now 
+all right and then didn't say anything   about default icon or default pop-up so 
+hopefully that's okay let's go here all   oops removed and let's try this again no errors see and there's a will there's a way 
+let's keep on moving forward now now if we go   into our extensions icon we will see here we have 
+our exchange exchange rates and use this this is   super cool enter an amount I'm going to enter in 
+a hundred dollars and let and convert currency okay here's what we did I it's the naming 
+convention which is terrible so I have   result here and then I also have const result up 
+top so this needs to be something different so   let's call this result price and this is used 
+right here result price this result is still here we don't need this perfect all right 
+let's try this one more time here to remove two extensions exchange rates 100 Canadian okay we are back and I figured out what was 
+wrong you can see I have a bunch of console   logs essentially what was happening is we actually 
+need to wrap this entire file in an event listener   for when the index HTML file has already loaded so 
+we were loading our Javascript file before we were   loading our index index HTML and therefore all 
+our get Elements by ID were null so I will share   that code with you in a second here but before I 
+go up there to show you that I also want to share   with you that I update the code in a few places 
+so I actually renamed this to result price and I   think we we spoke about this result price which 
+is once again here and then as well the data is   not just rate it's exchange rate this goes to I 
+feel like I'm being The Stereotype of read the   freaking documentation all right so now I was 
+just testing it out by going into dragging the   index.html file into Chrome here let's do one more 
+time before we go 100 convert from Canadian to US   and we can see also isn't that not insane 
+100 I'm Canadian I go to the us all the   time if I buy something that's worth 
+100 Canadian I had to pay 135. which   is mind-blowing mind-blowing let's go back 
+over to the extensions and we can just refresh   exchange rates and we can see now let's 
+try this here as well Canadian convert   and there we go we did it this is so cool this 
+was so fun and simple now let's get into quickly   how to publish this how to actually publish this 
+okay here are the steps for publishing this on the   Chrome extension site so the first thing you're 
+going to do is zip your project up and make sure   this contains all the files that we just created 
+including your icon.png then you're going to go   to this URL Here sign into your Google account 
+click on the add new item and of course read   through the agreement and if you choose to accept 
+the developer's agreement essentially then you can   upload your zip containing all of your files and 
+then they require you to send in some screenshots   of your Chrome extension and I think this is so 
+they can check it out as well so then at this   point you can either make your Chrome extension 
+free or a paid version and then essentially click   on publish changes at this point you have to wait 
+till the review process is done which can take a   day or a few days and once it's done you will get 
+notified if your Chrome extension is published let   me know down in the comments if you do this and 
+what you end up publishing I definitely want to   check them out maybe I'll do some shout outs of 
+extensions you make in future videos that would   be fun yeah let me know share with me the Chrome 
+extensions you make and I'll share with them in   some future videos I think that'd be really fun 
+also I link this code down below so if you want   to follow along through cloning this repository 
+go ahead and do so hit that subscribe button   and let me know in the comments what what should 
+we build next I love building and learning with   you building failing and just kind of figuring 
+it out as we go I think it's a really fun way   to not be so buttoned up and perfect and just 
+make mistakes along the way and learn together   all right have a wonderful 
+day I'll see you all soon

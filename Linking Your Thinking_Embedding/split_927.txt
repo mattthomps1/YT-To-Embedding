@@ -1,0 +1,17 @@
+i'll be straight with you for the past several 
+months i could care less about the graph you   in in linked networking uh note-taking apps i mean 
+to me it was just kind of a gravy on top the icing   on the cake right like how are we really using the 
+graph view but in version 0.9.0 the game is subtly   changed once again the developers have added a lot 
+of interesting features and they do two things for   me that i've already noticed they increase the 
+level of joy that i have with working in obsidian   working with my notes making new notes and number 
+two it increases the level of of frictionless   creativity so in the following demo i want to 
+show you what i found so far and this is just   hot off the press so what i found so far that has 
+improved my workflow two major things coming up   okay so let's hop into this new graph so here's 
+the main overview first thing i'm going to do i'll   collapse this side just to give us some more space 
+let me open up graph view it loads i'm collapsing   the left hand side as well and so here's my graph 
+i'm just going to center it maybe zoom in a little   bit new features check it out upper left filters 
+and layout there's a lot going on here so let's   just break it down let's play with each option 
+and then we're going to get into the two workflows   that i've already that i can already see these two 
+workflows are going to help my creative process   i'm very excited about that so hey let's look 
+we have a search window where we can search for   any term any term so let's just blinking 
+i know this will come up a lot i hit enter 

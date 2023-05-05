@@ -1,0 +1,18 @@
+s 
+is where you can find your own and once again this   is completely free this is why I wanted to use 
+this in this example because it's not like you   have to pay a fee or anything to use it it's just 
+a free fun API okay so let's grab our API key okay   one thing too before we go back into our code we 
+need to grab our API URL so you can see here I   love how they you know we're in Python right now 
+but whatever you're in um for the tab but the URL   so we're going to grab this up until your Euro 
+because we also made that you can select based on   a few different options for what currency you want 
+to convert to us so let's copy this as well copy   go back into our code there we go and then we can 
+make an environment file for this or you can just   input it well you should make it an Artful file 
+for this actually let's go ahead and do just that   this is what happens it's too early in 
+the morning to hear that noise oh my gosh   okay let's get this Chrome extension going so 
+for this we open up Google Chrome of course and   we're going to go to Chrome extension 
+Chrome extension it's perfect okay   so you can see here um I just have two 
+extensions right now you can see here make sure   your developer mode is toggled on and then go to 
+load unpacked there you can see here we have our   Chrome extension or whatever folder you put your 
+code and made this project into and let's select   okay there we go let's see is 
+there some errors here description manifest version 2 is appreciated well 
+what won't you be using let's go here manifest V3 all right Chrome will no longe

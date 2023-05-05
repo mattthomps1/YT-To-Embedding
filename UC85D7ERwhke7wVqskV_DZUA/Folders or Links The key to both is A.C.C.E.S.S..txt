@@ -1,0 +1,250 @@
+in humanity's knowledge management efforts the 
+ongoing battle is always between order and chaos   the most common part of that battlefield is 
+between knowledge and action on the side of   knowledge we want to make sense of the world 
+so we can live a life that we can be proud of   in that sense we are the philosophers but then 
+on the other side of action we want to get things   done so we can get the things that we want on 
+this side too much time thinking and we never   actually move in the world our thoughts and our 
+bodies become fragile the thoughts become fragile   because they're never tested against reality and 
+yet too much time striving and we easily lose   track of what matters our hearts and souls become 
+fragile as the amount of information we consume   daily has exploded exponentially it has opened 
+up a new battlefield between folders and links   now all these battles should not be to the 
+death no they should be tensions that we balance   so how do we balance these ongoing tensions in 
+our efforts to manage knowledge in the digital age   what if there was a way to balance the efficient 
+order of folders with the creative chaos of links   what if there was a way to balance our love 
+of wisdom with our desire for progress well   i'm excited to offer one possible solution called 
+access a folder structure built from the ground up   to work with folders and links together not 
+as an afterthought and not as a retro fit   but as a fundamental part of the design process 
+i believe the access folder structure will   get you closer to having a holistic system to 
+manage knowledge and action in the digital age   but first let's look at how we got 
+here starting with microsoft word   okay check out this map before i show you where 
+microsoft word is on it let's talk about what   we're looking at this is the emphasis of knowledge 
+management systems so those two tensions that we   were talking about between knowledge and action 
+that's where they are on the map check them out   knowledge is at the top of the y-axis and then 
+action is at the bottom and this is a tension   that we have to manage and then same thing with 
+the x-axis over on the left we see folders over on   the right we see links this is another tension in 
+the modern digital age that we're trying to figure   out how to manage and when it comes to knowledge 
+and action that management that tension that   we felt it has has gone up for as long as we've 
+possibly been alive as homo sapiens so it's really   interesting to check out that tension in the 
+digital age and how that relates to folders and   links so let's hop in number one microsoft word 
+came on the scene and think about what microsoft   word is doing it is a folder-based document 
+system and it's mainly to manage knowledge   that's the intention behind it not many people are 
+using microsoft word to get things done they're   not using microsoft word to link out to a million 
+different documents that's just not what happens   so word goes up here what's next wikipedia so at 
+the start of the 21st century wikipedia bursts   onto the scene and what do we have with it we have 
+online links and what is wikipedia trying to do   manage knowledge so it is sort of in in some 
+ways it's the opposite of microsoft word it's not   personal it's public it's all about knowledge just 
+like word except instead of folders it is relying   on links are we getting a sense of how the map 
+is working let's keep going then something else   that was coming onto the scene around the same 
+window of time was gtd which stands for getting   things done the seminal work by david allen to 
+help people manage information for the purposes   of getting things done so guess what that's all 
+about action so we can see that gtd is far down   here on action now as far as folders versus 
+links the system itself is a little bit more   structured towards folders but that doesn't mean 
+that some people haven't tried to retrofit it to   work with tags and links and other things so for 
+our purposes gtd is right here on the map of where   knowledge management systems are emphasizing their 
+importance now next up we have the zeddle casting   coming on the scene very strong in the past decade 
+where does that land up on our map and we can see   zetta locastin is all about the link it is all 
+about the links that is the emphasis when you're   connecting ideas together in a zl cast in now you 
+can see though the cloud covers a little bit of   knowledge and a little bit of action and it's kind 
+of in between both but it's definitely a little   bit more on the knowledge side although when you 
+are using the zettocast in for outputs you get a   little bit more of that action-oriented side of 
+things okay and then we had a splash of three   different systems all around the same time and 
+that would be johnnydecimal the parasystem and ppv   i don't have time to go into all the details here 
+but i'll say johnnydecimal is very folder oriented   and it's a little bit more about knowledge 
+although you can still do some action with it   para is in many ways the spiritual successor of 
+gtd uh allowing us to take those concepts and   apply them and not just for action-based stuff but 
+also for knowledge based stuff but it is designed   it was designed to work with folders doesn't mean 
+that it can't be retrofitted but that's definitely   where the emphasis was and then we have ppv i'll 
+have links to all these below in the description   ppv is something that works with notion and 
+databases databases are really hard to show   on this map but they are definitely closer 
+to links and the dynamic aspects of linking   information than they are to folders so i put ppv 
+here and really it's both in action and you can't   tell with the clouds here but it's going 
+all the way up to knowledge as well   what are we missing we are missing something 
+to unify these concepts and that is access   the folder structure and that's what i'm about 
+to introduce to you the access folder structure   balances knowledge and action folders and links 
+into a dynamic hybrid system that was designed   from the ground up to give you the best of all of 
+these worlds and to manage these ongoing tensions   in knowledge management okay i hope that got you 
+thinking about what is actually in the access   folder structure and i just want to say this 
+this map is meant to stimulate thought into what   is actually going on with knowledge management in 
+the digital age if you are better informed to how   all these different systems are working then 
+you'll know the ones that will work best for   you and for what you are trying to accomplish so 
+without further ado let's jump into access itself   introducing access a folder structure for 
+easy access to your world of knowledge   what does the folder structure look like here we 
+go you have a for atlas c for calendar c for cards   e for extra s for sources and s for spaces let's 
+dive into each one so you can see how it applies   number one atlas when you work with linked 
+knowledge you need something new you need higher   order notes what do those notes look like they 
+are maps of content there are dashboards overviews   logs data scopes these type of notes that sit 
+on top of the rest of your notes and give you a   bird's eye view into all of your knowledge that is 
+your map of maps that is your atlas what does it   help you do helps you gather develop and navigate 
+your ideas successfully and what lives here maps   to your world of knowledge going to the next one 
+calendar it turns out when we remember things   we use location maps but we also use time and the 
+way that we use time with knowledge management is   through the calendar folder and the notes we save 
+here it helps us log track and review what matters   what lives here is your time-based information 
+so some examples that you'll see are daily notes   meetings plans reviews and journals the next 
+folder cards now cards might sound kind of strange   but in the world of linked notes when you're 
+trying to save ideas into their own container   of thought a note you'll have a lot of different 
+cards and what cards allow you to do is just   a way to say note but it gives 
+it a little bit more flexibility   cards help you build and connect your ideas so 
+what goes in ideas insights and other things   what are some examples ideas things you could 
+have a people cards folder section subfolder   concepts statements if you are a cook recipes if 
+you're into exercise something with a physical   exercises you can make any sort of card subfolder 
+as you need to but all these bits of knowledge   that you gather over your lifetime they go into 
+the cards folder next up extras extras covers   everything in between it helps you keep your 
+support material handy what goes in support   material like attachments graphics images manuals 
+templates hand drawings whatever it is extras can   handle that next up we have sources this helps you 
+build your external library of ideas so something   that we're coming to terms with in the digital age 
+is that there's this explosion of knowledge and   there's also what we think about internally and we 
+don't want to confuse the two all the time so when   we look at cards that's more of our place where 
+we're creating our own little nuggets of knowledge   that we can link to each other effectively but 
+then in sources we can save and keep outside   sources and make sure that they're organized in 
+a way that we can find quickly through folders   just as easily as we can find through links so 
+the things that you encounter are what go in here   and some examples that you encounter that 
+are sources are articles books podcasts   research papers courses talks movies and 
+tv shows that you want to take notes on and   videos and much more and last i'm very excited 
+for this one spaces what are spaces spaces are any   big spaces in your life and you should probably 
+have two maybe three spaces at any given time   in your life so you're always going to have your 
+life space the stuff that you have to take care   of in your personal life and you'll also have 
+one that's work now depending on how ambitious   rambunctious or how much time you have you might 
+also have a third space you could call that your   hobby space maybe it's something else maybe it's 
+your side hustle who knows so you'll at least have   two spaces and in each space in your life in this 
+folder structure you deploy maps and so that is m   a p s maps so within the life folder you have four 
+subfolders for your maps of content those are mocs   areas projects and support notes we're going 
+to cover this in depth in the next section so   you can see how it actually tangibly can work for 
+you so remember the tension we were talking about   between folders and links spaces and maps are part 
+of that solution because anytime you have a new   space in your life all you have to do is deploy a 
+new set of maps so if you have one for hobbies you   just deploy a new set of maps and you're off to 
+the races and that is where you're managing your   actions so look at the access folder structure 
+that vertical structure and do you remember that   on our map we had knowledge at the top and action 
+at the bottom and if you look at the access folder   structure it is mimicking that sense our knowledge 
+comes when we have our higher order maps and our   dashboards we take some daily notes we have 
+our knowledge cards and goes all the way to   the bottom two spaces and in spaces that is where 
+all the action happens knowledge to action that is   the access folder structure so to dive deeper 
+into the access folder structure i'm sharing   two lessons from the light kit tutorial videos 
+the light kit is a free downloadable starter   kit to get you exploring ways to manage your 
+digital notes it's been downloaded over 33 000   times probably more by the time you watch this 
+and the download link is in the description below   try it out experiment learn by doing and discover 
+the power of linking your thinking okay and now   to the light kit version of nick to show 
+you the access folder structure in action   take it away nick let's introduce access 
+what is access is an acronym that stands   for atlas calendar cards extras sources and 
+spaces access is the solution to tension   that has been coming in three different dimensions 
+when it comes to knowledge management the first   tension is between knowledge itself and action 
+so what are you using your knowledge for   well it's going to be some mixture of these two 
+things knowledge for the sake of knowledge itself   which i find is a worthy pursuit but often 
+we also want to accomplish things in the real   world that lead to real outcomes real results and 
+allows us to survive in a world where you have to   provide value and get compensated for it 
+so how do we balance the tension between   ideas and projects that's what's happening here 
+what's another tension folders versus links   we've had folders forever we're relatively 
+new with links how do we manage that tension   and then the third tension that we're trying to 
+manage is structure which folders provide a lot   of versus the chaos which sometimes we can feel 
+in a environment completely filled with links   the intention around the access folder structure 
+is that we get the best of all these worlds we can   manage knowledge just as effectively as action 
+we can use folders and the strengths that they   provide as well as links and the strengths that 
+they provide we can have both structure when we   want it and the chaos because the chaos is where 
+some of that beautiful bottom-up energy comes from   where we start generating really unique insights 
+and we can really tap into our creative selves   how does that accomplish it well let's kind 
+of twirl these down the first place is called   encounters because generally speaking we encounter 
+things and then we express ourselves in between   we do something called thinking but mainly 
+it's encountering and expressing and that's a   feedback loop and we just go back and forth 
+between those two things so the first folder   after we encounter something this is where we can 
+put new ideas by the way and then we have a place   to access some of those maps of content some of 
+them are more of the data scopes like this essay   so this only has one link home but it has 
+all these saved searches this essay note is   actually pulling content in a bunch of queries 
+saved searches data scopes all the same thing   and we can see different essays so that's 
+pretty interesting what else scopes these are   very specific data scopes and we looked at a few 
+already there are some that i'll let you discover   and so the atlas folder is your top down 
+view it's very important it's up high too   in the folder structure to to allow you to have 
+that visual sense that we're starting up high   and then we're going down into something 
+for those knowledge management enthusiasts   we cannot downplay the importance of time-based 
+understanding temporal context how else can i   say this well just daily notes we understand 
+and we can remember things through when they   happened that was when i was in high 
+school that was when i was a little kid   that was when i lived in this town and from that 
+we can start to understand when we had an idea and   we can tether knowledge that way so that happens 
+in the calendar i won't go into that for now   cards cards is the great catch-all this is where 
+your zettles go if you're familiar with that term   these are where your atomic notes go and so much 
+more so you can have people cards you could have   concept cards you could really really expand 
+that into all sorts of sub-folders or you don't   have to have any sub-folders that's the beauty of 
+links it just depends how many folders you want   what is the appropriate amount of structure for 
+you because in this digital age of linked notes   folders can still serve structuring purposes but 
+we still have the freedom to whenever we want make   a link so we get the best of both worlds extras 
+is where the extra stuff goes media templates pdfs   files documents sources is where all that outside 
+stuff goes the outside world sources can go here   i could twirl down books and see a few books 
+here i encourage you to explore all of these   then we have spaces very excited for spaces before 
+i go into spaces i want to make sure i've covered   everything here i always want to reiterate that 
+access what separates the access folder structure   from a standard folder setup is that it's this 
+unique hybrid that takes into account links into   a folder system it's a it's a beautiful thing i'm 
+very excited to to have more people understand   that we can have the best of both worlds it's 
+a folder-based pcam framework that also uses   link based maps of content so we can 
+dynamically connect notes across folders   whoa that just blows my mind so that is the 
+access folder structure i would like you to   spend some time twirling these things down seeing 
+all sorts of hidden gems you don't need folders   you can get by without but i find that i do 
+like a few and i think you might be the same way   yes links are exciting but we don't have 
+to throw the baby out with the bathwater   with that in mind i want to talk about very next 
+lesson the next lesson is about managing projects   in a link based system using the spaces 
+folder and more specifically how we can deploy   maps and that is for our final lesson 
+very excited to see you in that one   because we're going to see how we can manage 
+action in the same area in the same pkm system   as knowledge and we are introducing spaces so 
+if i twirl down the spaces folder i'm going to   make this even bigger you can see that there are 
+two spaces within this folder life and work now   for me work i'd use an acronym called lyt for 
+linking your thinking but what do you do for   work can you use it as an acronym there was a 
+time where i had three spaces all at once i had   my life space we all had that one i also had 
+my entertainment workspace when i was editing   and then i also had this one that was starting 
+to become something the linking your thinking   space so you can have hobby spaces with 
+workspaces with life spaces and that's kind   of the flexibility the beauty of a space 
+you might be asking yourself right now   well is a space just an area is it just like 
+a an area for projects what is a space exactly   well they're for any big area in your life 
+and so i want to talk about that a little bit   because when i twirl one down i think it'll make 
+a little bit more sense so i'm going to twirl down   the life space and here you can see how in each 
+space we deploy maps and maps is an acronym   for mlcs areas projects and support notes so why 
+not go back to our favorite note home note i want   you to see something here in our home note there's 
+a project section so i can click on projects or i   can plan and prioritize my work life which is the 
+light space for me or i can plan and prioritize   my personal life now let's jump into the life 
+my life space and here's what i want you to see   a p s maps this allows me a way to not just have 
+areas to not just have projects but to incorporate   link-based knowledge and how do we do that with 
+mlcs so this is the hybrid system this is how   we combine folders with links it's a very elegant 
+very simple solution so a good example this is you   can see my mlcs can take me to finances they can 
+take me to health and then when i want to go into   areas i can scroll back scroll down a little bit 
+further and jump into areas to plan and review   to work on financial notes and to work on health 
+related notes now these are not notes i'm going   to be showing you but you can see what you can do 
+here and then last we can go and jump into my life   projects now i also don't have this one available 
+to you but you can see what that looks like   i also give you a few other ideas that you can 
+play around with for life purposes this won't   mean much to you it means a lot to people who go 
+through the light workshop but let's check out   the last one which is going to be the light space 
+kit so now if you are managing some sort of small   business these are maybe some areas that you might 
+consider first you might want some maps of content   for big areas content creation for whatever the 
+the big thing is that you do for community related   efforts team management technical administration 
+and the financials for the business these are   just some basic things you might have some other 
+ones what about areas well things related to the   light kit i can put notes in a specific area 
+same thing with the workshop now let's see   what that actually looks like i don't know how 
+much i should actually show everyone here but   the one i do show is the light notes newsletter 
+i think i have a few examples in here   so it's kind of funny because i have some email 
+autoresponders here saying thank you for opting   in and things like that but amongst all of that 
+stuff we also have the light notes themselves and   they're all contained in a single folder and i can 
+move that folder around if i wanted to and where   does that folder live within spaces within the 
+workspace and with the areas within the workspace   pretty cool if you ask me and we can have that for 
+and i do for my flight school thing for my light   kit workshops light events those are my areas 
+and then we also have projects i don't include   this in the light kit but i think you can kind of 
+get the idea about what would go into projects so   that is the beauty now if we go all the way back 
+let me twirl this one closed again i just want you   to know what's possible here yeah project just an 
+example folder here nothing's inside let's close   spaces and there we go back to the walkthrough 
+for every space that's big and important and   distinct in your life all you have to do is deploy 
+maps mocs areas projects and support notes and it   works beautifully as a hybrid system between 
+folders and links and it ties it all together order versus chaos that's our constant tension 
+even since ancient times these two forces stood   at odds with each other apollo versus dionysus the 
+tension is at the heart of comedy and tragedy and   often times the difference is razor thin the 
+crease of a smile the glint in the eye if we   see it we laugh if we don't we cry and if the 
+tension is ever so right we might even do both   this same tension exists throughout our living 
+days it's the tension between streets paved on   a grid and untamed vines there's no right way it's 
+the balance that we seek and this tension doesn't   just exist in the real physical world it also 
+exists in the world of ideas since before the days   hamlet experienced paralysis by analysis we 
+have always had the same troubles of balancing   knowledge and action and it's even worse in 
+the digital age and now that the common person   you and i have the ability to digitally link 
+ideas together another plane of tension has   opened up between folders and links and that's why 
+when it comes to managing your digital knowledge   the access folder structure finds the balance so 
+give it a try it's actually meant to be broken and   reshaped by you because one of the fundamental 
+truths of pkm personal knowledge management is   that it's personal i wish you good fortune in your 
+efforts to manage the things that matter to you   i truly hope to help you get a grip on managing 
+the information that is important to you   because the world of information is crazy but 
+managing things that resonate with you can be fun   and when it is suddenly the world is so much more 
+interesting so if you haven't already download the   free light kit below open it up as a new vault in 
+obsidian and use it as a playground to run around   in experiment learn by doing and see what works 
+best for you hey if this video made you think   whether you agree or not please like subscribe and 
+comment below and until next time stay connected you

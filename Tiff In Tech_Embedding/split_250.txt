@@ -1,0 +1,19 @@
+u're working on large teams with multiple repositories
+working on the front end back end and want to understand everything also too one thing
+I love about swim is you can actually integrate them into your IDE and you can see here I
+have swim on screen and I need to connect my repository but I'll actually show you a
+diagram that they have of what you can really do with swim so you can see here docs sit
+next to your code which is beyond handy I can't even tell you I mean you know and also
+too there's Advanced markdown editor you can actually be editing the docs right within
+your IDE so you can essentially just stay working in vs code or whatever IDE you are
+working in and you don't have to go back and forth which as we know if we do have to go
+back and forth we oftentimes just neglect the documentation all right so I linked swim
+down below so make sure to go play around with it check it out this not only I think
+is good for those of you who or many of you who are working on a team at a large company
+of course this is beyond useful for that but I think it's also useful if you are someone
+who is just starting out in your career or earlier on it really will set you apart having
+this documentation included in your code showing that you actually understand documentation
+you care about it and you're using this really Advanced tool to build the most beautiful
+and functional documentation all right it is if you see outside right now it is snowing
+like no tomorrow so I feel like it's end of the work day for me I need to go to relax
+let me know what you think of swim I linked it down b

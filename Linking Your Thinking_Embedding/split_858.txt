@@ -1,0 +1,18 @@
+for many people block reference is a killer 
+feature a superpower it's what allows bruce banner   to become the incredible hulk but is that always 
+a good thing sometimes it is sometimes it's not   but before i get into my hot take on 
+block references let's explore this   exciting new feature in obsidian just as a 
+reminder i'm nick milo and this is linking   your thinking where we talk about the why and 
+how of making meaningful notes let's hop in   i have made a new note with today's date block 
+ref test i've made a couple sentences this is   me testing out block reference let's talk about 
+the mental squeeze point so that's another note   i know there's a nice paragraph block that i can 
+use here so let's start with an embedded reference   to the main block of the note so starting from 
+scratch even though it's below i'm just going to   explode it with an exclamation point bracket 
+bracket so that's the notation then i'll do mental   okay so it auto completed i'm going to arrow 
+down to it so now with it kind of highlighted   in the arrow down i can hit the shift six block 
+references like you know it's a little bit more   to take in so just keep that in mind this is an 
+advanced use you certainly don't need to use it so   i can hit shift six which will insert the carrot 
+now it's looking at all the blocks in that note   i'm going to choose this main paragraph note 
+that i want to use and let's see what happens   cool so the carrot changes to a hashtag and it 
+gives it this hex identifier so i really don't   need this for reference anymore now if i go into 
+my preview m

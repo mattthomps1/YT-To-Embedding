@@ -1,0 +1,17 @@
+daily note and now we see just   the two headers are referenced so hopefully you're 
+getting a little bit of sen of a sense of how to   link out these different levels of reference you 
+can link pages which is just that or we can go   to the header level and link to one of these or 
+now we can go to the block level so it gives us   this great flexibility in what we can do almost 
+too much sometimes but it does give us flexibility   in this case i'm going to block reference what 
+giovanni said about how he uses obsidian it   autocompletes to hashtag one because remember i 
+put in the carrot one so now if we go back to this   hit preview and we have the quote right here we 
+can link back we can click this button and boom   we're looking exactly at what was referenced a 
+couple extra notes on block reference we can do   global searches now so if you hit let's see 
+anywhere let's go here and i go bracket bracket   instead of just hitting the caret once which 
+is only searching this one file if i hit it   again now i'm searching all the blocks in 
+my library which you know that's insane   but you can do it if you know exactly what you're 
+looking for and same thing now with headers so we   actually have the header functionality as well 
+and i can search all my headers that works a   little bit better for me just another interesting 
+note in version 0.9.5 we can now search headers   outside of block reference there are two things 
+in 0.9.5 that are also worth mentioning which   is now there's a command to if you're someone 
+who uses a lot of uh checklists you know you   have that

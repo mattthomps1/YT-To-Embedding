@@ -1,0 +1,17 @@
+ in it's going really fast now   um or more specifically our engineering team 
+has built stack beat Tech beat has built is   you can take any content source so whether it's 
+apis whether it's a headless CMS database and   utilize CSI I haven't said it out loud too much 
+CSI so I'm still getting like comfortable with   that I try to avoid it yeah but you can utilize 
+you can then work with CSI and integrate it into   to your workflow so what this does is it allows 
+you to um connect to some really cool stuff one   being figma which are solutions engineer Joe uh 
+connected to figma's API and I'm going to pass   it on to you from here I'm just like putting you 
+on spot with it but it's pretty amazing yeah so   figma was like I feel like an like not something 
+that anyone had really in mind when buildings CSI   uh I've been thinking about like integration 
+with figma from like the first time I met   um our Founders ohadendan where they introduced 
+stacked me to me I was like all right so this is   kind of like a side Builder but way more Technical 
+and like everything is react based react component   so I feel like there's something there that can 
+click at some point yeah and I've tried to pitch   this a few times and I feel like we didn't 
+really feel the that it had enough substance   until uh CSI showed up and really opened up the 
+ability to integrate with like any content Source   any framework whatever you throw at it we can 
+we can integrate with it at stack bit which is   um kind of like an man I'm definitely gonna say 
+something that Simon our CTO is gonna hate later 

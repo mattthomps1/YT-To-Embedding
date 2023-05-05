@@ -1,0 +1,160 @@
+did you know that Tech employees can make up to 85 
+percent more than employees in other Industries I   know when I first heard the stat I was pretty much 
+mind blown now let's back up a sec the stat also   is dependent on different locations so if you are 
+in you know middle of America versus if you are   in San Francisco this debt will vary and it will 
+change but I still think it's very interesting   to think about in this video we are going to be 
+speaking about some of the top highest paying   tech jobs for 2023 and I thought this was a 
+very interesting video to film and research   about because Tech right now no surprise to many 
+of us is in a very strange Place let's say strange   Place meaning there's a lot of hiring freezes 
+going on there's a lot of layoffs going on so   why would you even consider pursuing a career in 
+Tech a lot of people are asking and then there's   others who are already in Tech wondering is my 
+job is my role valuable enough to the company   that they will keep me and this got me thinking 
+what is the research saying what are the stats   saying regarding what are the highest demand 
+jobs or roles in Tech and does this align to for   me personally where I'm at and I'm sure if you're 
+watching this video you are curious as to digital   line with where you're at now I want to know I'm 
+going to go through the top in demand highest   paying jobs in tech for 2023 but there is still 
+some that I'm not going to list that of course   are still high in demand there's I mean this video 
+can only be so long but I just wanted to note that   foreign there is no surprise here this made 
+on the list which is data scientist in simple   terms what exactly does a data scientist do 
+a data scientist's job is to analyze data for   actionable insights so specific tasks that include 
+identifying data analytics problems that offer the   greatest opportunities to the organization now 
+the next question you might be asking is well   what are some skills and requirements to become a 
+data scientist first off I want to say for a lot   of these rules you don't need to go back to school 
+to get a degree to get a master's but rather a lot   of them can be through self-study through going to 
+different programs so I really wanted to highlight   that because I think it's one of the coolest 
+things about tech and what it has to offer is   there are so many ways to get into the industry so 
+some skills and requirements for a data scientist   often include the knowledge of R python or other 
+database programming languages you need to have   experience or an understanding at least in 
+statistical analysis and pattern recognition   so what are some primary duties well actually I 
+was speaking to a data scientist in my talk Tech   with Tiff series and one thing that I really love 
+she highlighted is that it's not just she said it   really well she's like I don't just sit there and 
+look at data or analyze data or code all day but   I actually have to talk to the stakeholders I have 
+to present this data to them as well so it's a job   that I think a lot of people would find surprising 
+to say it's not just you speaking to the computer   but you also are speaking to stakeholders as well 
+which I really like so it's kind of The Best of   Both Worlds you still get to work on your soft 
+skills and improve those while also working on   your technical skills so primary duties include 
+analyzing sorting and sanitizing data to yield   actionable actionable I can't speak today sorry 
+it's okay to you actionable or meaningful results   also find better ways of collecting data to get 
+meaningful information and create reports that   are human friendly and readable kind of going 
+back to presenting this to the stakeholders now   what let's get to the most important part how much 
+does a data scientist make now I just want to give   a little side note here these numbers this total 
+compensation that I am doing is just at its total   compensation so it's base it's Equity it's stock 
+Etc and I'm referencing them from levels FYI I'll   link it down below they have a ton of different 
+roles I'm on there right now and based from a   ton of different locations levels of your career 
+Etc so for data scientists the medium this means   if you're taking into account the Juniors as well 
+the very high seniors as well but on average it's   around 125 000. so you can see how as this 
+is the medium as you grow in your career it   will go quite higher than this and also too as 
+you're starting on your career you can still   expect a great salary to begin with now next 
+on the list is cloud architect and once again   I'm sure this is not surprising to many of you 
+a cloud architect puts an organization's cloud   computing strategy into action so they come up 
+with a strategy and then also to implement it   okay I'm on vacation as you know and it's getting 
+a little noisy outside let's go back inside okay   this is what happens when you go on vacation and 
+decide to continue to work you gotta get creative   especially when it comes to filming but anyways 
+next on the list as I was mentioning is cloud   architect a cloud architect designs optimizes 
+and analyzes Cloud networks the stats for cloud   and the jobs that are in demand for cloud 
+is skyrocketing let me actually check it out   because I'm not sure the exact stats Cloud across 
+just the industry itself because I was thinking   of specializing in the cloud at one point and I 
+kind of still am I think it's really interesting um cloud services is to is forecast to grow 
+20 in 2022 yeah the stats around it is just   crazy like it's continuing to grow and grow so 
+although I'm speaking about Cloud architect I   think any job within the cloud is such a 
+great way to go it's so interesting and   I always say that I always think to myself that 
+it would be either Cloud for me or web3 and maybe   you know those two intertwined but I think it's 
+interesting just to see those two industries   really growing okay back to Cloud architect as 
+we were saying some skills and requirements for   a cloud architect include extensive knowledge of 
+cloud infrastructure and Cloud architecture you   also have to be competent in programming knowing 
+python JavaScript and you also have to have   knowledge in Cloud infrastructures platforms and 
+applications also for this role in the architect   role you have to have soft skills in communication 
+people skills leadership skills because you will   be working with clients as well so some duties and 
+this can vary based on company include evaluating   an organization's Cloud network monitoring Cloud 
+security and privacy and proactively reacting to   potential threats and creating and maintaining 
+a comprehensive Cloud strategy now when I said   you might be working with clients because 
+sometimes especially in a Consulting world   you will be Consulting other businesses and their 
+Cloud strategy or their how their architecture   looks so it can go both ways as well okay let's 
+get to the good part the money part for this one   it's not on levels FYI so I actually just typed 
+it in and found from salary.com so it's a range   in the US from 143 000 to 165 000. so I think 
+that number definitely can go up especially when   you start talking about total compensation as 
+well because I believe this is just salary just   based salary yeah I believe this is base salary 
+uh but yeah so it does definitely go up when you   start talking about equity and stocks as well 
+next on the list is blockchain engineer and I'm   sure you've seen news articles on this or read 
+articles or blog posts online on just how well   paid these blockchain Engineers are and how in 
+demand they are now my next thing I get asked a   lot is well Tiff they're so high in demand how 
+do I become one and I had this question too as   a developer as an engineer how do you get into 
+the blockchain world and the good news is if   you're already a developer or software engineer 
+the path to becoming a blockchain engineer is   much more there's less hurdles you will have to 
+overcome versus if you are just starting out and   that is because you already know programming you 
+think like a programmer you are a programmer so in   order to learn uh to become a blockchain developer 
+you really just need to level up your skills focus   in on that area which I think is really exciting 
+uh because it's not something that you have to   go back to school for for another four years 
+or anything like that and even if you aren't   a developer already but you want to become one it 
+definitely is a great path that you can focus on   as well also as a side note if you are looking to 
+learn more about web3 and building web 3 I am this   isn't a sponsored anything but I am a huge fan 
+of buildspace.so and it just has I'll put up on   screen here because it has some amazing resources 
+to build different products and also too it has   a huge community so that is just a little side 
+tip from me do you okay let's talk about salary   for blockchain engineers this one is a tough one 
+because it still is pretty new that I find there   is so much when I was researching this there's 
+so much research out there that varies so when   I was speaking to some friends who are in the 
+industry who focus on blockchain engineering   they kind of helped me come up with an accurate or 
+more so accurate uh range so what I did was when I   was searching blockchain engineer initially I 
+came across this article on hired.com and the   salaries of candidates typically range from on the 
+low side 150 000 to on the high side 200 000. so   the medium would be around 180 000 and from what 
+I have spoken to in the industry this is pretty   accurate so that's a really high paying job if you 
+ask me and you get to build really cool Tech next   on the list is devops engineer devops engineer is 
+something a role that I feel like is often hidden   or within the company isn't spoke about as much 
+as it should be this is like the star of the show   in the back end and running so many things making 
+sure everything's functioning okay yet it doesn't   get the recognition in my opinion that it really 
+deserves so if you are a devops engineer you are   the star of the show in my opinion okay but what 
+exactly is a devops engineer for those of you who   might not be as familiar with it essentially a 
+devops engineer is kind of what I just summed   it up to be they are responsible to ensure smooth 
+operation for the company's I.T infrastructure so   they work with developers to deploy and manage 
+code changes operation staff to ensure systems   are up and running smoothly they work with a 
+few different departments but at the end of   the day their priority is to make everything 
+is smooth it's peaceful and to be successful   in a devops career you not only need to have 
+a strong understanding of development but also   to operational processes some of the skills for 
+devops engineer they need coding they also need   to be able to write scripts and knowing how 
+to set up and run a network git and Jenkins   now the average yearly salary we have this on 
+levels FYI let's look it up for devops okay so   devops can make a lot of money I have one here 
+after eight years in the industry at instacart   apparently this is according to levels fii 
+that the total comp is 250 000 U.S which that's um okay so more accurately though actually that 
+is accurate but what I mean is the medium would   be closer to let's see here for a median salary 
+not total compensation for devops it's around 140   000 us per year last but definitely not least 
+on the list is cyber security and this I'm going   to speak about a cyber security engineer but I 
+really want to highlight cyber security as a whole   it needs so much more people in the industry 
+so even if you are not an engineer this in part   this uh niche in the industry of cyber security 
+is so in demand it's continuing to grow there's   no it's not going to slow down and you don't need 
+to be an engineer to work in cyber security they   need product managers they need everything that 
+everyone else does in the tech industry they need   but you just need to have a strong understanding 
+of what cyber security is and the good thing is   that's all available online that you can take 
+courses you can read up on it but it's a very   growing industry now let's get back to cyber 
+security engineer cyber security Engineers are   in charge of security functions that can include 
+designing developing and implementing High   securely Network Solutions this also sometimes 
+can include good hacking which essentially is you   are hacking into your own company's applications 
+to see where the vulnerabilities lie it's a very   interesting career and I had a good friend 
+of mine who is a cyber security engineer and   getting to hear her stories not only about 
+the the apps she was testing at work too   but external ones and what's kind of going on 
+behind the scenes it was really exciting but   it also is very terrifying just how vulnerable 
+I think a lot of applications are some other   responsibilities for cyber security Engineers 
+can include penetration testing so this means   evaluating an organization's computer networks 
+applications and data systems for vulnerability   so pretty much what I just said also to network 
+maintenance so you might need to install test and   configure some networks and I.T system security 
+so spending time defining protocols and installing   and configuring security devices okay that's a 
+lot so you can see it's a very diverse job in   the sense that you get to work on a lot of very 
+interesting problems now what is with such an   important uh job what is the salary for this okay 
+for this I went on ZipRecruiter and I can see here   they say for salary not total compensation and I 
+always really highlight those differences because   it's easy to get the two uh mixed up when you 
+were speaking to people or speaking to friends   or whoever you're speaking to and I want to 
+really highlight this because a lot of times if   someone says oh I make 250 000 a year you need 
+to clarify okay that's great but is that total   comp or is that base salary because that's a big 
+difference so that's why I always try and do that   in these videos is ensure I am clarifying what 
+I'm speaking to so this is for base salary and   the average national average is around 120 000 U.S 
+so this definitely can go up extremely as you grow   in your cyber security career but also too you are 
+starting with a very not 120 000 typically but you   are starting with a very good salary as well okay 
+those are some of the top in-demand jobs or fields   in the tech industry that are going to continue to 
+really grow in 2023 and I'm really excited to see   where they go because a lot of these industries 
+or Fields I guess you could say within the tech   industry are just at the tip just starting out 
+when you think about cyber security when you think   about blockchain these fields yes they've been 
+around for a while but they have so much potential   and they're going to unlock so many other things 
+that being a part of that is really exciting I'm   curious to know what specific field in Tech are 
+you working in or are you passionate about or   want to get in leave down in the comments okay 
+the sun is calling me I can see it from behind   you I need to go relax on a chair now thank you 
+all for watching make sure to hit that subscribe   button for more Tech coding and career related 
+content and I'll see you all soon bye everyone

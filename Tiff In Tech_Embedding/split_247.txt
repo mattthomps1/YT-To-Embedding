@@ -1,0 +1,18 @@
+ add and then it's gonna get status let's go up a bit more since I can't see anything
+we do not want our environment file to be included okay so now the most important part
+where so many of us are not either experienced or we forget until it's way too late is the
+documentation in my documentation let's go ahead and you can see here if you do slash
+you can see a bunch of different commands so uh from paths images docs playlists mentioned
+mention is huge especially if you have other teammates but I want to focus on code snippet
+to show you how it can update in real time so first of all this is amazing you click
+on it and it will open up your repository to the latest changes so you can see here
+where all of our changes were so say we wanted to focus on our so let's go here snip it selected
+and at this point we can add more code add let's go add this is what I want to piss in
+on and it looks so pretty so for this snippet I want to focus on telling where you can find
+your API key you can API key from from API Ninja we'll see located in the my insert this API key in your environment perfect there we go how nice is this and then
+also too look at this copy anchor link so say you want to send it to someone specifically
+and you can see it's up to date as well okay let's keep on going down a little bit here
+and okay I'm going to delete this text here it says falling as well this stupid camera
+why do we do this why okay we're gonna put you down a little bit because you're really
+in my way here uh all right so now let's keep on typing away actually before we do that
+I want to share with

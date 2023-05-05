@@ -1,0 +1,18 @@
+ time   so i have this site but let's look it out if i 
+wanted to change the site options you click this   button the site name let's call it light kit 
+let's make the home page file the start here   file let's go with the light mode for now let's 
+show navigation why not let's show the graph   that all looks pretty good so let's just go back 
+the next thing you can do is hit the switch cite   button and then if you hit the edit site id this 
+is part of the url so it's not the site name but   it's part of the url is the site id apparently so 
+let's just go light dash kit it looks like we can   only use letters numbers and dashes so i like 
+that let's cancel and we're pretty good there   click publish it loads i did have a change to 
+timestamps i don't care hey this is exactly a   good example i want the change to populate 
+so that's all good and boom hit publish   all that your files will load in this case i 
+only had one file that had an update to it so   only that thing is going to update and what 
+i did is i deleted it out of the light kit   and in the meantime let's go check 
+this link out so click on that and boom here it is this is the light 
+kit online using obsidian publish   so pretty cool we can zoom in on the graph we have 
+a table of content that's showing your headers   and then we can just kind of dive into 
+different notes so let's imagine we started on   the home note and this has a bunch of links to my 
+main home maps let's just kind of dive into to uh   concepts so if we dig into concepts then we 
+can dig into something else so then we could   and by the w

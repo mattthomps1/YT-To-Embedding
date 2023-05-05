@@ -1,0 +1,17 @@
+cience uh I know you do   a lot outside of data science as well which we'll 
+get to later because I think it's super important   to to cover those aspects as well but uh what is a 
+day in the life like for a data science scientist   so at Etsy um a data scientist means a lot of 
+different things so not only are you a coder   but you're also a problem solver a statistician 
+and a domain expert so on my day-to-day like   the first couple of days of the week so Monday to 
+Wednesday I'll be in a lot of meetings a big part   of being a data scientist is communicating with 
+stakeholders and presenting your analyzes um and   storytelling with data so that's the first half of 
+my week and then Thursday and Friday I'm more like   Focus days focused time to just heads down time 
+to code and that includes like building tables   um with the logic our business logic and 
+embedded into them also creating dashboards   based off of those tables and also experiment 
+analysis which is the fun part of the job   experiment analysis yeah so I actually got 
+into data science because I was fascinated   by experimentation and iterating 
+on a product to make it better so   um we I have a couple of experiments going on 
+right now and usually how that works is first   the ideation process with your product manager 
+I'm working and as a data scientist you work with   different people on the team such as a product 
+manager a product designer and Engineers okay   um so yeah first is the ideation process with my 
+product Squad and then we go into launching the   experiment and we have an experimentation 

@@ -1,0 +1,137 @@
+what are some of the top programming languages 
+that are most in demand for 2023. if you are   watching this video it's probably because of few 
+things one you are looking to break into the tech   industry and just want more information on what 
+tech companies are using what languages are in   demand to you have been in the tech industry for a 
+while maybe you're a software engineer QA product   manager and you want to know and have a better 
+understanding of what trends are coming up in 2023   regardless of why you're here watching this video 
+you will leave this video with an understanding of   the top programming languages coming up for 2023 
+and also to how to learn them where to learn them   because that is very key I've been a software 
+developer for over five years now started out   in QA moved to back end front end and now I'm in 
+developer relations so knowing what programming   languages are really in demand ahead of time is 
+very important for me as I need to stay up to   date on Tech Trends what's coming up and also be 
+able to speak about these different Technologies   I'm understand them and that's why I always do 
+this research regardless of what top programming   languages are coming up what programming languages 
+are in demand so I thought I would share my data   and research with you okay let's go oh also thank 
+you so much for udemy to sponsoring this video I   love you to me it's how I first learned to code I 
+still use it today for all my upskilling link them   down below and all the courses I'm mentioning 
+are linked down below so go check them out   oh can you guess the first one I'll list I'll 
+give you a second here if you guessed python you   are correct and it's probably no surprise mainly 
+because python is used among many different roles   from data scientists web developer QA python 
+touches a lot of roles and is used for many   different things I really think that is one of 
+the reasons why python continues to dominate on   a lot of these lists another reason is because the 
+entry to learning python is pretty straightforward   now let's go back and have a little bit of an 
+understanding as to how python originated python   was originally developed as a hobby project which 
+sounds crazy now just how much it exploded it was   mainly developed for emphasis on code readability 
+no surprise here and also its syntax allows for   programmers to express Concepts in fewer lines 
+of code well yeah sure give me a sec so so why   should you even Learn Python well for one thing 
+all the big tech companies big and small typically   use Python to varying degrees another reason is if 
+you are first starting out in your coding Journey   python is a very is one of the better languages I 
+would say to start with because of its readability   okay the most important question where do you 
+learn it what course is the best now we are   entering an age where the problem isn't where to 
+find courses it's there is so much information   out there how do you decipher which ones are 
+the best enter in the complete python bootcamp   from Zero to Hero in Python one of the reasons I 
+really like this course is I actually took this   course many years ago or a few years ago when 
+I was first learning Python and I really liked   it because it not only teaches you the basics 
+from the essentials but you also are building   You're Building really interesting projects and 
+I think that's so key which a lot of courses are   missing because a lot of them kind of do the same 
+courses over and over again and I feel like with   this course you are building different games from 
+uh Blackjack tic-tac-toe and I just think it's   really fun because the games you are building 
+or the projects you are building can be applied   to the real world coming in at number two on the 
+list is Java Java is a widely used object-oriented   programming language and software platform that 
+runs on billions of devices including notebook   computers mobile devices gaming consoles medical 
+devices and more also a really interesting fact   about Java its initial name was actually oh it was 
+later changed to Java because at the time there   was already a programming language named Oak okay 
+another intern another interesting thing another   interesting thing about Java is it was actually 
+created on accident Yes you heard that right   James Gosling the creator of Java programming 
+was working at somewhere called Sun labs they   were working on some big projects and working 
+with C plus plus long story short they ended up   with Java a new programming language pretty cool 
+okay if you are looking to learn Jabba as it is   widely widely used across many different companies 
+here's where to go Java programming masterclass   that's covering Java 11 and Java 17. this course 
+I loved because it was recently updated actually   in 10 October of this year which is huge and they 
+always release quite frequent updates as well so   why do I love this course in particular one of the 
+things that initially drew me to this course is I   always look at the instructors credentials who 
+are they where do they come from what is their   background and for me I love that it is actually 
+taught by a professional Java developer who who   hasn't just been in the industry for a few years 
+but has worked with the language for over 18 years   so not only do they know the positives of Jabba 
+but they also know the downsides the pitfalls and   I think that is almost more important because 
+then they know how to teach in a way that they   will know what you will come across the problems 
+you will face potentially with that language also   too in this course it has 52 coding exercises 
+I don't typically see courses having this many   exercises exercises are a great way when you are 
+taking a course that is a little bit lengthier   that it breaks it up in a way to actually test 
+your learning because sometimes okay maybe it's   just me but sometimes I kind of get dozy when I 
+start watching courses and I have to rewind and   figure out where I was so having exercises within 
+them is a great way to stay on top of things   next up is next on the list my personal favorite 
+maybe Lee because this was the programming   language I learned on which is Javascript love 
+it or hate it JavaScript made it on this list   and it's here to stay for the time being I love 
+JavaScript because not only can you use it on   front end but you can also use it on the back end 
+side of things the original name for JavaScript   was mocha it was developed in 1995 for use with 
+Netscape 2 browser and honestly in my opinion   I feel like they should have stuck with the name 
+mocha because too often especially probably when   it was first developed between Java and JavaScript 
+people would get confused hopefully not anymore   but I think the names you know it's not the 
+best even though they're completely different   now what course to take for JavaScript this was 
+a tough one because JavaScript I feel like there   are just an overload of courses for JavaScript and 
+how do you know which one is the right one to take   this course I'll put on screen here really stood 
+out to me the complete JavaScript course from 2023   from xero to expert and why it stood out to me 
+well the first thing if I'm being honest is the   number of ratings it almost has 200 000 ratings 
+it has almost a million students 700 000 students   with a 4.7 star rating so you know based on the 
+numbers based on the data this is a good course   already by just looking at that another thing 
+that stood out to me is just how quickly they   updated the last update was this month in November 
+and I also like to how it's structured in a way   where you can start at the beginning from beginner 
+just starting out or if you're someone who already   is a developer but you aren't as familiar with 
+JavaScript you can start at the beginning to learn   the fundamentals or there are projects where you 
+can start in on and just start building with those   okay let's take this off for a little bit 
+next on the list is Swift Swift has continued   to gain popularity as iOS becomes more and 
+more popular people want more apps people   want more games it's not going anywhere it is 
+a programming language that ensures you have   a long a really stable career as apps and iOS 
+development isn't going anywhere if you look at   the numbers it's continuing to go up and more and 
+more in demand and honestly I have just tinkered   around with swift but it is so much fun it took 
+me a minute to wrap my head around but I really   actually love xcode I know maybe that's because 
+I'm not a professional iOS Developer I feel like   iOS developers always say the opposite but just 
+the visual aspect of it is really exciting to   me okay course time which iOS course do you take 
+you know this wouldn't be a proper list without   including a Dr Angela course she is OG is that 
+what you can say original aishi is just I love   love love her courses I've taken some of her 
+python courses and she's just incredible she's   brilliant in my opinion okay Angela if you're 
+watching this you probably aren't but if you ever   do watch this I love you you're amazing you've 
+really helped me in my coding career this is a   great iOS and Swift course uh you will learn to 
+create a portfolio of 15 different apps to be   able to go from Junior developer to senior and 
+I love that this really enables you to build so   many interesting projects that you can speak 
+about here's a little side tip after you are   done taking this course a really great way or 
+thing to do that I do and I'm taking a course   is a project that I really liked or resonated 
+with I'll build it again without the tutorial   but build it in something that I'm interested 
+in for example in this course one of the things   that you will be building is an animated dice 
+roll so what you could do after you've done   that example is you could start by building 
+an animated object that you are interested in   maybe something other than a dice and this is a 
+great way to take your learnings and apply them   to your own projects last but definitely not 
+least on this list is I got the green screen C plus plus we couldn't end this list without 
+C plus plus it's been around for a while it is   a classic and it's not going anywhere C plus 
+plus is a powerful general purpose programming   language it can be used to develop operating 
+systems browsers games and further now where   do you learn C plus plus put it up on screen here 
+the course that I really enjoyed I started taking   this course I'll be honest with you I've never 
+used C plus in my work so I was just curious   about it to understand it and have a have a deeper 
+understanding and I think that's one of the things   as a side note that's really interesting about all 
+these courses is don't just take them just because   it's what you are going to be using currently 
+at work if you are curious about something why   not take it just to learn something new I don't 
+think we do that enough this course really stood   out to me when I was looking for C plus courses 
+because it teaches a modern C plus plus rather   than an obsolete version that many courses will 
+be teaching you now this course is pretty long   in length it's about 45 almost 46 hours actually 
+in length and that can be intimidating at first   to many why am I going to take this course that's 
+so long but one thing that really helped me or I   really enjoyed about it is how well it's broken 
+down into sections so just as another tip for   you what I do when I'm taking a course is I will 
+break them down into or I'll schedule my time and   learnings based on the sections that's already 
+broken down into okay those are the top five   programming languages for 2023. now let's get 
+something clear here just because these are the   top five programming languages for 2023 doesn't 
+mean that there aren't tons more out there that   are in demand and I want to make that clear 
+because sometimes I'll get comments being like   well Tiff I really want to learn um I really want 
+to learn go I really want to learn this and that   you don't have this on the list still learn it the 
+whole purpose of this list based on the research   I've done isn't to say these are the only five you 
+can learn but to inspire and inform you of what   is coming up for 2023. also I want to end this 
+video with a final note a lot of times we make   these videos talking about the technical skills 
+that you need to learn which are so important but   even if you have the strongest technical skills 
+without the soft skills it's going to be hard to   grow your career in a very successful long-term 
+way yes you can be that person who doesn't talk   to anyone ever and just have a successful career 
+that way potentially but what I love about you   to me is they also offer so many other courses 
+on the soft skill side of things for leadership   public speaking personal development all those are 
+equally as important so please do not forget about   those kind of courses as well I linked everything 
+down below as well so make sure to go check them   out and if you haven't already hit that subscribe 
+button for more Tech coding career related videos   any questions leave them down in the comments I 
+answer every single one of them okay see you soon thank you

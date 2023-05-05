@@ -1,0 +1,18 @@
+do I did git add to add all the files then
+I did git commit message which was just react app starter don't come at me I know some of
+you are very particular with your messages to start with and then before I did a push
+I just wanted to see the git status so you can see that here and I did get pushed so
+now it will send us if we click on this link down below it will send us to the commit we
+just made and you can see all of our files right here which is great okay before we get
+any further into this project I mean we're just starting out but let's add swim to this
+so we can easily document as we go along okay now what we can simply do I'm in swim in the
+Swim app and I'm going to go to repositories down to the bottom and add new repository
+so for here you can see all your repositories I already connected my GitHub to swim is why
+I can see all these that's a step one you will need to do but that's extremely straightforward
+when you sign up it will just kind of walk you through those steps then here let's go
+down to our react search app connect have a little coffee break okay perfect so now you can see we are connected
+now as of right now we don't have any docs or playlists so let's get started so you can see here and get started we can
+create a blank doc playlist PR uh templates for example this is a great one if you want
+a flow in the code or how to add something internal API like you can start by with a
+template which I sometimes find really helpful otherwise it's just overwhelming as to starting
+with a blank page so let's use this template a flow in the code and let's retitl

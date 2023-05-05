@@ -1,0 +1,162 @@
+okay do you want to know one of the hardest
+things that I found when I was first learning to code well specifically learning react I
+should say was search functionality and I think it's because searching through an API
+or a list it seems so simple in theory similar to a to-do list but in reality it can get
+complex pretty quickly and it's one of those things though that when you actually do take
+the time to really understand how it works and go through the process of building it
+it's one of those things that will stick with you and it really helps solidify a lot of
+the fundamentals so today we are going to be building a react app going through search
+functionality of a really fun API also too I want to include I feel like I've done a
+few of these code with me videos and we don't talk about git very much so we're going to
+speak about that in this video as well and of course another thing similar to git in
+the sense of we don't talk about it a lot but it's so important is documentation I'm
+going to be sharing with you a tool that a lot of your employers will be looking for
+if you have skills around or have used in the past and let's just dive into it okay
+let's go [Music] okay so as you can see on screen here we are going to get into the react
+app in a second but as I mentioned earlier I really want to focus on other parts of the
+development process you know a lot of these codes with me are a round code which makes
+sense but there is so much other tools and things that you need to be aware of as a developer
+or someone interested in coding so you can see up on screen here I've been using swim
+and essentially swim is a Dev tool that reinvented the way developers manage knowledge about
+code what do I mean with that well here are three points that really help me understand
+swim one is it's easy to find so if you've ever used any documentation working for a
+company before or writing your own documentation a lot of times it can get messy really quickly
+and difficult to find think of when you're onboarding at a new company how difficult
+it can be another thing about it is it's always up to date developers don't need to worry
+about is my documentation up today documentation should be something that is almost like a
+third arm if that makes sense meaning it just functions it's just part of what we do versus
+it's this thing that we have to struggle with all the time okay so you can see on screen
+here I have swim I did add a repository uh as I was working around with it and we are
+going to add a new repository for this video so I'm going to exit out a swim for now we'll
+get back into it and let's create a react app okay so let's just start right from the
+beginning that's what I feel like a lot of tutorials typically Miss is okay where are
+we gonna go inside let's go inside documents and now we just create our typical react app
+MPX right my keyboards over here if it looks weird this is the problem with working with
+monitors well not really supposed to solve that problem but create react app and let's
+call this let's call this react search app all right and now we wait it's time to go
+get a coffee okay now that we have our project up and well
+not running yet let's actually do that so now that we have our project open I should
+say let's go ahead and run its npm start just to make sure the react app is working it came
+up on a different page here there we go we have our standard react app and as I mentioned
+in this project we are going to be focusing on search functionality and I thought I would
+do the fun celebrity API so actually while I'm speaking of the celebrity a pride let's
+go to it right now API Ninja alright so I found this resource a while ago it's really
+cool it's called API ninja and essentially there's just a lot of fun apis so I made an
+account you don't have to put in a credit card or anything and I went down to there
+we go celebrity and this is the API we will be using so as you can see here in celebrity
+provides a lot of different uh parameters that are optional name net worth uh obviously
+you need to get an API key which you can do from my account your account but the button's
+called my account just to be clear and you can see here some sample requests so it's
+very user friendly so we are going to be using this for this project okay now let's stop
+this from running for a minute here and the reason being a lot of this video as I mentioned
+I want to focus around git as well and documentation so let's create do get init to create a new
+Repository re-initialized oh I already had this repository okay if you
+don't do get in it and it will create this now if I go into let's go here we can see
+we have this dot get file uh in our react search app okay I got ahead and myself and
+some of it was not recording but what did I do I did git add to add all the files then
+I did git commit message which was just react app starter don't come at me I know some of
+you are very particular with your messages to start with and then before I did a push
+I just wanted to see the git status so you can see that here and I did get pushed so
+now it will send us if we click on this link down below it will send us to the commit we
+just made and you can see all of our files right here which is great okay before we get
+any further into this project I mean we're just starting out but let's add swim to this
+so we can easily document as we go along okay now what we can simply do I'm in swim in the
+Swim app and I'm going to go to repositories down to the bottom and add new repository
+so for here you can see all your repositories I already connected my GitHub to swim is why
+I can see all these that's a step one you will need to do but that's extremely straightforward
+when you sign up it will just kind of walk you through those steps then here let's go
+down to our react search app connect have a little coffee break okay perfect so now you can see we are connected
+now as of right now we don't have any docs or playlists so let's get started so you can see here and get started we can
+create a blank doc playlist PR uh templates for example this is a great one if you want
+a flow in the code or how to add something internal API like you can start by with a
+template which I sometimes find really helpful otherwise it's just overwhelming as to starting
+with a blank page so let's use this template a flow in the code and let's retitle this to react search app
+and then this document describes the let's do it's not necessarily flow in our
+system but I really like this template so this describes the react application that
+uh is building out search functionality perfect select the first step where the flow Begins
+the entry point or API call okay we will come back to this as Next Step let's actually integrate
+and use this API okay all right let's get into the code now let's go source and let's
+go into our app.js so for this let's simply as of right now let's take out all of this
+just have an empty div here and really the first thing I want to do is start uh let's
+let's start using this API first let's create search term and that's
+also good set search [Music] [Music] [Music] thank you [Music] foreign [Music] foreign [Music] [Music] thank you [Music] [Music] [Music] thank you [Music] [Music] okay now we can see if we search for an apple
+baby let's do my past searches here Gwyneth 150 million that's insane okay let's do cake
+see  it's really cool though I like how we built
+it that the results will continue to filter as you're a surgeon so sometimes he or has
+and I should say so this is really cool this is simple functionality
+but it allows you to take a very important part of react and coding and have this skill
+be able to do it and build on to it now let's get to the fun part first of all let's go
+back to our project here I'm going to stop running this for a second and the next thing
+I'm going to do is look at my status okay so you can see here we have modified I have
+my terminal perfect so next let's go get add and then it's gonna get status let's go up a bit more since I can't see anything
+we do not want our environment file to be included okay so now the most important part
+where so many of us are not either experienced or we forget until it's way too late is the
+documentation in my documentation let's go ahead and you can see here if you do slash
+you can see a bunch of different commands so uh from paths images docs playlists mentioned
+mention is huge especially if you have other teammates but I want to focus on code snippet
+to show you how it can update in real time so first of all this is amazing you click
+on it and it will open up your repository to the latest changes so you can see here
+where all of our changes were so say we wanted to focus on our so let's go here snip it selected
+and at this point we can add more code add let's go add this is what I want to piss in
+on and it looks so pretty so for this snippet I want to focus on telling where you can find
+your API key you can API key from from API Ninja we'll see located in the my insert this API key in your environment perfect there we go how nice is this and then
+also too look at this copy anchor link so say you want to send it to someone specifically
+and you can see it's up to date as well okay let's keep on going down a little bit here
+and okay I'm going to delete this text here it says falling as well this stupid camera
+why do we do this why okay we're gonna put you down a little bit because you're really
+in my way here uh all right so now let's keep on typing away actually before we do that
+I want to share with you how quickly these uh code Snippets update so as I mentioned
+we have here we can see what code is utilized and highlighted but if we go back to repositories
+say we go to react search app source and obviously if you can do this in vs code but let me just
+show you uh here how quick it is so go and go down and say we say we wanted to make I
+mean even something simply like change text so never enough net worth from 2023. just change some text but this could be changing
+big things in your code base Etc next let's go commit changes all right now we go back
+into our documentation brush it you can see here from 2023 so these changes
+are happening almost instantaneously which is you can see how useful this would be especially
+when you're working in collaboration in teams I mean even in this instance it's so useful
+for us to be able to have some documentation about the project we are building and where
+to find our API Keys Etc now let's commit these draft changes you can see here in the
+top right hand corner docs successfully closed doc successfully committed I cannot speak
+today so let's go back here and you can see now we have a DOT swim which is all of our
+Docs name file version app version introduction
+and it's so like it looks so pretty the code is so nice you can imagine with hundreds or
+maybe not hundreds I hope we don't have hundreds of documentation but with tons of documentation
+how beautiful this could really get we also have a Json version of this just to have um
+information about the idea of the rep repo and also if it's configured with swim which
+it is okay let's do one more flow though so let's say here let's go back into our code
+snippet say we want to document around the search results and why we are returning what
+we are returning and how others can get other data from that so let's go add and scroll
+down we can see it's up to date here but say we make some changes here again so let's go
+back into our vs code so we can see here now in our git repo that
+we have added the new P tag and the result Max height and if I go back and swim you can
+see here Auto synced snippet you can see that it's out of date so we have this was of course
+the old auto sync by swim and then the new here we want to accept it or reselect it and
+of course we want to accept it so that's another great thing you can always be up to date with
+your code and it really highlights any changes that are made throughout the document now
+you can also go commit one change and simple as that because we added this code snippet
+in and we haven't committed it yet okay another thing I want to share with you is about smart
+tokens so essentially what they allow you to do is you can type in your backtick and
+then type in your token reference so this could be a variable a class and swim will
+actually suggests content from multiple repositories so you can see here my two repositories now
+I feel like this isn't the best example of that rather I'm going to share with you on
+screen here an example where they are doing the front and back end repositories this is
+a really great example of when you maybe want to utilize or reference something from a different
+repository especially when you're working on large teams with multiple repositories
+working on the front end back end and want to understand everything also too one thing
+I love about swim is you can actually integrate them into your IDE and you can see here I
+have swim on screen and I need to connect my repository but I'll actually show you a
+diagram that they have of what you can really do with swim so you can see here docs sit
+next to your code which is beyond handy I can't even tell you I mean you know and also
+too there's Advanced markdown editor you can actually be editing the docs right within
+your IDE so you can essentially just stay working in vs code or whatever IDE you are
+working in and you don't have to go back and forth which as we know if we do have to go
+back and forth we oftentimes just neglect the documentation all right so I linked swim
+down below so make sure to go play around with it check it out this not only I think
+is good for those of you who or many of you who are working on a team at a large company
+of course this is beyond useful for that but I think it's also useful if you are someone
+who is just starting out in your career or earlier on it really will set you apart having
+this documentation included in your code showing that you actually understand documentation
+you care about it and you're using this really Advanced tool to build the most beautiful
+and functional documentation all right it is if you see outside right now it is snowing
+like no tomorrow so I feel like it's end of the work day for me I need to go to relax
+let me know what you think of swim I linked it down below again I'll see you all soon [Music]

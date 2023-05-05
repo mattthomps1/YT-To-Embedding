@@ -1,0 +1,17 @@
+s and i want to quote that   in my personal knowledge management system so 
+you know he says here i use obsidian for this   type of use and he says something else so i'm 
+just going to i know there are better methods   to extract things from twitter this is a manual 
+method just copy text i go back and let me just   paste that text in which i just re-pasted in and 
+let's say this in particular this block i want to   reference so i just go to the end of it and uh i 
+hit carrot and i hit a one that's it all i have to   really do is hit a one doesn't have to be a unique 
+identifier because what we're identifying is the   text so the i use obsidian so now let's go to this 
+actually my script for this video and starting   from scratch if we want to reference blocks 
+like quotes and tweets and here's something from   giovanni that i want to reference let's start from 
+scratch i backspace i'm going to explode this note   which is the date today's date it's my daily note 
+if you will now let's hit carrot and i can look at   all the different blocks in this note so let's 
+just explore what that means that means this first   title block is right here then the next one tweets 
+from giovanni is right here web here i use i use   and they are they are so we're looking at all the 
+blocks i just think that's kind of interesting and   something important to kind of break down slowly 
+so we can digest block reference because if i   backspace and hit hashtag which is the header 
+level reference so instead of a block level   reference it's header level let's go back to that 
+giovanni note the 

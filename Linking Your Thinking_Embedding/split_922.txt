@@ -1,0 +1,18 @@
+okay let's pick up from where we left off 
+and if you remember we had enabled custom css   and when we do that we have these custom themes 
+buttons and we also really quickly explored   base mode changing it from dark to light so now 
+we're in light mode here's kind of what the app   looks like this might be familiar to what you're 
+used to when you're working with most of the   apps until recently around they've always been in 
+quote light mode it was just the only mode we knew   now there's dark mode i tend to prefer it too i 
+know it's trendy but it is kind of nice especially   when you're looking at the screen for long hours 
+so for now we're in dark mode and let's explore   community themes so what you do is you find a 
+theme you're just scrolling oh this one's new and we can click use and so now we're in 
+this custom theme which is really big let me   i'll show you this hotkey later 
+but you can reduce the size   on things and you can kind of see what this 
+looks like um let's try a different one hopefully okay so this is a really nice theme 
+that's similar to the custom theme   and it has a really cool map okay so 
+these maps aren't showing up too well   if you noticed on my other screen i have this 
+pretty advanced looking setup so i don't mean to   go too crazy with this but let's use it for this 
+purpose so this is part of what's called the light   kit which is the linking your thinking kit and 
+this is a starter kit so as you gain an experience   you might think like how do i connect everything i 
+use folders do i use tags what can i use links you   know to conne

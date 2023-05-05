@@ -1,0 +1,18 @@
+let's get back into it okay so as you   can see here I added in AP scheduler now let's 
+go and install that so pip install AP scheduler go oh come on all right perfect okay I also 
+imported uh pits pipes pits I'm not 100 sure but   essentially what this is is it will be a python 
+library that we can use to define date and time   so with blocking scheduler it automatically is 
+set to UTC time I'm in Eastern time so I want   to set it to my time zone is why I imported 
+it now if we scroll down let's initiate this   function here so let's call or say scheduler 
+equals blocking scheduler then what we will do   is on top of our for Loop here let's create a 
+function called it's called send notification   you can't spell today what is new that's 
+the story of my life all right and then here let's also choose we're going to use 
+uh pits so let's go time zone equals   hits and then get the time zone and we are 
+setting it to for me anyways I am setting it   to us Eastern you can read the documentation 
+if you're sending it to something else   all right there we go it is mad about us 
+don't need to be mad go we're not mad anymore   not gonna lie I'm a JavaScript script girl 
+I feel like python with its indentations   all right so now let's actually uh 
+schedule the function to run daily so   scheduler dot add job you can see we have 
+some different options here we are going   to do send notification which we created up 
+here and for this it's going to be a Cron job I'm telling you if you could count 
+how many times I mess up my spelling   if I give you a dollar for each one we'd be 

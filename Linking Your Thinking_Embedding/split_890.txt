@@ -1,0 +1,18 @@
+it seems just like last week i was sharing 
+with you the new graph features in obsidian   and the two ways that they slightly changed the 
+game for me here i am again because obsidian   has just released obsidian publish which 
+allows you to take your plain text files   hit a button and immediately your ideas are on the 
+web and they're not just ideas on the web they're   your linked ideas they have the same structure as 
+obsidian offline so again this is like a subtle   game changer and in the following video i'm 
+going to show you how to take advantage of that   and at the very end i'm going to show you 
+how you can start right now doing this   so hey join me in the following video i'm going to 
+walk through obsidian publish for the first time   and we're going to see the different ways 
+that we can start to apply this cool feature   and at the very end of the video i'm going to walk 
+you through how you can activate this setting and   start publishing your linked ideas right now 
+hey just in case you forgot i'm nick milo with   linking your thinking where we talk about the how 
+and why of making meaningful notes let's dive in okay so let's check this thing out we start in 
+the light kit right i'm going to publish all of   this online so what you do is you go to settings 
+account excuse me about make sure hey version is   0.9.2 or higher and receive 
+insider builds is activated   then you go to plug-in scroll all the way to the 
+bottom and publish let's toggle this thing on so   you probably saw this airplane note appear let's 
+click on it it loads so i did this one other

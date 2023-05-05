@@ -1,0 +1,18 @@
+platform 
+at Etsy so it has all the key metrics in there to   measure for um like a time period like let's say 
+two weeks that's usually um how we test each of   our new features and then by the end of the two 
+weeks I will report and conclude the experiment   and um like there will be a financial impact and 
+a customer impact so I measured that at the end   and do like a post analysis wow that is super 
+interesting and I love how you said uh it's   something you've always been interested in with 
+around experimentation and that's kind of how   kind of going back on that note really how did 
+what is tell me a bit about your background what   led you what was your schooling like like 
+how did you kind of discover data science   um so I grew up in the Silicon Valley okay 
+and that's that's All Tech I was surrounded   by Innovation growing up my dad is a director of 
+infrastructure so he's a software engineer yeah   um and I I grew up really loving Math and 
+Science um so when I went to college I graduated   with a it degree um but I didn't discover 
+data science until I went to Grace Hopper   celebration which is the largest celebration uh 
+and Gathering of women technologists in the world   um so that's where I discovered data science 
+it was the track that interested me the most so   so when you're at Grace Hopper you follow a 
+track of sessions and I learned so much about   experimentation like multivariate experimentation 
+and um was just so inspired I never knew that this   was um a part of software engineering because when 
+you major in computer science you have to find

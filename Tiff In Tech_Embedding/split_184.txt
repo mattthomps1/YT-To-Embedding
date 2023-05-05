@@ -1,0 +1,17 @@
+e 
+up all day like all night from all   this coffee and drinking today I'm telling you see here this cone defines a function called 
+Fibonacci and takes input of n the function   calculates an nth number okay I'm not gonna read 
+this whole whole thing too I'm going to put you   to sleep here you can pause this if you want to 
+read it more but it is really breaking it down   and it's one of those things that if you don't 
+understand a specific part of the explanation   you can even copy it and say explain this to 
+me further and it's just so powerful I'm kind   of I I'm really mind blown I know I shouldn't be 
+because I work intact but it's moving fast but I   wouldn't be doing this video Justice if I didn't 
+really explain to you what not to use chat GPT for   because that is almost more important than what 
+to use it for when learning also look at this View you might be saying well tip why not this 
+seems perfectly fine this is what it's there   for and while I kind of agree with you to certain 
+points you have to be aware especially when you   are learning to code that you need to know what 
+is going on with the code if you were literally   just telling chat GPT or any AI service to just 
+code for you a it's not going to scale that well   if at all actually B you're not going to know 
+what it's doing and in turn you're going to   spend so much time debugging and working through 
+errors that you're going to spend your time on   that which is a good way to learn as well versus 
+actually learning though the fundamentals chatgpt   is a great tool to help assist you and as you

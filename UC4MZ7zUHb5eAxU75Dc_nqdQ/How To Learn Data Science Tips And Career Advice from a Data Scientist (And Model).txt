@@ -1,0 +1,231 @@
+foreign welcome back to another episode of talk Tech 
+with Tiff in this episode I am sitting down   with Marissa who is a data scientist at Etsy 
+we talk about the highs and also really dive   into the lows of being a data scientist her 
+journey into data science and also speak about   her passions from becoming third runner-up 
+Miss New York USA to modeling and so much in   between before we get into it though make sure 
+to go check out my newsletter I linked it down   below it's a monthly newsletter that features 
+unique job descriptions discount codes career   advice and always a little personal 
+note for me okay let's dive into it welcome to talk Tech with Tiff the New York 
+Edition where I am sitting down with industry   professionals to hear about their career Journeys 
+and current roles I created this series to hear   from people who are established in the tech 
+industry so that we can all learn what these   individuals do in their day-to-day jobs and 
+the type of opportunities out there [Music]   hi Marisa how's it going good um it's a beautiful 
+day in New York I know you came on a great weekend   I know I really did not too cold like a little 
+bit chilly but super sunny I know and this is my   first time in Brooklyn actually oh yeah there's 
+so many children on this block and I'm I'm not   used to that I live in dumbo so it's very like 
+industrial and a lot of buildings and like Etsy   is there so um yeah it's very new refreshing I 
+know I know this whole area people keep on telling   me it's very um family oriented I definitely get 
+that sense yeah all my co-workers live here okay   yeah yes yeah a co-worker I did a conversation 
+earlier with a co-worker of mine who has two   children and he lives like a few blocks away kind 
+of thing yeah yeah yeah well thank you so much for   joining me today it's so funny it's so wonderful 
+getting to to meet wonderful people like yourself   in real life and I know we were saying prior to 
+to this podcast that you've been meeting a lot   of others as well recently content creators yeah 
+it's so great in like in real life it's such a   like different experience you always like DM each 
+other support each other on Instagram and then now   seeing each other in person it like makes it all 
+real I I just met Maggie and data um Diaries I've   known Linda for a while yes um so yeah I know 
+everyone has been like the same as they are I   know like as friendly as they are on Instagram so 
+I love it I I totally agree and I feel like there   are so many you know you just listed some amazing 
+women and there's I feel like there's so many   amazing women in New York that's what I was like 
+I need to come to New York and meet you all like   yes it's just like jam-packed which I love yeah 
+I know like New York SF yeah like Canada maybe up   and coming yes yeah up and coming we're getting 
+there you know Toronto's surely but we're here   today to hear about you and you know your journey 
+in tech and as a data scientist and um I'm sure   you get asked all the time about your role as a 
+data scientist and and what it really entails but   tell me a bit about it a bit about your background 
+what led you into data science uh I know you do   a lot outside of data science as well which we'll 
+get to later because I think it's super important   to to cover those aspects as well but uh what is a 
+day in the life like for a data science scientist   so at Etsy um a data scientist means a lot of 
+different things so not only are you a coder   but you're also a problem solver a statistician 
+and a domain expert so on my day-to-day like   the first couple of days of the week so Monday to 
+Wednesday I'll be in a lot of meetings a big part   of being a data scientist is communicating with 
+stakeholders and presenting your analyzes um and   storytelling with data so that's the first half of 
+my week and then Thursday and Friday I'm more like   Focus days focused time to just heads down time 
+to code and that includes like building tables   um with the logic our business logic and 
+embedded into them also creating dashboards   based off of those tables and also experiment 
+analysis which is the fun part of the job   experiment analysis yeah so I actually got 
+into data science because I was fascinated   by experimentation and iterating 
+on a product to make it better so   um we I have a couple of experiments going on 
+right now and usually how that works is first   the ideation process with your product manager 
+I'm working and as a data scientist you work with   different people on the team such as a product 
+manager a product designer and Engineers okay   um so yeah first is the ideation process with my 
+product Squad and then we go into launching the   experiment and we have an experimentation platform 
+at Etsy so it has all the key metrics in there to   measure for um like a time period like let's say 
+two weeks that's usually um how we test each of   our new features and then by the end of the two 
+weeks I will report and conclude the experiment   and um like there will be a financial impact and 
+a customer impact so I measured that at the end   and do like a post analysis wow that is super 
+interesting and I love how you said uh it's   something you've always been interested in with 
+around experimentation and that's kind of how   kind of going back on that note really how did 
+what is tell me a bit about your background what   led you what was your schooling like like 
+how did you kind of discover data science   um so I grew up in the Silicon Valley okay 
+and that's that's All Tech I was surrounded   by Innovation growing up my dad is a director of 
+infrastructure so he's a software engineer yeah   um and I I grew up really loving Math and 
+Science um so when I went to college I graduated   with a it degree um but I didn't discover 
+data science until I went to Grace Hopper   celebration which is the largest celebration uh 
+and Gathering of women technologists in the world   um so that's where I discovered data science 
+it was the track that interested me the most so   so when you're at Grace Hopper you follow a 
+track of sessions and I learned so much about   experimentation like multivariate experimentation 
+and um was just so inspired I never knew that this   was um a part of software engineering because when 
+you major in computer science you have to find   your specialization yeah right yes and so that's 
+where I was kind of lost like I didn't know I was   more like a generalist yes and at Grace Hopper I 
+found data science I fell in love with the idea   of experimentation yeah um and yeah the rest is 
+history wow I've never been to the Grace Hopper   conference which is so sad to say yeah yeah but 
+it's on my it's on my like very near bucket list   like hopefully the next one um I think because the 
+last two years I don't even know I think last year   it was in person right uh this year was in person 
+and then the past two years was virtual virtual   yeah it's way worth it to go in person yes and 
+yeah next year we'll go like as speakers I love   that yes yes putting that out there yeah that's 
+our goal for next year yeah yeah we're putting it   out there I love it you went to Grace Hopper after 
+you this all occurred after you graduated college   or was it during it was during my sophomore year 
+of okay nice nice and then so from there did you   did you do an internship first or how did you 
+kind of uh what was the next step from there   when you discovered data science um so after that 
+I actually took a gap year in between community   college and university um I did a nano degree 
+on um Udacity okay for data science so I that's   where I got my background in SQL and Python and I 
+took that Gap year to focus on modeling full-time   that's when I first moved to New York it was 
+really exciting and um I did internships after   um after my junior year of University I see I 
+see and then it kind of just organically yeah   one thing to another that's very that's very cool 
+um oh sorry and and during the I want to say like   these internships were like quote-unquote data 
+science internships because at startups you really   wear many hats yes so Not only was I doing data 
+science or like I also got to call it data science   because the the co-founders were like oh yeah you 
+could you could call yourself whatever whatever   you want whatever whatever's got on the resume 
+I love that that's something I always I always   like when people are first kind of starting out 
+and it's similar to what I did when I was first   starting out is a great way to to really get your 
+foot in the door or uh through internships there's   many ways but one way I found for myself and it 
+sounds like for you as well is when you go with a   smaller company or a startup there's so much more 
+typically more freedom or flexibility to kind of   try out different roles or wear many hats and and 
+even kind of you know massage your title a little   bit you know to whatever you you fall in love 
+with so that's really interesting that that's   how it happened for you um yeah I did everything 
+at these startups from like data entry but also   like marketing and like front-end development 
+so I was many things yeah yeah I love that   um as you know data science is such a such 
+a popular role right now and everyone's just   like how do I become a data scientist I feel 
+like um do you work with a question that that   I get asked not necessarily of course around data 
+science but in general is uh you know do I have to   maybe they're later in life or different things 
+like that with schooling do you work with anyone   who is say self-taught or did um kind of like 
+you mentioned doing a nano degree online like   different walks of uh life yeah uh something 
+that's really interesting at Etsy that I I love   about the culture is that there's like probably 
+one or two people on the analytics team that have   a PhD in statistics but everyone else comes from 
+very different backgrounds um so one of the senior   data scientists on my team he transitioned from 
+being a ux researcher to a data scientist because   he was interested in the field and it's very easy 
+to like internally switch within the company yeah   um the director of analytics she majored in 
+political science worked the Hillary campaign   and now she works in analytics so I love that you 
+there's a lot of like soft skills that you can   transition into data science or in Tech in general 
+and I graduated in it which is not data science   but it's still the intersection at UC Santa Cruz 
+it was described as the intersection of Business   Development and computer science and that kind 
+of is like what data science is you feel like   a jack of all trades I I would describe myself as 
+a jack of all trades um because like I said before   you're not just a coder you're a statistician 
+Problem Solver I love that I think that's so   important to highlight too and and I don't know 
+if you've come across this but I remember when um   not so much anymore but when I would tell people 
+like oh what do you do and I say oh I'm a software   developer and and different people have different 
+reactions but a common one was almost like oh so   you just you sit behind a computer all day and you 
+don't talk to people I'm like that is the furthest   thing from the truth and I think you and I'm sure 
+for you as well even like hearing about how Monday   to Wednesday is a lot of meetings and you need 
+so many soft skills you've got to utilize so many   soft skills as well right yeah um a lot of my job 
+is actually like communicating with stakeholders   yeah and if um I find that being a good data 
+scientist is asking really good questions and   sometimes you kind of have to fish that out of 
+your stakeholders like what are they really trying   to ask what is the real problem we're trying to 
+solve yeah yeah wow that's really interesting   and then on that note kind of sauce what I what 
+are some qualities or if someone's considering   getting into data science uh aside from of course 
+you know the technical skills that they need to to   possess what are some other qualities that you 
+think it makes a really good data scientist I   know you mentioned asking really good questions 
+what else can I blow my nose yes of course um so I I think data science is just as much an 
+art as it is a science and we both come from   the creative modeling field um and posing requires 
+a lot of creativity yes um so when you are solving   a data science problem you it's you really have 
+to take a creative approach and like let's say   you don't have enough data you have insufficient 
+data you need to apply an algorithmic approach   in solving the problem and that's where the art 
+form comes in using your different tools like   am I going to use a random forest or am I going 
+to use linear regression to solve this problem   um so that's what I enjoy about yeah I love that 
+there's it sounds like there's so many ways to to   solve a problem or to to I don't have the right 
+term but to gather data it's not just a one one   linear way there's so many different ways and 
+that's kind of the creative process too yeah yeah   you know we've been mentioning even mentioning 
+a bit about modeling as well and I know you are   a three-time runner-up Miss New York right yes 
+I was a third runner-up okay USA 2021 amazing   um or 2022 and I'll be competing again this next 
+year so hopefully hopefully we'll be Miss New York   USA 2023. you will you will miss New York USA 2023 
+going to speak at Grace Hopper it's going to be   2023 is going to be a great year yeah it's coming 
+I know that's amazing though and and I love that   on your social you really highlight that I mean 
+I don't want to say hi you just really share it   you and I think that's so important too because um 
+really showing that hey yes I'm a data scientist   but also look I you know these are other interests 
+and other passions I have and and I just think   it's so relatable in the sense that you can have 
+and you should have you know continue to pursue   other passions and hobbies as well so thank you 
+for this is just a thank you for doing all of that   because I think it's really amazing I think women 
+are naturally uh multifaceted yeah like on top of   full-time jobs usually women are mothers sisters 
+daughters and we just hold so many different   titles um that we are just so naturally like doing 
+everything at once I agree we're kind of like   superheroes yeah and and on the note of social 
+media you you post some incredible I love when   you you share about stats around women in stem 
+and and different really um educational material   around that and and you know for me looking at 
+it I I understand why it's so important but but   why what made you start sharing these videos 
+and why do you continue to because you know as   we just said you have so much on the go why do 
+you find it important to continue to to do that   um so in my senior year of University I 
+started posting on social media because I   um I also wanted to give back to the community 
+that has greatly inspired me yeah um but at the   same time I was also almost failing my computer 
+networks class I came for the second time and it's   something that's required to graduate and I just 
+felt so lost and helpless and thought I was not   going to end up as a data scientist or in Tech 
+at all up until I joined and up until I joined   girls who code College loops and sighted women 
+Engineers on campus just having like this this   group of women that are relatable and has gone 
+through has been in your shoes um they all made me   feel very safe and felt like I belonged in Tech so 
+I I started posting on social media because like   other women need this circle this solid circle of 
+women that will support them that will help them   get through these difficult classes um because you 
+are definitely not alone yes and it's so easy to   it it's it's so for me anyways I I I still 
+sometimes feel alone and I mean now when   you go online and all that it's an amazing 
+Community but I I definitely feel like I   I can't I'm even starting out now like for 
+young women who are breaking into Tech it's   there is so much that you have to overcome and 
+so much things of doubt and I I have had so many   moments where I'm like is it worth it you know 
+having those feelings of being alone and isolated   and and you know different work environments 
+you know just different things coming up right   and that's like way more important for a woman 
+to be in a culture that they can see themselves   grow in that is inclusive um I feel like that's 
+not as important for our male counterparts but   um like you work for a startup now yes right 
+and my one of my best friends just started as   the first woman hire in her startup and you 
+can like she rants to me all the time about   like how the culture is not as accepting as 
+a bigger company yes and that's how you lose   women in stem and I I one of my videos um was 
+sharing this recently that 40 about 45 of women   um like leave stem yeah more at a rate faster 
+they they leave at a 45 faster rate than men do   um so if we like built a culture of belonging I 
+know we could keep them even to and on that note   of culture belonging even to just speak I had 
+um I had um another another individual on prior   to this I'm not sure which will air for like the 
+order of this but maybe not but we were talking a   lot about imposter syndrome and you know I know 
+that's something that's talked about a lot but   but just hearing others experiences hearing her 
+experience and hearing your experience even with   you know when you were in your last year of of 
+school and having this computer networks course   that you were you know struggling with and having 
+those doubts am I going to become a data scientist   sharing those things it just makes others I mean 
+for myself and he's like wow others have those   feelings too like and that alone just was like 
+okay like just it makes me take a deep breath   which is nice too yeah all the sweet DMS that I 
+get about women thanking me about the content that   I'm sharing it just really like warms my heart 
+and knows that it's actually very impactful yes   exactly yeah I love that it's so good and then 
+okay kind of going back to your interests so so   yes you going for uh third runner-up Miss New York 
+am I saying that right yes okay and then 2023 uh   Miss New York USA of course this is gonna happen 
+investing yeah Universe yes and then as well   modeling on the side of working data science so 
+so many jobs um how do you how do you balance it   all or how do you manage it I get this question a 
+lot I consider myself a multi-potential eye a jack   of all trades so I love doing pursuing all of my 
+passions at once and I balance everything by I'm   a Serial planner like I have a Google Calendar a 
+physical planner I have another Planner on my wall   like I need I plan everything except Sundays 
+I like make sure I have like a Sunday reset   um and yeah that's that's how I manage everything 
+um and saying no to things that are not a priority   um and being able to balance not only work and 
+social media but also going to social events   and things that just like make yourself happy 
+exactly keeping you know that connection close   with friends and families family and prioritizing 
+that as well and do you find uh that having all   these different uh interests and passions that you 
+do that they they uh I don't know how to return   but they bleed into one another meaning like a 
+lot of your experience from modeling in some ways   helps you as a better data scientist even or like 
+just different facets kind of connect each other   um I think in the interview process because 
+um Etsy is my first full-time job when they   were asking me questions about prior experience I 
+did tell them that I I modeled and different soft   skills that were applicable to um to this job 
+now so that's how they kind of like bleed into   each other but besides that um no they're like all 
+pretty separate except like in being in Tech and   being a social media content creator yeah um so 
+that kind of leads into each other I'm sure though   even with uh Miss New York USA when when young 
+girls are looking up to you and then you know   looking up to you and then they see oh wow she's 
+a data scientist I'm sure through that as well   you're even maybe on knowing inspiring millions 
+of young girls around when they're watching   like wow she can do that I can do that too you 
+know yeah I that's why I love pageantry because   as a model it's honestly a lot about your looks 
+yeah um that's that is what you are casted for   um in pageantry you get to have an advocacy 
+a platform and mine is women and diversifying   uh diversifying but also having a more 
+inclusive environment for a woman and stuff   um and yeah I'm I'm glad that pageants give 
+me that outlet to to do both yeah exactly I   always end our wrap up our conversations with 
+this question and um it's a large question so   however you feel you want to answer it but 
+what advice would you give your younger self   I would tell my younger self that rejection is 
+just redirection as a model and a data scientist   any model can tell you this that you go you don't 
+get 100 of the castings that you go to you go to   multiple and you experience so much rejection 
+and even with the tech interview process I   probably applied to like over 150 jobs before 
+I land in my first full-time position at Etsy   and just trust in the process the journey that 
+something bigger and better is out there for you   um and yeah that is what I would tell my younger 
+self I love that I need to just listen to this   on repeat because it's so you never can get you 
+never can hear that enough it's and it's so true   it's such an important reminder thank you so much 
+for connecting with me today and sharing not only   about data science but your journey as well 
+and it was just I'm leaving this conversation   feeling really inspired so thank you oh thank 
+you so much for having me like we follow each   other on social media like DM each other all 
+the time and like it's our first time meeting   I know it's so great I know and I'm linking all 
+the socials down below so everyone can check   check your wonderful self out I'm sure most of 
+them already have but thank you thanks everyone [Music] foreign it goes so quick right

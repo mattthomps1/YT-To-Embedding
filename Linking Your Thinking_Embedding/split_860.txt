@@ -1,0 +1,17 @@
+that i just kind of   ran into that i thought were useful so if part 
+one was the general use of block references in   obsidian now we're diving into some interesting 
+use cases here's something that's kind of neat   about how obsidian is handling block references is 
+you can actually choose what the the code is that   references it all you need to do is add a carrot 
+so let's explain what i just said because that   didn't make sense while i said it if i go to let's 
+go to sources and we're going to dive into let me   make this a little bit easier for you we're 
+going to dive into this research paper on   willpower so this is something i took notes 
+on a long time ago in zotero which is still   a great app for collecting research article 
+pdfs so we're scrolling down and we get to my   extracted notations so these are highlights in 
+a pdf that i've extracted into markdown now it   exists within obsidian so if we look at one 
+of these paragraphs i want to focus on this   anterior cingulate cortex as a part of our brain 
+that's involved in behavior regulation and it gets   exhausted when we use willpower so let's explore 
+this paragraph so i want to reference this note   in the note called flow i just want to put it 
+in somewhere what would i do how would i do   that i go to the end of this paragraph this block 
+i make sure that there's a space between the last   character and then i hit carrot and then i can 
+type in whatever in this case let's just call it   cognitive and then robinson for the last name 
+of the first author and i could put 2010 if   i wanted a date what i'm

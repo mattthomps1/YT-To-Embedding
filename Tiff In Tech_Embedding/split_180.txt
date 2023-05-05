@@ -1,0 +1,18 @@
+I feel like it's always at   capacity I'm gonna buy I'm gonna upgrade I think 
+I'm gonna pay all right let's start explain to me   like an engineer I think that's really important 
+too to put how you want it explained so do you   want to explain like a kindergarten teacher 
+do you want to explain like a chef how do you   want to explain well my crisp microphone 
+okay explain to me like an engineer what   the benefits of using python are let's 
+just start with something really simple okay you can see it gave pretty high level of 
+why python is so in demand and why you should   learn it but it's really good to start with 
+understanding that why is that's one thing   I really missed when I I didn't do until later 
+in my career which came to bite me is I didn't   understand why I was doing the things I was 
+doing meaning why was I learning JavaScript   like why not python why not Java I just 
+was like this is what's put in front of   me this is what I'm gonna learn versus actually 
+taking time to understand what it is used for   the thought behind it why use for example react 
+over angular or view over react or whatever the   case is the whys behind things instead 
+I just started building and that's not   a bad thing but at some point in your journey 
+you will have to answer those questions those   whys because that will differentiate you 
+from a great engineer to an okay engineer   all right let's get a little bit more technical 
+here let's ask it um give me an example of how to   python script and explain to me what it does so 
+let's start getting into some examples like we'r

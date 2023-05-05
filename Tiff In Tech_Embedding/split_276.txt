@@ -1,0 +1,17 @@
+using bright 
+data is its ability to quickly and easy integrate   data from different sources this can save yourself 
+the businesses you work for resources and Time   by eliminating the need for manual data entry 
+and Reconciliation all right let's dive into it   foreign okay so as you can see on screen here I 
+am logged into my bright data account and you can   focus on proxy infrastructure web data platform 
+in this case I'm already going to go into the data   collection platform and go into collectors now 
+in here you can see I have some data sets I've   been playing around as I mentioned with bright 
+data already so that's why there's some existing   ones for this though I'm going to go through 
+developing a new self-managed collector and kind   of going back to the beginning of this video we 
+are going to be creating a Amazon product search   that searches for iPhones so for this they already 
+have some templates that you can build upon so go   develop a self-managed collector and then from 
+here you can see there are a ton of different   templates now you can start from scratch you don't 
+have to use one of these templates this using one   of these templates I found really helped save 
+time and you can modify them to your specific   needs which is a benefit as well so for this 
+let's go Amazon product search use template okay so as you can see here it already has some 
+code for you it's already doing the pagination   for you too which is huge and let's go into scroll 
+down you can type in a keyword what is the latest   iPhone 13. let's do iPhone 11. let's keep it this

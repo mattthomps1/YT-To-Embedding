@@ -1,0 +1,19 @@
+tually go into API tokens   add token user permissions expiration date 
+yes this all looks good save okay enter in   my two-step verification code save and it will 
+generate a unique token [Music] copy my token   and I'm actually going to be able to show you 
+this token so I'm going to delete it afterwards   I'm going to dismiss now if 
+I go back into my collectors   and then go into initiate by API where we 
+were initially let's copy this curl here [Music] and let's go I just want to show you how 
+simple it is and just pasted it in a bit better   okay let's try this again now we 
+have my API token in there enter   all right and this now makes available the ability 
+to receive the result of the data collection so   let's go ahead and do that copy once again I'm 
+just going to update it with my token first data set is not ready yet okay I'm 
+getting a little too ahead of myself   let's try again in a few seconds in the me 
+time let's go take a coffee break [Music] Let It Be Good okay you can go back to it now okay 
+now we're back let's try this again   amazing look how cool that is 
+so quickly you have received   all of the data It's amazing And there's 
+so much you can do with this now all right   speaking of all we can do with this let's get 
+into building a python project to utilize this   data now to turn a notification a desktop 
+notification every time the price is under   300. okay you can see here I just created a new 
+empty project called python desktop notification   next I'm going to open a new terminal here and 
+I'm using Python 3 so we need to initiate the   vir

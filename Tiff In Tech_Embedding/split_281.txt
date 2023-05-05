@@ -1,0 +1,17 @@
+what does this code do and it does tell you that 
+but there definitely is need for the human touch   still so let's give this a try just for fun 
+here copy code [Music] so it's looping over   each item in data and then appending the item 
+to price all right this is good and then let's   go over here for price and prices if price is 
+under 300 let's use the notification employer let's open up our terminal a bit and let's see what happens when we run this oh you know what I was getting this error 
+before so type error list must be integers   or slices not strings so right now we're getting 
+a string back okay so I'm not going to show you   in this video but I was getting this error 
+before and I literally that's how I started   playing around with chat GPT I was sharing 
+with chat GPT this error and finding other   ways to resolve this so I'm going to actually 
+update this code to the way that I resolved   it so you know why it was causing that error 
+is because I wasn't using data so as you can   see here I'm actually not using data at all 
+so I can get rid of this and now we can see   we are going through looping over the response 
+in Json format which then now should work so as   you can see here using notification in the from 
+plier you can add in title message app icon and   for this case it's not under 200 it's under 300. 
+now let's run this and it should work no usable no module oh yes we need to install this I got 
+this as well no module so let's go pip install   so this is another module within plier now let's 
+try again we're gonna get this one time [Music]   my fri

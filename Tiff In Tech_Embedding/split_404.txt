@@ -1,0 +1,18 @@
+  but it feels to be like you know we're opening 
+we're creating some sort of like an open sourcy   platform yeah kind of like you can integrate 
+anything to it right like you can plug anything   so what does that mean for designers so in general 
+designers we're not our Focus really because   um unlike no code Solutions no code Site 
+Builders where the expectation is that the   designers will come in into like this platform 
+and we'll be using the platform as their design   tool right like they'll be using uh like Wix 
+webflow Squarespace uh this group uh and and   like we'll go there and use whatever that 
+platform is offering them templates specific   design tools play with that some designers will 
+be able to tweak more with some coding some not   um so that's one approach with stack but we 
+were like okay we're not building a design   tool yeah we're building the integration and and 
+all that and we will enable like visual editing   on top of of things but it's like it's going 
+to be like pretty rigid like that's how we saw   the experience because we wanted this to be more 
+focused on um you know creating Pages fast but but   but realizing and understanding the fact that hey 
+for a large project large websites there's a large   team so and there's like dedicated developers 
+yeah that are gonna do the heavy lifting of the   building because performance is important 
+because the Frameworks used are important   um so that was the focus right like we're 
+gonna give you developers everything they   need to build the most modern website but then 
+we can neglect content crea

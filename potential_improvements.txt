@@ -1,0 +1,2 @@
+The df doesn't seem to change with each ask, maybe that's an issue or maybe not depending on the embeddings.  It seems to work but havn't checked it to much
+

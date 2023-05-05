@@ -1,0 +1,18 @@
+ trying to get at here 
+is i've just created manually a block reference   that is actually descriptive it's descriptive 
+to what it's showing me and maybe i put an a at   the end just to kind of give it some arbitrary 
+numbering system so this is pretty cool and it   is now a block reference why that's important 
+is because i decided years later oh i want to   reference this in my note on bean and flow not the 
+best example but you kind of get it so now if i'm   in this note i want to look at this title which 
+is source and i give it a date and all that jazz   so let me explode because i want to embed this 
+bracket bracket it saw that i was looking at this   so i can put this oh put that note in 
+there i'm going to backspace hit a carrot   and now what was that in neurocognitive okay so if 
+i go down in neurocognitive terms cool if we look   at what that reference was cognitive robinson 
+2010 a and we can see it's referenced here   so if i go to preview mode we can actually 
+preview this and if i click on the link   it goes directly to that block and that's that's 
+one of the powers of block reference so if you're   used to my other videos this is way more advanced 
+you don't need to use this feature but it does   provide some value if you know what you're 
+doing and you really need to reference blocks   i want to show a little bit more of a paired 
+down example of referencing blocks using obsidian   just today i was on twitter and i found something 
+kind of cool so i want to open up something i saw   giovanni okay not that but giovanni said something 
+about block reference

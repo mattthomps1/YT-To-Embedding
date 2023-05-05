@@ -1,0 +1,18 @@
+tual environment and to do so I just copy 
+and pasted in this command here click enter all right all right and you can see now we 
+have this file that contains other folders   for the virtual environment I always forget the 
+scripts you think after using python for many   years you remember it okay so I actually was in 
+the wrong documentation but I'll link this down   below because it was really helpful for me 
+when I was starting out in Python and as you   can see I still use it if I forget commands it's 
+essentially Visual Studio code documentation on   how to get python up and running it's so helpful 
+regardless if you've been using python for a long   time or not if you forget anything so we did the 
+virtual environment creation we just forgot to go   inside of it so let's do that now and now you can 
+see we are inside the virtual environment so next   up we need to install some packages let's 
+create a new file called main.pi to start   with and now let's start by importing requests 
+import requests let's go pip install requests all right it is installed come on go away we 
+installed you there we go and we also need to   install plier from notification and this is 
+for to use a package to implement actually   notifying us or showing the notifications 
+on our desktop pip install here we go   all right perfect so now just as we did we 
+created that command in the terminal using   Curl we're going to do the same thing but in 
+our project here so first we need to Define our   headers so this would include the content type and 
+also to the Token that we created in bright d

@@ -1,0 +1,18 @@
+to see that these arrows they're   pretty tiny on the screen but they exist and we 
+can see sometimes they point in both directions   like this one and sometimes they point in a single 
+direction like this note to this tag okay cool   now we can get into let's let's take away the 
+linking and i hit enter to go back to everything   okay cool now let's go into the layout we 
+just turned on arrows node size it starts   around one and now we can make the nodes 
+really big i don't think you want to do that   let's go back to one i find it's really good 
+just to keep it there link thickness again i   don't think the thickness really helps maybe you 
+want to go with less thickness it starts around   one so maybe we take it to let's say 0.7 ish and 
+just make those lines a little bit less thick   pretty awesome okay now we we are going 
+into some really neat gravitational i don't know meters that we can control so the 
+first is center force so if we turn on center   force what's happening is the gravitational force 
+is becoming stronger so now all of these nodes   are much closer to each other right probably 
+a little bit too much let's back that down   and let's just for right now we'll take 
+it we'll keep it at well let's do 0.7 okay   repel force so this is you know how much 
+they're pushing away from each other so if   i turn that up they start to push away then we 
+have link force the strength of the actual links   and then we have link distance so how close they 
+are versus here let's minimize minimize minimize   move out now let's look at link distance so 
+this best way to d

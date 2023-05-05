@@ -1,0 +1,17 @@
+lling you companies are hiring for this 
+and what does that look like well let's not get   into the specifics around what we think a full 
+stack developer should be or not be but rather   what companies are looking for which really varies 
+it's not necessarily that every company is looking   for the same thing or this magical unicorn they 
+are looking for knowledge on a lot of tech and   I don't think full stack developer is something 
+that you can get as your first job typically or   you shouldn't anyways but rather use your first 
+job to gather experience in various Technologies   and then you can apply that to something what 
+these companies are calling Anyways full stack   developer oh if you haven't already hit that 
+subscribe button give this video a like and   leave in the comments any questions or comments 
+you have I will do my best to go through them all   next on our list is devops devops is one of 
+those areas that I find personally it's very   hard to describe and I think it's because it 
+encompasses a lot of different practices and   methods actually instead of me just speak talking 
+about it let's put on screen here a visual of what   devops is so devops is essentially the combination 
+of cultural philosophies practices and tools that   increases in organization's ability to deliver 
+apps and services at a high velocity so they   essentially focus on automating and integrating 
+different processes into software development   and I.T they really are the links between a lot 
+of different roles and this role is extremely   important because without them things w

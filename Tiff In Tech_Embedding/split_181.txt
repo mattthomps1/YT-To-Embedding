@@ -1,0 +1,17 @@
+e   starting with the basics you are just learning 
+you are using chat GPT to learn let's see all   right so it's writing a script for us while 
+it's generating let me have my coffee again okay so what it did was generate a script or 
+import pandas Library which is extremely popular   and it's actually a really great thing though if 
+you are learning python for example or JavaScript   or whatever the cases you are learning I'm just 
+using python in this example because we've been   doing a lot with python lately and pandas is 
+a library that is extremely popular for data   manipulation and a data manipulation library 
+in Python and it explains to us what is going   on throughout this code so what is the benefit 
+here well if you were taking a tutorial I know   I I'll list some tutorials here or whatever the 
+noise is I don't know if I should use at sound   effect or not but here are some good tutorials 
+to take and then as you're going through one of   the biggest things that I really struggled with 
+was the instructor maybe didn't fully explain   something or I was kind of like a little lost and 
+then I'd asked the question say I was taking a   udemy course I would ask the question in the chat 
+and it would take days for that person to respond   and I paid money for this do you know what I mean 
+whereas this is if you're taking a course whether   it be one of the courses I shared with you or 
+or not you can actually just ask it to explain   to you what exactly it is or start from start 
+from the basics another way is to get it to quiz   you actually get it to create a quiz

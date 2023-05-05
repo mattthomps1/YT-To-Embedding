@@ -1,0 +1,128 @@
+i'll be straight with you for the past several 
+months i could care less about the graph you   in in linked networking uh note-taking apps i mean 
+to me it was just kind of a gravy on top the icing   on the cake right like how are we really using the 
+graph view but in version 0.9.0 the game is subtly   changed once again the developers have added a lot 
+of interesting features and they do two things for   me that i've already noticed they increase the 
+level of joy that i have with working in obsidian   working with my notes making new notes and number 
+two it increases the level of of frictionless   creativity so in the following demo i want to 
+show you what i found so far and this is just   hot off the press so what i found so far that has 
+improved my workflow two major things coming up   okay so let's hop into this new graph so here's 
+the main overview first thing i'm going to do i'll   collapse this side just to give us some more space 
+let me open up graph view it loads i'm collapsing   the left hand side as well and so here's my graph 
+i'm just going to center it maybe zoom in a little   bit new features check it out upper left filters 
+and layout there's a lot going on here so let's   just break it down let's play with each option 
+and then we're going to get into the two workflows   that i've already that i can already see these two 
+workflows are going to help my creative process   i'm very excited about that so hey let's look 
+we have a search window where we can search for   any term any term so let's just blinking 
+i know this will come up a lot i hit enter   and these are the notes that have the word 
+linking in them i can zoom in further if i   wanted to that's kind of neat now let's just keep 
+linking on and i can add tags so now we can toggle   tags and you know there's kind of been this push 
+to get rid of tags and make everything uh a note   a direct link for some reason that didn't quite 
+feel right it felt like we wanted to maintain the   sort of a weaker relationship between notes and 
+this is one reason because now we can turn on tags   and see which notes are connected so these are all 
+the notes that have linking not just in the title   but it can be in the body of the note as well and 
+the associated tags don't worry we'll dive into   the examples i can also turn on attachments 
+nothing for this i don't think which is fine   existing files only all right so now we'll 
+notice that some files start to disappear   because i haven't created a lot of files i've 
+only linked to them to create them in the future   and then we can also turn on orphan notes all 
+right so these are notes i would also call most   orphan notes to be boats which are blocks 
+of atomic thought they're kind of boat notes   they're just floating out by themselves so now 
+we've turned all these things on we can look at   this graph and kind of check that out now another 
+thing that's kind of neat is when we do create a   link between two notes it's a bi-directional 
+link but really technically speaking   when you create the the link it's going from 
+one direction to another and so we can turn   on arrows to make this explicit now now we 
+can start to see that these arrows they're   pretty tiny on the screen but they exist and we 
+can see sometimes they point in both directions   like this one and sometimes they point in a single 
+direction like this note to this tag okay cool   now we can get into let's let's take away the 
+linking and i hit enter to go back to everything   okay cool now let's go into the layout we 
+just turned on arrows node size it starts   around one and now we can make the nodes 
+really big i don't think you want to do that   let's go back to one i find it's really good 
+just to keep it there link thickness again i   don't think the thickness really helps maybe you 
+want to go with less thickness it starts around   one so maybe we take it to let's say 0.7 ish and 
+just make those lines a little bit less thick   pretty awesome okay now we we are going 
+into some really neat gravitational i don't know meters that we can control so the 
+first is center force so if we turn on center   force what's happening is the gravitational force 
+is becoming stronger so now all of these nodes   are much closer to each other right probably 
+a little bit too much let's back that down   and let's just for right now we'll take 
+it we'll keep it at well let's do 0.7 okay   repel force so this is you know how much 
+they're pushing away from each other so if   i turn that up they start to push away then we 
+have link force the strength of the actual links   and then we have link distance so how close they 
+are versus here let's minimize minimize minimize   move out now let's look at link distance so 
+this best way to do is to just look at one link   and then see if i turn it on the link distance 
+expands if i turn it down the distance   decreases it shortens so for the most 
+part i find that this layout information   you'll just want to adjust it once and then 
+you'll kind of find the settings that work for   you so let's spend less time with the layout and 
+now dive into a couple use cases i've discovered   i think you can discover some too that will 
+work for you but i want to point out these   two because they are awesome to keep you creative 
+they are awesome to keep you in note making mode   so we're not just mindlessly wandering around 
+this uh magilla universe of notes but we're   actually diving in we're using the graph to our 
+benefit and we're making actionable steps forward so now let's start with hashtag habit i 
+know i have a lot of notes with this and   we can see i'll get rid of the tag 
+actually so i can see all the notes   get rid of orphans existing notes only get rid 
+of attachments so these are all the notes i have   that have a hashtag habit in them and i have 
+a couple moc notes these are maps of content   i have a lot to share about 
+these in different videos   but what i want to point out is existing files 
+only so this is where we start to toggle something   and it's important to toggle it just like i'm 
+doing so right now these are only existing files   i toggle it off and you notice now we have these 
+grayed out nodes these are notes that haven't been   created but i've linked to them so let's let's 
+imagine i'm focused on or you're focused on   this project you want to write an article 
+you want to just get your mind wrapped around   habits you've read some books you know the power 
+of habit atomic habit you just you've had habits   in your life and you want to make sense of this 
+knowledge as you're making sense you might make   an evergreen note we'll get to that term later 
+you might make the evergreen note called habits   carry a ton of hidden inertia okay now in the 
+course of making this note you link to this new   idea called the flywheel effect but you you 
+don't want to create it right now that's a   whole other thing so when i toggle existing 
+files only and i turn it off i can now see   flywheel effect is here and so what i'm looking 
+at when i toggle existing files only off is i'm   looking for easy wins i'm looking for easy notes 
+i can dive into and start to develop a little bit   so if i was in this mindset i would toggle off 
+and i would look in and be okay where can i go   flywheel effect oh frankenstein monster that's 
+one i've been wanting to flesh out survival of   the fittest that concept i want to flesh out so 
+these are areas where i can dive into that note   let's go into the flywheel effect there's nothing 
+here right and then i would start i would start   you know typing whatever i would like to to flesh 
+this concept out so let's go back to where we were   get filters open and that's the first 
+thing so the first thing that you can do   is toggle existing files only and then 
+look for easy notes that you can jump into   right we want to remove friction like what do i 
+want to develop and this gives you a few launching   off places it's very a very practical way to stay 
+on top of your notes and stay in a creative mode   so let's just explore the graph mode a little bit 
+further here's another concept now i've put that   in i hit enter or click that button to search so 
+these are all the notes that have hashtag concept   in them and i toggle on existing files and so i'll 
+toggle off and let's explore which note i might   want to jump into so if i toggle them off and i 
+can say okay seasons this concept of seasonality   and i want to make this easier for you to read 
+seasons it connects to two notes that have   that haven't been made yet the enso and 
+the oroborus if i'm saying that correctly   so those are oh and dragon and phoenix so 
+certain concepts here that have a cyclical   seasonality to them and if the time is right i'm 
+like okay let's approach this concept i can dive   in i know exactly where to focus my time and 
+it's pretty cool to go in that respect okay   okay next up let's explore one more hashtag with 
+this concept and this is a a note a hashtag that   i use for notes i want to explicitly develop 
+further and it's just hashtag develop so let's   search for that and i can see existing files only 
+and then very quickly what i'm going to do here   is toggle that off and now i can see all sorts 
+of notes that i might want to develop further the movie groundhog day leads me to bill murray 
+leads me to another show that has that groundhog   day concept russian doll right here and it 
+can take me to the buddhist concept of samsara   we can go in so many directions 
+can you see the power of toggling   existing files only so once your library 
+expands this becomes really powerful   now the next one is toggling orphans so i had 
+mentioned this earlier boat notes so boat notes   are blocks of atomic thought if i create a new 
+note and i haven't done anything with it i'll i'll   put it as a hashtag boat and this tells me this is 
+a new idea but i haven't connected it to anything   so it's it's basically let me turn on 
+toggle orphans now oh cool so these are   my boat notes they're just floating around 
+in the sea of our digital note libraries   ready to be crafted to be fleshed out to be 
+fully formed and connected with other things   so if i'm in that mode where i want to 
+review these these isolated boat notes   graph use fantastic boat and we can toggle 
+orphan on and off okay let's zoom it back out   back to the whole graph let's turn off tags 
+existing files only let's not show the orphans   and so this is the graph as we'd normally 
+see it i hope you found this useful   this is hot off the press so i'm sure there 
+are other uses that you're going to find   please share those in the comments below so we can 
+all grow together but yeah if you like this please   subscribe there's a lot more to come and if you're 
+curious about what library i'm using here this is   the light kit and this library can be yours i'm 
+going to be doing a webinar soon it's going to be   pretty pretty cool i think pretty helpful too it's 
+been downloaded i'm not sure over 3000 times so   it's provided a lot of help to a lot of people 
+and we'll be going over the light kit in the   next couple of weeks two days ago i wasn't 
+planning to shoot this video but i mean graph   you with these filtering options it's powerful 
+and i just had to share it so i hope you found   the ability to toggle existing files the ability 
+to toggle orphan notes and to practically use that   to enhance the joy that you have with the program 
+and the creativity that you can maintain with the   program i hope you found this useful if you did 
+please consider subscribing hit the bell too so   you know the new videos that are coming and i 
+promise you there are many videos coming this   month and also this graph view it's so new so 
+if you discover some cool feature some practical   use case please share that in the comments 
+below so we can all grow together thank you   so much for watching i hope you found value 
+i really appreciate your time until next time you

@@ -1,0 +1,17 @@
+t when you start thinking of 
+large companies that you work for oftentimes if   they're building a web scraper how this could 
+be detrimental then I thought well what is the   alternative what is a better solution and for 
+this I found bright data this is a tool that   I was blown away by I've been using it tinkering 
+around with it for quite some time and I'm going   to take you along today in how I was able to in 
+minute scrape Amazon daily daily for whatever   product I'm looking for I'm getting ahead of 
+myself here let's just get right into it so   to sum it up two parts of this project first is 
+actually getting the data through a web scraper   and in my case I want to get daily data so I want 
+this to be data that is scraped daily the second   part is actually building the script for this to 
+notify me a desktop notification when the price   drops to a certain Point actually speaking of 
+that when I was playing around with this I ran   into an error and I thought you know what'd be fun 
+let's try using chat GPT for it and that's what   I did so I'll share that with you in the video 
+as well all right got my computer here [Music]   okay I'm gonna put up on screen here right there 
+this is a tool that I mentioned we are going to be   using bright data essentially is a comprehensive 
+platform that allows businesses to easily manage   integrate and analyze their data from multiple 
+sources so this could include structured data from   databases or unstructured data from sources like 
+social media emails and documents one of the key   benefits that I noted right away when 

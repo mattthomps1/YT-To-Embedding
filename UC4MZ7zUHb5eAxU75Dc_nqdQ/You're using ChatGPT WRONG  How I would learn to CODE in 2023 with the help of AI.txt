@@ -1,0 +1,160 @@
+oh what is even the point to learn how 
+to code when AI is just going to take   over my job spend all this time see 
+this laptop it's going out the window and what is the point okay before we really dive into how to use these 
+AI tools to help us with programming we first need   to know about the history understand the history 
+of AI and why it became all of a sudden so popular   today 2022 was a massive year for AI there are 
+so many AIS that was released it really caught   on and we started to see the rise of AI if you 
+will so many new apps came out so many new waves   came out around what was possible with AI and 
+it became most importantly more accepted and   embraced by the public the first quarter of 2022 
+saw incredible advancements that started to come   out to the public with AI especially in terms 
+of image and text to image generators think of   mid-journey think of Dolly too these were all 
+products that the public was able to finally   play around with and get really excited about they 
+allowed for people to quickly generate unique and   high quality content that could be used for 
+different purposes this is one of the first   times that AI really started to Get Hype from the 
+general public now their housing cases in the past   for this happen but not to this degree people were 
+really starting to catch on to Ai and it being   able to generate art in November of 2022 is when 
+things really started to open up we saw openai   really chat GPT and things immediately started 
+to change chat GPT an advanced conversational   generator that answered questions with human-like 
+responses really human-like responses the product   immediately gained so much popularity and actually 
+within five days of the release of Chachi PT it   gained 1 million users a put up on screen here 
+a graph because I think it took Instagram I'm   going to quote it wrong I think it was six months 
+or so I'll put a graph on screen but you can see   just how quickly AI this chat gbt AI has been 
+catching on people are gravitating towards it   think of AI as a tool to help you so there are so 
+many other tools that you use in your day-to-day   when you are coding think of AI more so as a 
+tool that will help or assist you so we use   tons of different Tools in our everyday coding 
+already and this is just an additional one it   doesn't have to be look looked at as the sense 
+of this is the tool that's going to take over   my job just because it knows how to code a bit I 
+mean even before we had chat GPT there was what   is that popular one I'm blanking Now give me 
+a sec GitHub co-pilot of course we had GitHub   co-pilot and this has been around or used anyways 
+by the public more frequently or longer than chat   GPT and then for some reason because chat GPT got 
+into all this hype the fear that came along with   it was real or it felt real anyways but rather 
+than looking at it as something that's going to   take over your job start looking at it as a tool 
+similar to Google similar to stack Overflow these   are all tools that we use or resources we use 
+on a day-to-day basis and now ai it's providing   us some more tools more in-depth tools also on 
+the note of AI being such a widely used tool I   want to share with you some other tools that you 
+can use that maybe will help you in other areas   in your coding career and I'll list them down here 
+okay in this video we are talking a lot about chat   GPT of course because it's mainly the one that's 
+been hyped up for so many of us and honestly I   actually really like using it it's very I know the 
+data hasn't been updated since 2021 but otherwise   it's still extremely valuable and helpful and I've 
+really found it helpful in my career thus far this   brings us to the question though what programming 
+languages should we focus in on to use these tools   most effectively the first programming language 
+I'd probably focus on is Python and also too I'm   walking through Central Park during this video and 
+let's check out this view so I had focus on python   is because it's so versatile there are so many 
+areas that you can use it there are so many things   you can do with it and it's one of those things 
+that if you are just starting out in your coding   career and you don't necessarily know what route 
+you want to take do you want to be a front-end   developer back-end developer data scientists there 
+are so many different roles that's starting with a   programming language that is as flexible and 
+widely used as python is a great way to go also   too I've been doing a lot with chat gbt and Python 
+and I feel like it really likes Python and knows   python so it's a great programming language 
+to start learning with the help of AI another   programming language that I would really suggest 
+if you are just starting out in your coding career   or coding journey is to pick up JavaScript this 
+is the first language that I picked up and I would   still really recommend it today mainly because 
+once again similar to python is very flexible   and can be used for a lot of different things so 
+whether you are building on the front-end side of   things or maybe you're building on the back end 
+it is one of those things that you can start your   coding Journey without having to fully commit as 
+to what role you want and another thing on that   note is you can progress in your career maybe you 
+start out in one area with this language and you   can grow into a different role that uses it for 
+other things there's it's multi-purpose I guess   you could say so at this point python JavaScript 
+maybe it's another language I didn't list here   I would focus on though taking a tutorial going 
+the old-fashioned way if you will versus learning   directly with chat GPT at this point instead of 
+just focusing on chat gbt for your beginning of   Learning I would focus on taking a tutorial 
+now this is where chat gbt though can come in   handy still around asking you questions about 
+the fundamentals and understanding if there's   you're taking a tutorial and there's an area 
+that you still don't really understand you can   ask it to explain it to you let me show you 
+and on that note when you are starting out   and wanting it to explain things to you it can 
+be kind of generic let me show you what I mean   all right so in chat GPT now once again I'm so 
+lucky I got in because I feel like it's always at   capacity I'm gonna buy I'm gonna upgrade I think 
+I'm gonna pay all right let's start explain to me   like an engineer I think that's really important 
+too to put how you want it explained so do you   want to explain like a kindergarten teacher 
+do you want to explain like a chef how do you   want to explain well my crisp microphone 
+okay explain to me like an engineer what   the benefits of using python are let's 
+just start with something really simple okay you can see it gave pretty high level of 
+why python is so in demand and why you should   learn it but it's really good to start with 
+understanding that why is that's one thing   I really missed when I I didn't do until later 
+in my career which came to bite me is I didn't   understand why I was doing the things I was 
+doing meaning why was I learning JavaScript   like why not python why not Java I just 
+was like this is what's put in front of   me this is what I'm gonna learn versus actually 
+taking time to understand what it is used for   the thought behind it why use for example react 
+over angular or view over react or whatever the   case is the whys behind things instead 
+I just started building and that's not   a bad thing but at some point in your journey 
+you will have to answer those questions those   whys because that will differentiate you 
+from a great engineer to an okay engineer   all right let's get a little bit more technical 
+here let's ask it um give me an example of how to   python script and explain to me what it does so 
+let's start getting into some examples like we're   starting with the basics you are just learning 
+you are using chat GPT to learn let's see all   right so it's writing a script for us while 
+it's generating let me have my coffee again okay so what it did was generate a script or 
+import pandas Library which is extremely popular   and it's actually a really great thing though if 
+you are learning python for example or JavaScript   or whatever the cases you are learning I'm just 
+using python in this example because we've been   doing a lot with python lately and pandas is 
+a library that is extremely popular for data   manipulation and a data manipulation library 
+in Python and it explains to us what is going   on throughout this code so what is the benefit 
+here well if you were taking a tutorial I know   I I'll list some tutorials here or whatever the 
+noise is I don't know if I should use at sound   effect or not but here are some good tutorials 
+to take and then as you're going through one of   the biggest things that I really struggled with 
+was the instructor maybe didn't fully explain   something or I was kind of like a little lost and 
+then I'd asked the question say I was taking a   udemy course I would ask the question in the chat 
+and it would take days for that person to respond   and I paid money for this do you know what I mean 
+whereas this is if you're taking a course whether   it be one of the courses I shared with you or 
+or not you can actually just ask it to explain   to you what exactly it is or start from start 
+from the basics another way is to get it to quiz   you actually get it to create a quiz for you or 
+create questions for you that might be asked in   an interview setting and you can create quizzes 
+that are technical soft skill related however   you want to so I just have on screen here an 
+example literally just typed in quiz me some   python interview questions and what it generated 
+is a list of 10 questions now listen maybe some   of these questions aren't common in interviews 
+for example an interviewer might not ask you the   generic question what is python but these are 
+questions that will really help you prepare for   an interview you should be able to explain what 
+is python in a few simple sentences you should   be able to explain these things how do you write 
+a unit test in Python how do you open and read a   file in Python the interviewer may or may not get 
+this specific but these are good challenges for   you to go along as you are learning to be able 
+to understand your level of knowledge are you   able to do this and it really also helps you feel 
+more confident as well when you are going into   the interview this is a great way I think one of 
+the best ways actually to really start practicing   four interviews when you as you are learning so 
+you can start literally from day one or two and   questions that really entice you or interest you 
+like wait I really want to dive into that how do   I write a unit text in Python and there you go 
+if you're confused as to where to even start with   your learnings this is actually a great way to 
+go as well starting with interview questions and   narrowing down on what interests you or inspires 
+you the most you can also use it to help you debug   and explain code this is great as you progress 
+in your learnings that when you're coding on   your own you might not understand something or 
+maybe you're still in the tutorial portion of   it and you need it explain it in a different way 
+also tip actually let me show you and this can be   code that you are getting explained to from your 
+tutorial maybe you're onboarding at a new company   or in this example I have free code cam up on the 
+screen here and I literally just did I searched   up samples of python code and this is a really 
+actually this is a link this free code Camp down   below because let me scroll up without making you 
+dizzy here it is very long article it's a really   helpful article because it does go through what 
+they will cover for different uh Topics in Python   so if I go to let's go to recursion because that's 
+so hard to explain especially or grasp when you're   first learning so it does do they have in their 
+own blog a little article or a little summary of   what exactly recursion in Python is but if you're 
+having some trouble still understanding it let's   let's go let's do this in the Fibonacci function 
+copy it go in here and then go explain to me and   then once again this is key explain to me 
+as an engineer as a kindergartner however   you want so I'm going to say explain to me 
+in very simple terms what this code does   I think say explain to me what 
+this code does and you will get   a response but the more specific you 
+are the better result you will get says I'm gonna be so I'm gonna be 
+up all day like all night from all   this coffee and drinking today I'm telling you see here this cone defines a function called 
+Fibonacci and takes input of n the function   calculates an nth number okay I'm not gonna read 
+this whole whole thing too I'm going to put you   to sleep here you can pause this if you want to 
+read it more but it is really breaking it down   and it's one of those things that if you don't 
+understand a specific part of the explanation   you can even copy it and say explain this to 
+me further and it's just so powerful I'm kind   of I I'm really mind blown I know I shouldn't be 
+because I work intact but it's moving fast but I   wouldn't be doing this video Justice if I didn't 
+really explain to you what not to use chat GPT for   because that is almost more important than what 
+to use it for when learning also look at this View you might be saying well tip why not this 
+seems perfectly fine this is what it's there   for and while I kind of agree with you to certain 
+points you have to be aware especially when you   are learning to code that you need to know what 
+is going on with the code if you were literally   just telling chat GPT or any AI service to just 
+code for you a it's not going to scale that well   if at all actually B you're not going to know 
+what it's doing and in turn you're going to   spend so much time debugging and working through 
+errors that you're going to spend your time on   that which is a good way to learn as well versus 
+actually learning though the fundamentals chatgpt   is a great tool to help assist you and as you 
+grow in your programming career maybe there   will be times where you you will use it or tools 
+like it to write different functions for you or   and build more code for you but at that point 
+when you are doing that you will already   understand as to the purpose behind it when you 
+were first starting out learning to code do not   use these tools to code for you in turn yes you 
+might get more coding done faster we'll build   projects faster but you won't really know what is 
+going on behind the scenes and that can get very   difficult then when you go for interviews you are 
+explaining code and genuinely want to grow your   skills you need that Foundation all right I hope 
+you enjoyed this video a little tour of New York   while I embarrass myself filming in public for you 
+because I love you all so much and I hope this was   really valuable as far as how I would learn 
+to code again in today's environment with the   use of chat GPT or other AI tools and if you are 
+someone who is learning to code leave down below   what programming language you are learning 
+and I will see you all soon thanks everyone foreign

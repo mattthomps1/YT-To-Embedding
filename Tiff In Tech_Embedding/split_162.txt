@@ -1,0 +1,17 @@
+g to search up another one let's do   Japanese because I've never been to 
+Japan and I always want to go once   again just give me whatever you 
+want and then let's also put this save that and then now under the select we'll 
+need a button that we can use to convert so button   and let's call this convert currency and the ID this button will be   convert we're getting very creative here you 
+know all right underneath the button let's do   a div which will have an ID of result and that is 
+where we'll display the result so this is pretty   simple so far you know we're just creating an HTML 
+file that once again you can follow along for this   tutorial and then from there I would really 
+suggest going ahead and making your own like   you can get so creative with Chrome extensions 
+there are so many different possibilities things   that I know I want to make and I wanted to start 
+with something though simple but also this time   using an API to really enable you to take this 
+tutorial and use your own apis if you want or   whatever you want to build with all right I think 
+we are in good shape let's format this better I always when I format I go on a Mac I 
+go command a to select all and then I go   now I can't do some talking about it option 
+shift format is there a better way we should   look this up is there a better way because 
+I feel like this didn't do the best I did   okay let me know down in the comments though all 
+right let's get into though our Javascript file   so the first thing we're going to do is get 
+these elements by ID so we made some IDs in   here from cu

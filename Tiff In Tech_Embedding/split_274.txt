@@ -1,0 +1,17 @@
+okay I'm at home for the holidays hence the 
+different setup actually let's pause here   quickly look at my view this is the snow this is 
+the level of snow I'm in Saskatchewan by the way   and it gets really cold really quickly here in 
+Winter anyways that's not the point the point   of this video is I was thinking over the holidays 
+of about deals there's always a lot of deals going   on or new products coming up and it takes a long 
+time to monitor these deals sometimes they go up   sometimes they go down I think how did I miss that 
+this technology this product was on sale for so   much cheaper I wish there was a way that I would 
+get notified when a product drops below a certain   price and naturally of course as the programmers 
+technologists we are I decided to write a python   script to do this for me well let's back up a 
+sec here before I wrote The Python script the   most important part of this was actually to scrape 
+data and I needed to think of a way to build a web   scraper and there's really two ways that I could 
+have done this or that I thought of doing this   the first is the manual way meaning literally bill 
+building a web scraper to scrape data and in this   case from Amazon now there are some downfalls 
+to this way though the first is you have to   maintain the code the second is well what if 
+the HTML element tree actually changes so if   you are scraping data based on the structure of 
+the HTML it's very common that it can change and   in turn break your application now this is an 
+application for you or I just building for fun   that's one thing bu

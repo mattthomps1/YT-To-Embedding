@@ -1,0 +1,19 @@
+ one more flow though so let's say here let's go back into our code
+snippet say we want to document around the search results and why we are returning what
+we are returning and how others can get other data from that so let's go add and scroll
+down we can see it's up to date here but say we make some changes here again so let's go
+back into our vs code so we can see here now in our git repo that
+we have added the new P tag and the result Max height and if I go back and swim you can
+see here Auto synced snippet you can see that it's out of date so we have this was of course
+the old auto sync by swim and then the new here we want to accept it or reselect it and
+of course we want to accept it so that's another great thing you can always be up to date with
+your code and it really highlights any changes that are made throughout the document now
+you can also go commit one change and simple as that because we added this code snippet
+in and we haven't committed it yet okay another thing I want to share with you is about smart
+tokens so essentially what they allow you to do is you can type in your backtick and
+then type in your token reference so this could be a variable a class and swim will
+actually suggests content from multiple repositories so you can see here my two repositories now
+I feel like this isn't the best example of that rather I'm going to share with you on
+screen here an example where they are doing the front and back end repositories this is
+a really great example of when you maybe want to utilize or reference something from a different
+repository especially when yo

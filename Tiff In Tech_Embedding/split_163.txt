@@ -1,0 +1,17 @@
+rrency amount convert and results so 
+let's uh to go ahead and do that the first one is   amount let's go amount const amount 
+equals document get element by ID   and the ID is amount now let's copy and 
+then update it amount and we have currency and then we have convert and result now this is getting 
+the IDS from the HTML document   there we go perfect Next Step because we 
+are using an API we're going to need to   get our API key which I will share with you 
+in a bit here how to do that let's just put   that there temporarily and also too we will 
+need to define the API URL which once again   let's just continue on and then we'll 
+we'll get to the API stuff afterwards   okay and then the first one is now let's 
+start with convert the convert button   convert and then we want to add a listener event 
+essentially so when the button is clicked uh click   then let's create a function here oops I'm 
+doing this backwards oh it's early in the   morning to be honest it's not even 9am which 
+for me is pretty early to be coding okay then   let's start going constant amount total equals 
+Mount Dot value let's grab let's grab the value   I don't want that like let me live my life value let's take the URL and then also to the currency   total because in this we are passing in the 
+currency total all right now let's fetch this URL passenger headers which will be our API key thank you okay now that we have our JavaScript our 
+HTML and our manifest Json we need to as   a reminder get our icon so for this I just went 
+online search money icon PNG and then add it to   your project as well

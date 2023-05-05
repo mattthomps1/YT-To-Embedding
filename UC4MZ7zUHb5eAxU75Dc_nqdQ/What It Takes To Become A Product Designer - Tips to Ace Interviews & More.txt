@@ -1,0 +1,239 @@
+foreign welcome back to another episode of talk Tech 
+with Tiff in this episode I sat down with Asaf   who is the head of design at stack bit we 
+covered really what it takes to go through   a product design interview really in depth 
+so when you leave this episode You Will Not   only understand the interviewing process but 
+some really unique tips that he shared as well   he also shared more about his journey into 
+product design and we ended the conversation   talking about some really cool Tech that we 
+are working on because fun fact Asaf and I are   actually co-workers and this was the first time 
+we met so the conversation was really inspiring   and interesting and I hope you enjoyed as well 
+before we get into it make sure to subscribe to   my monthly newsletter I linked it down below 
+it's completely free and features some really   unique discount codes uh job postings career 
+advice and more okay let's dive into it [Music] welcome to talk Tech with Tiff the New York 
+Edition where I am sitting down with industry   professionals to hear about their career 
+Journeys and current roles I created this   series to hear from people who are established in 
+the tech industry so that we can all learn what   these individuals do in their day-to-day jobs and 
+the type of opportunities out there [Music] hey   everyone we are sitting here or I am sitting here 
+with a soft today highs off hello it's pretty   crazy well not crazy but really fun fact in my 
+opinion this is uh with a fact I know we're coming   in hard with facts as often I have worked together 
+for what six seven weeks now we're co-workers at   stack bit and we're going to get into stack a bit 
+more uh later in this uh video but um this is our   first time meeting in person which is pretty 
+cool I know I know remote yes whatever you want   to call it yeah you look like you know the same 
+do I look like my photo because I feel like so because I feel like sometimes you're like you you 
+know you have those conversations you're going to   meet someone in person you've just seen photos 
+you're like that photo was from many years ago   yeah now I feel like you know the especially like 
+folks with good quality uh cameras yeah it's okay   I was anticipating this okay okay maybe maybe 
+you're slightly taller than I expected really   slightly I usually get shorter all right yeah 
+you got taller yeah that's where you go yeah   okay let's get into it I I feel like I know a 
+bit about yourself and your background where   you're just speaking about it but um share it 
+again let's do a repeat but but for everyone   listening I know no all right um where do I start 
+I think it's really interesting uh even from your   time back in Israel when you were talking about 
+how you were starting out your first tech job   or you can arrest like all that just let's 
+go way back way back so it All Began in 1990   um all right should I like should I go like 
+school days whatever you want yeah all right cool   um I am someone who always thought about 
+himself as a creative but always knew that   I'm not that good at it right so I was like 
+I didn't really know how to draw I didn't   really know like everyone around me that did not 
+consider themselves as creative yeah did better   like art yeah I mean um I also think like I 
+was trying to get into like the like major in   art in high school and I didn't get into that 
+yeah um ended up doing computers and something   um so yeah it was like always in the back of my 
+head but never really I never really acted on it   um I'm from Israel I did um like 
+a few years in in the military   um and you know my head was really somewhere 
+else and then um Tech is pretty big in Israel   and I started hearing and this was I'm pretty old 
+like no offense to everyone who's older than me   um but like this was around 20 to 2000 
+and and four or five I'm sorry seven   seven eight yeah seven eight where I started 
+like looking at what is it that I'm gonna do   um after I was out of the military and my wife 
+who's who was an engineer back then in Tech   um started introducing to me like the fact 
+that there's like designers designers work   in in their company and I was like huh 
+and they make money like real money   um which was also something that I cared about 
+yes um so I've learned that there are folks in   companies that are actually like producing 
+like icons and illustrations and things like   that right it wasn't like considered ux or product 
+design or anything like that it was like strictly   visual marketing um heard about another friend 
+that went through this like path of something   that was called Visual Communications and and 
+it was like it was really really really small   um so yeah that's the path that I chose and I 
+started like going uh like I've tried going into   a few schools I ended up getting into um pretty 
+awesome School in Israel um I'm not gonna name   it because no one cares but I went there and I 
+was one of the few designers that I that I know   that from the very beginning was very targeted on 
+I'm gonna design for Tech okay like I want to see   myself in a tech company I was curious about 
+what that means and and I feel like from very   um early like this was 2000 I started 
+school back like 2009 eight I think nine   um this was pretty rare for folks to like none 
+of my professors came from that background   right like no one no one really they all 
+came from like old school graphic design   um backgrounds um illustrators uh typographers 
+Etc and suddenly like they're hearing that there's   like this shift in the industry and learning 
+uh about all these like different roles that   um you can focus on so yeah that was kind of like 
+what I did and I think like being super focused   on that from the very beginning kind of gave me 
+an edge and I feel like back in the back then   I could have pointed at any startup and tell them 
+hey uh oh for sure I can work here and they would   be like all right how much yeah so it was I was I 
+felt very privileged to take that path although I   remember one of my very early mentors before I 
+even got to school was like we were doing like   this school prep to get into art school and 
+I remember the first thing they this guy told   us when he entered the room was if anyone here 
+is trying to actually make a career they will   be profitable please step outside of the store 
+now really it was like no one believed because   like graphic design yeah back then it was like 
+you know still almost yeah it's still kind of   um I wouldn't say um what's that average like 
+average or anyway they don't make any money yeah   yeah wow you okay so one thing you said is at that 
+time you were like I could point at any startup   and you know like get hired get paid whatever and 
+I'm not holding you to that exactly but but I I   feel you it was like not about me yeah no the 
+quality no one the role itself yeah what about   now do you think that's still the case now or how 
+has that shifted it is still the case it's amazing   that's really awesome well no that's that's that's 
+very no I know not true it's not true yeah there   are like a few things a few boxes that you need to 
+check yes but then if you check them it's pretty   true yeah yeah so like you and this is like an 
+advice I will give to folks um I feel like it   was important to me because I'm quite uh I don't 
+know this is not the most artistic or a pure way   to think about these things but I always thought 
+about my career as a career not just as like   um artistic path and um and it was important 
+to me that like I work in places that people   recognize obviously that's the American way to 
+do it um and that will open doors yeah and then   I'll be able to have that freedom to do more of 
+the things that I want to do again like pretty   um puristic of me like that line of thought but 
+like it's working yeah it worked it worked it's   like the you know the first door that opened uh 
+was working at Ideo then that opened a bunch of   doors for me then lift and now I feel like 
+with these two things on my resume it's like   really and that's like just not saying great 
+things about Silicon Valley in this industry   but really when folks see that you've worked 
+here and there it's it's ridiculous like the   there's so much I don't know about like I haven't 
+searched for a job for a while so I bet with   pandemic and everything it's been very hard for 
+folks so I don't want to be insensitive to that   um but I'm saying like when like a few is back 
+the the the like it was so saturated with with   open rolls right so like people were just like 
+all right sure you've worked there come on yeah   without really understanding like the differences 
+in folks uh in like the and in crafts and and   um different I don't know there's like it's it's 
+a pretty broad spectrum of what product designer   yeah means yeah um well how would you define it 
+or is that can you define it or is it just so   it's like how would you define an engineer right 
+yeah that's true yeah it depends on the company   you work at what you're focusing on it depends 
+on so I feel like every obviously every product   is very different yes so products are different 
+Industries are different right uh and products   are different from the nature of like um you know 
+is it a consumer thing is it an Enterprise thing   is it uh like what what devices is it focusing on 
+right like is it something that needs to be more   um I don't know systemic versus something more 
+delightful um so there's like such a huge range   of things um that I feel like designers can just 
+if if I need to think about what's like a good   designer I will say like someone who really knows 
+and being honest with themselves about what's   their strengths and what's their uh weaknesses or 
+at least like no be very focused on what are the   things they want to do and then get their strength 
+do that to that place yeah and then find the right   role for you yeah um because I can't say like you 
+know every company really is so different yeah   um you mentioned okay so you Ideo Ideo and 
+then lift all right going back before that   a little startup a little startup okay that's my 
+question because you know not that little anymore they're actually a side Builder like really stack 
+what's the name of our company what's the name of   our company today is a great site Builder love 
+them that's awesome so that was that was the   first uh that was the first company I worked 
+for when I moved to the US I started working   for them in Israel and then I moved here um 
+and they were great about it and offered me   like to join the Palo Alto office I worked in 
+the Bay Area yeah it was great what is what is   and once again I I know that it varies company 
+to company but what is kind of across the board   like what is a typical interview process like 
+for us for this or is this like horrible really   interview for designers um 
+I know like the basic stuff   um when it's very different again startups 
+versus um Ido which was quite unique   um but in general like working like interview 
+process in Tech will be I would highly highly   recommend that you get a referral from someone you 
+know that works in a company that will connect you   because it will just make everyone's life easier 
+yeah and we'll probably help you shine faster but   let's say middle recruiter I think you first 
+do man and seriously this is probably outdated   you will do a chat with a recruiter see that 
+you're like a real human being yeah and your   qualifications seem reasonably like a good video 
+yes um then you will probably do um a phone chat   with or like a like a virtual interview with one 
+of the designers on like a a senior-ish designer   um on the team um again different companies do 
+different uh things like it lift we would search   for dedicated um roles okay so the the whole like 
+role management was around like who is the hiring   manager so the hiring manager will probably do a 
+first interview with with the candidate and then   um after like there's like a portfolio review with 
+like the recruiters and the hiring manager right   there that's the first filter and then you'll get 
+to just have a quick chat with the hiring manager   see that you're like interest interesting person 
+maybe review one or two um projects then you will   do sometimes you'll do an assignment okay yeah 
+like hey if you choose a company now make it   better yeah right like those are the worst in my 
+opinion they can be I like them really like I like   I I really like that part it's like a puzzle right 
+it's like also it's like an opportunity to show   off true it's an opportunity to do some builds and 
+whistles like it but also like it's it's because   it's an opportunity to show off sometimes people 
+lose their like structured thinking and they lose   their systemic thinking and they end up doing 
+something really flashy yeah instead of something   meaningful okay we totally which I love these are 
+the best conversations when I don't even reference   the questions good one question I'm going to 
+reference though because I want to Yes um I   want to get into something that we're both really 
+excited about and I love hearing you talk about it   as well because you literally light up is um you 
+know future Trends in design but more specifically   to Leading that into what we are doing at stack 
+bit with CSI and how it's CSI CSI what is that I   know seriously what is it CSI there's a show what 
+is this it's called CSI what does it stand for on   the show I don't know I've never ever watched it 
+but it's crime scenes investigations I guess yeah   of course yes wow that's good am I right yeah and 
+then ours is content Source interface so a little   bit different yeah and then Source interface 
+yeah we're trying to ride the naming from SEO   perspective so um everyone is going to check out 
+our SEO is going to be our CSI is going to be like   from from La trying to get like a role as a um 
+someone as a bypass or someone who got killed in   this crime scene and okay so we're talking a lot 
+about CSI and I'm gonna give like a a 20 second   overview of CSI and then how it relates to to 
+this conversation but essentially what um we're   building at stack bet stack stack bit sorry the 
+coffee's kicking in it's going really fast now   um or more specifically our engineering team 
+has built stack beat Tech beat has built is   you can take any content source so whether it's 
+apis whether it's a headless CMS database and   utilize CSI I haven't said it out loud too much 
+CSI so I'm still getting like comfortable with   that I try to avoid it yeah but you can utilize 
+you can then work with CSI and integrate it into   to your workflow so what this does is it allows 
+you to um connect to some really cool stuff one   being figma which are solutions engineer Joe uh 
+connected to figma's API and I'm going to pass   it on to you from here I'm just like putting you 
+on spot with it but it's pretty amazing yeah so   figma was like I feel like an like not something 
+that anyone had really in mind when buildings CSI   uh I've been thinking about like integration 
+with figma from like the first time I met   um our Founders ohadendan where they introduced 
+stacked me to me I was like all right so this is   kind of like a side Builder but way more Technical 
+and like everything is react based react component   so I feel like there's something there that can 
+click at some point yeah and I've tried to pitch   this a few times and I feel like we didn't 
+really feel the that it had enough substance   until uh CSI showed up and really opened up the 
+ability to integrate with like any content Source   any framework whatever you throw at it we can 
+we can integrate with it at stack bit which is   um kind of like an man I'm definitely gonna say 
+something that Simon our CTO is gonna hate later   but it feels to be like you know we're opening 
+we're creating some sort of like an open sourcy   platform yeah kind of like you can integrate 
+anything to it right like you can plug anything   so what does that mean for designers so in general 
+designers we're not our Focus really because   um unlike no code Solutions no code Site 
+Builders where the expectation is that the   designers will come in into like this platform 
+and we'll be using the platform as their design   tool right like they'll be using uh like Wix 
+webflow Squarespace uh this group uh and and   like we'll go there and use whatever that 
+platform is offering them templates specific   design tools play with that some designers will 
+be able to tweak more with some coding some not   um so that's one approach with stack but we 
+were like okay we're not building a design   tool yeah we're building the integration and and 
+all that and we will enable like visual editing   on top of of things but it's like it's going 
+to be like pretty rigid like that's how we saw   the experience because we wanted this to be more 
+focused on um you know creating Pages fast but but   but realizing and understanding the fact that hey 
+for a large project large websites there's a large   team so and there's like dedicated developers 
+yeah that are gonna do the heavy lifting of the   building because performance is important 
+because the Frameworks used are important   um so that was the focus right like we're 
+gonna give you developers everything they   need to build the most modern website but then 
+we can neglect content creation so we're gonna   enable fast content creation on top of that but 
+the design part of things uh was slightly kind   of like you know in the back of our mind but 
+not really a focus because we were like okay   designers are building in figma developers 
+will develop whatever they're building on   from figma on stack with and they will build 
+it in a componentized way so we'll have compo   we we already have like designers uh can you end 
+content creators can just use their components um   like their their crafted personal components that 
+they created on figma on sketch or whatever they   did and and then they can reutilize them really 
+fast with like you know a component Library great   and now suddenly um we were like huh actually 
+we can like just seamlessly integrate figma into   um our structured content um our methodology 
+yeah and what happened is Joe one of our solution   Engineers was able to create that integration and 
+it was pretty it's still pretty mind-blowing yeah   it's still evolving but right now what he um kind 
+of like unlocked is the ability for um designers   to sync their design system into um into stack bit 
+meaning let's say you have a website on stack bit   you will usually what you'll do is you'll 
+have your components kind of like build under   um like design system guidelines yeah and 
+your design system and your components are   probably held in like uh in between products 
+such as like storybook or something which is   which is all your components all your design 
+system implemented in code right so you're   maintaining it basically on stack bit on on figma 
+or whatever you're maintaining it on on storybook   yeah uh in code yeah and then you'll do it in like 
+your web platform yes what not so that requires   a designer constantly updating and iterating and 
+changing a developer one developer maintaining a   storybook or or a similar product and then someone 
+doing the front end and like always syncing with   everything right um so what we're doing now is 
+with stack but you're basically making changes   on figma and they automatically update um either 
+on storybook or on uh it's not actually not sorry   they will be updating um we're we're integrating 
+with storybook as well so you can either think   from storybook or from figma or skip one of them 
+but it will automatically just update on on your   website on your live website so we started with 
+tokens which is colors typography spacing all   that we're shifting into like component changes so 
+you know you'll be able to easily change like The   Styling uh like a box a block a button whatever 
+so that's already functioning working and we also   have a very clear path forward for how we're going 
+to manipulate layouts uh create new components   with new models like our stack but we will be 
+able to read proper content models from stack   from figma so yeah in theory and not so Theory 
+and I I believe that very like soon with stack   bit you'll be able to just Define a new let's 
+say section by dragging a few components that you   already have on your component library on figma 
+and hit publish and then that section will show   up in your component library on stack bit and the 
+whole thing is synced to your design system and   it's pretty magical it is really magic that is the 
+future I know it is the future it's it's unlocking   so much potential it's it's like um I was trying 
+to explain the value of this because the majority   of our team is not designers yeah I was trying 
+to explain the value that I see in this and   I was like okay you're all developers right 
+like say imagine that you're locked into the   um code editor of like the episode or whatever 
+yeah but vs code but a limited vs code okay   like a viscode that sits inside like a no code 
+uh um right like you have like a little window   that is kind of like curated according to what the 
+platform allows so imagine you're coding in that   versus really coding on a local vs code right 
+I see what you're saying yeah that to me is the   difference between trying to edit and tweak within 
+stack bit or any other visual editor versus doing   the things in figma yeah in theory I can get 
+the same results it will just take me 10 times   like slower yeah and it means for a lot more 
+potential in mistakes along the way and it's   the inconsistency is real yeah it's real it's 
+a real thing right like you have to maintain   consistency across three platforms yeah which is 
+nuts it is nuts and it's not anymore why sold I   know I know I'm gonna link uh more information 
+on down below because it's for anyone which is   pretty much everyone watching this interested 
+in design or technology is really fascinating   um and uh yeah so link some resources down 
+below also to get us off on this podcast I   promised him that everyone watching how to 
+go follow his Twitter so I'm gonna link his   Twitter down below there's one 53 right now 
+153 people following me right now which is   I guess embarrassing it's not embarrassing at 
+all it's not embarrassing I'm not embarrassed   no and then by the time this goes live he wants 
+at least a hundred thousand was that the I think   150k I feel like you're keeping on going up why 
+not why not just keep on uh esophage was great   having you here thank you so much um thank 
+you for the coffee yeah for sure and I guess   I'll see you virtually in two days back at work 
+yes thanks everyone thank you foreign [Music]

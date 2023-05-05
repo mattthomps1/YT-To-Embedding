@@ -1,0 +1,18 @@
+ for you or 
+create questions for you that might be asked in   an interview setting and you can create quizzes 
+that are technical soft skill related however   you want to so I just have on screen here an 
+example literally just typed in quiz me some   python interview questions and what it generated 
+is a list of 10 questions now listen maybe some   of these questions aren't common in interviews 
+for example an interviewer might not ask you the   generic question what is python but these are 
+questions that will really help you prepare for   an interview you should be able to explain what 
+is python in a few simple sentences you should   be able to explain these things how do you write 
+a unit test in Python how do you open and read a   file in Python the interviewer may or may not get 
+this specific but these are good challenges for   you to go along as you are learning to be able 
+to understand your level of knowledge are you   able to do this and it really also helps you feel 
+more confident as well when you are going into   the interview this is a great way I think one of 
+the best ways actually to really start practicing   four interviews when you as you are learning so 
+you can start literally from day one or two and   questions that really entice you or interest you 
+like wait I really want to dive into that how do   I write a unit text in Python and there you go 
+if you're confused as to where to even start with   your learnings this is actually a great way to 
+go as well starting with interview questions and   narrowing down on what interests you or inspires 
+you 

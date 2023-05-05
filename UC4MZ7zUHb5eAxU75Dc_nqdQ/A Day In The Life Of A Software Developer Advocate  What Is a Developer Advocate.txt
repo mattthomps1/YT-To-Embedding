@@ -1,0 +1,138 @@
+Hello friends can we check out the Tiffin Tech 
+March the merch that isn't merch because I'm not   selling it right now anyways maybe one day but 
+for now just internally high energy Tiffany okay take two take three take four I don't know today 
+we are going to be talking about my journey into   developer advocacy and developer relations 
+this is a question I've been getting asked a   lot recently is what exactly is a developer 
+Advocate what do you do and today I want to   talk to you about what I do coming from five 
+years of strictly software development into   developer relations I'm going to share with you 
+about what I do on a day-to-day basis uh what it   really entails to be a developer Advocate and 
+hopefully give you kind of more insight into   to what I do but also to to the role itself 
+and if I seem a little confused when I say   that it's because giving you insight into the 
+role itself really varies uh company to company   person to person and I'll get more into that 
+throughout this video but hopefully you will   leave this video with knowledge on what the heck 
+do I do and also what a developer Advocate is to   maybe see if it's right for you maybe you're 
+a software developer right now maybe you're in   Tech in another area or maybe you're just getting 
+into Tech and want to know about it also before   we get into it make sure to hit that subscribe 
+button for more Tech coding career life videos   leave in the comments other topics you want 
+me to cover as you know this is how I make my   videos is based on what questions you have what 
+you want to hear from me okay let's get started but I'll go somewhere else okay when I started 
+making this video I was going to do a vlog style   and I promise you more Vlogs are coming to Tiffin 
+Tech about my day-to-day routine but as many days   they're crazy busy so rather than vlogging I'm 
+just going to walk you through my day the first   thing I've been doing recently in the morning 
+actually before we get into developer relations   and that just to tell you a little bit about 
+my morning is I've been going to work out in   the morning so I get up at six every day leave 
+the house by around 6 30 and go to Pilates and   this has really helped me gain Focus throughout 
+the day I felt like my days were often so fuzzy   and I was tired and I just needed that boost of 
+energy and honestly working out in the morning   has been a huge Savior for that I feel like then 
+now throughout my days I'm more productive more   focused and honestly more happy when I get back 
+from my workout I always take some time to do some   Tiff and Tech emails and focus on that for the 
+first part from I would say about eight to nine   my workout's from seven to seven fifty get back 
+do Tiffin Tech content and emails and then at 9   I start my day now there are really three main 
+areas that I focus on in developer advocacy one   being developer education another being content 
+and the last being community and a lot of times   these three pillars overlap of course you know 
+with content being for developers with Community   intertwining with developer experience so it's 
+all kind of intertwined in a way or oftentimes   it is but then there are times where the content 
+is on its own the community is on its own focus   and the developer education is as well and 
+why at the beginning of this video I was like   kind of looking confused or laughing to myself is 
+because from company to company developer advocacy   or developer relations can really vary and what I 
+mean by that is I was actually just looking at job   postings for developer Advocates not because I'm 
+looking for a job at all but because I just like   to see what other companies are looking for what 
+they're doing in that space I just find it really   interesting and good to ensure that the skills 
+I am building and where working towards aligned   with what is in demand of course and at the end 
+of the day the most important thing is serving   the company and working at and ensuring that we're 
+meeting our goals and finding ways to do that that   I'm growing as well too so one of the things I 
+noticed though is there's a lot of variety that   can happen in these job postings so for example 
+I saw a company hiring for a developer Advocate   and half of the time it said 50 of the time you 
+will be coding and then there's some developer   Advocates where they work under the marketing team 
+so they actually don't code that much but you have   to have a very strong knowledge of Technology of 
+coding depending on what the product is that you   you are advocating for so what is a developer 
+Advocate I'm actually going to get my phone and   see what it says on here on the on the internet 
+the internet knows uh what is a developer this   is what says the first thing that comes up for 
+me anyways a developer Advocate accessibility   the liaison between an organization station and 
+its relevant developer Community or communities   the main responsibilities are to help the 
+developer Community do better work faster   and more efficiently and yeah I would agree 
+with that for the most part I think that sums   it up in a pretty nice nutshell okay my camera 
+just died let me though go back a little bit I   was thinking well I was charging actually but how 
+to frame this so I want to share with you exactly   why I ended up going into developer relations 
+and leaving software development on its own   I have been doing software development full-time 
+both front and back end for five years and it was   great I got promoted at my last company to senior 
+developer very quickly I started to lead a team of   developers it was great I was working in angular 
+at the time really enjoying it and everything was   going good so many skills that I wasn't utilizing 
+doing purely software development and I think one   of the main things was I really wanted to start 
+connecting with others talking to other people   sharing basically doing what I do at Tiffin Tech 
+but with a company and why I chose to go down   that path is I love doing coding and technical 
+things but I also love the community building   and teaching aspect and I just felt like in my 
+career if I looked a long term how I wanted it   to progress it wasn't going purely the technical 
+way it wasn't purely code encoding coding software   development I was progressing my career in that 
+way and I just wasn't feeling fulfilled I felt   like there was so much more I could offer into 
+what my skill sets were and that's not to say   you can't have an amazing career being a software 
+developer and growing it that way it just I knew I   wanted to really find the mix between soft skills 
+and technical skills now to get into developer   relations and developer advocacy what skills do 
+you need this is a question I get asked a lot   if you don't have developer experience can you 
+become one and I think yes you could definitely   become a developer Advocate without the technical 
+experience but it'd be very difficult meaning you   are speaking to developers you're often building 
+tutorials for developers showing code on screen   solving their technical problems no you have 
+to you have to be a developer before I think   at least to some degree or at least have very 
+strong skills to develop maybe you only were   a developer for a year or two years but you need 
+something there and that goes to the next question   is well do you code in this role and once again 
+that can vary company to company some developer   Advocates as I mentioned they code all the time 
+others don't and for me I when I'm how I like to   look at it is you aren't building for production 
+you're building for other developers so this might   be through doing demos getting on webinars with 
+other developer Advocates and building a project   with them making video tutorials answering 
+questions in Discord different things like   that so you get to still flex your coding skills 
+to varying degrees but you're quoting knowledge   in this role and one of the things though that 
+I was nervous about getting into this role is   am I going to lose my technical skills and I 
+think that's a huge fear that a lot of people   have if they're considering going into this role 
+for me it wasn't a long-lived it was a short-lived   fear I guess you could say mainly because I have 
+Tiffin Tech where I do different code with me's   I build cool things cool technology cool coding 
+projects with you so I knew it wasn't something   that I would lose but rather just find other ways 
+to do it and to me that was really exciting so   I absolutely love what I do it is a combination 
+of as I mentioned those three pillars so working   directly with the community if people who are 
+using your product have questions like developers   have questions around it also to sharing and 
+educating about our tool that we make and how it   can be integrated into other projects the really 
+good thing the company I work for is called stack   bit and the really good thing about it is it works 
+with many many different Frameworks so it's not as   though I am honed in on one specific technology 
+it can allow for many different Technologies to   work with which I really love and get excited 
+about because then you're speaking to people who   are using many different Technologies as well 
+and I think my favorite part of this role is   getting to flex men wear many hats Flex different 
+skill sets and one of the challenging things I   would say about this role is around Community 
+you're working towards building a community   but a quality Community I should say and what I 
+mean by that is quality essentially meaning people   who are using your product are excited about your 
+product maybe you're targeting A specific group   of people meaning people who work at large 
+Enterprises or individual developers who are   Freelancers whatever the case may be that's what I 
+mean when I say quality is having a very specific   target market and building a community around 
+that and that is probably one of the biggest   challenges because with that it's you have to be 
+authentic and find your voice but also to provide   value it's like it's a very challenging thing 
+which is exciting though an exciting challenge   I think and that's really what it is so I'll 
+give you a little a little insight as to what   my day today for example uh entailed I started 
+my morning when I started work it's now I think   it's almost six here so when I started my day 
+I started with a few meetings so I met with the   developer relations engineer we meet once a week 
+and kind of talk about what he is working on here   for focuses a lot on documentation and then we 
+it's really great when we connect because we can   talk about how the documentation can be turned 
+into content and shared and also to I give him   updates on what I'm working on and focusing on for 
+the week then after that meeting I had an outbound   meeting I think that's what it's called upon 
+meaning I met with another developer relations   individual at another company and we are working 
+on building out a demo project that will be we'll   be doing a webinar around using his technology at 
+his company and mine at my company which is going   to be really cool and exciting and that was they 
+had those two meetings and then I took some time   to work on a video I have been creating around 
+how our product works at a high level so this is   a video that is for Developers for a developers 
+page we are working on and it goes a little bit   into how to integrate the tool initially with a 
+product project I should say then after that I had   lunch I had two more meetings one with a design 
+individual one with the developer experience   person who we connect with as well he is always 
+building really cool projects and I always connect   with him on what he is working on too then after 
+that what did I do today after that I continued   on the video I was working on the how it works 
+video and then I did research For an upcoming   webinar that we were doing another demo one so 
+it's a lot of media things research building   content oh and then I didn't and then making sure 
+Discord is functioning well meaning if anyone has   a question around it but this could vary day to 
+day once again it might be more so preparing for   a webinar a few days ago I gave a demo and it was 
+not targeted towards just developers so it had to   be more higher level but it's really cool I just I 
+absolutely love this role I think it's a great way   to really grow your career I'm super passionate 
+about growing my career and continuing to   level up step up and this just seems like a 
+great balance between getting to interact with   leadership and a lot of wonderful individuals not 
+only within the company I work for but externally   and build that network but also to keep your 
+technical skills up and yeah I I don't know if   I did a good job of this I'm gonna do vlogs 
+of day in the life of a developer Advocate   it's just today this week has been nuts but a 
+vlog will come soon and in the meantime if you   have any questions I didn't answer around it 
+leave in the comments and I will answer them   as you know I answer every single comment and 
+okay it's been a day I love you all and I will   see you all soon thanks everyone hit that 
+subscribe button if you haven't by the way thank you

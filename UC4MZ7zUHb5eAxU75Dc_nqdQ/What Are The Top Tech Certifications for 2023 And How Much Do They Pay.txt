@@ -1,0 +1,127 @@
+I really want to get certified in something 
+in Tech but I don't want to waste my time on   something that's not going to be in demand 
+well have you looked into what courses are   really in demand there are some areas 
+that are continuing to grow Based on   data based on what employers are hiring 
+for okay well can you at least give me   some of the top certifications so I know 
+where to focus in on all right well I'll   I'll help you a little bit let me show 
+you what's in demand perfect [Music]   coming in at number 10 is a course by Google 
+this course is cloud digital leader it's not   necessarily a technical course so whether you are 
+on the business side or technical side there is a   lot you can gain from this course so what exactly 
+does this course entail a cloud digital leader   articulates the capabilities articulates the 
+capabilities of Google's Cloud Core products and   services and how they can benefit organizations 
+so this isn't a certification just to take if you   are someone looking to work at Google but it's 
+a certification to take if you are interested in   getting into the cloud space if you're interested 
+in working with Cloud here are the four main   areas that this exam will test you on one being 
+digital transformation with Cloud infrastructure   and application modernization and innovating with 
+data and Google Cloud also to the last one being   security and operations this is something that 
+even if you end up working on an Amazon product   or anything like that having the basis and 
+certification of a cloud product is really   important in today's day and age and according 
+to PC Magazine the average salary for someone   who has this certification is 142 000. so this 
+certification is relatively new it launched back   in 2021 but it's already continuing to see demand 
+grow for it coming in at number nine is Microsoft   certification this one is azure Azure why can I 
+not say this on camera right now Azure Solutions   architect specialist this is an exam that I'm 
+sure you've heard about from past years it's   something that is extremely popular and why is it 
+not higher on the list tip well I guess we'll get   to that as we get closer you'll understand what 
+are really trending for number three number two   number one but for now this is at number nine 
+it's still very in demand and it's one of those   things that when I was making this list I really 
+had to be careful because it's all dependent it's   dependent on what area you really want to focus 
+on how you're growing your career but overall   we're ranking number nine this exam is designed 
+to certify professionals with Advanced experience   designing cloud and other hybrid solution on the 
+Microsoft Azure platform and the compensation for   this is relatively on the low side compared 
+to others on this list on the average of 142   000 and this is according to skill soft research 
+coming in at number eight is certified ethical   hacker this course really intrigues me anyways 
+it's so you keep on hearing about cyber security   it's so in demand and it's going to continue in 
+that direction now listen I gotta be honest this   course isn't necessarily cheap so it is a bit of 
+an investment I would say if you are someone who   is looking into this course to really consider 
+it if you are already working at a company and   hopefully you can get them to help with funding 
+it the goal of this course is to help you master   ethical hacking and some of the skills that 
+you will learn include penetration testing and   it delivers an in-demand ethical hacking skills 
+while preparing you for internationally recognized   certified ethical hacker certification exam so 
+I really like that this certification will help   prepare you for the next level of the exam so 
+this is more so a course and it's how preparing   me for the certified ethical hacker exam which is 
+extremely in demand I mean the stats around cyber   security and jobs needed are honestly mind-blowing 
+I'll include some on screen here but as you can   see it's an area that if you're looking to really 
+have a long-term career solidified go in cyber   security there is so much demand for jobs both 
+Technical and non-technical and it will continue   to increase this way as everything continues 
+to go online coming in at number seven you   knew something had to be AI related on here which 
+is IBM's AI engineering professional certificate   this is a course that I personally have looked 
+into a lot and I'm really considering taking as   the world of AI continues to grow so quickly this 
+is ranked number seven this year on the list but   I have a feeling that next year it might even be 
+higher and so on this is a great course to take   I am pulling up on screen here it is available on 
+Coursera it is free and what it will teach you is   to describe machine learning deep learning neural 
+networks and other machine learning algorithms   like classification Etc once you are completed 
+this course not only will you have a strong   understanding of the business side of AI but also 
+too you will actually get to build deep learning   models and use tools like Pi torch or tensorflow 
+now it wouldn't be a full list if we didn't list   some AWS courses on here or certifications on here 
+it's an area that as a whole is not only in demand   currently but going to continue to be in demand 
+it's kind of the gold standard when it comes to   certifications companies always look at that and 
+go okay you put in a lot of time you put in a   lot of effort you must know you must have a lot of 
+knowledge on this so for number six with AWS comes   Solutions architect and this specifically is the 
+associates certification this course will really   test you on your expertise in designing systems 
+on the AWS Services Cloud I really enjoy their   courses and what they have to or certifications 
+and what they have to offer because not only is   it a lot of reading and education on that side 
+but also too it's implementation a lot of these   courses you actually have to get in there 
+and utilize the tools that they are speaking   about and according once again to PC Magazine 
+Architects can make an average of around 155   000 per year coming in at number five is cissp 
+stands for certified information system security   professional so this is great for you if you 
+are interested in working in security analysis   auditing systems engineering or really anything in 
+between and this is something that I had trouble   placing because as cyber security becomes more 
+important I wanted to put it higher on the list   but there are other ones that we will get to which 
+overtake it in in many ways which you'll see but   this is a great certification it's recognized 
+across the industry it's a pretty intense exam   and certification to go through but if you are 
+really interested in the systems engineering   side of things this is of course to really 
+look into also with this certification it's   important to note you will still need education 
+or continuing education after you complete it each   year you will need to maintain your credential 
+chills even after getting the certification this   holds it to really high standards to ensure that 
+individuals who say they have the certification   have completed this course are really up to 
+date with industry best practices now next up   is a certification that does not require technical 
+skills however I see a lot of software Engineers   growing their career in this direction can you 
+guess what it is project management and I know   some of you are either for project managers 
+we love them others of you are probably like   I haven't had a great experience with them 
+I don't really love them but regardless   they are very vital and key part or key aspect in 
+having a business running properly so the project   management professional or PMP certification 
+has been around for quite a while evolving and   updating its course over time to be relevant 
+but it's something that is well recognized in   the industry now once again this is not a free 
+certification so I would really recommend asking   your employer if they can help support funding 
+it I mean at the end of the day your employer   wants you to stay with them to grow with them 
+and also too if you are showing that you're   taking initiative to learn other skills it should 
+be almost looked at as a win-win they are funding   for more education and in turn you can apply 
+that to the company this is a certification   for individuals who really want to expand their 
+skills as project managers the certification shows   that an individual has the skills to Define 
+plan and manage complex projects and teams   and the average salary for a PMP certified 
+individual is around 150 000 U.S coming in at   number three is something for all my devops people 
+which is Microsoft Azure devops engineer this is a   great certification it's been around for a while 
+and they Continue to update it as the world of   devops evolves don't die it's gonna die again 
+also it's important to know that this is a course   that you already have to have experience with 
+developing an Azure and also to be familiar with   Azure devops and GitHub there are prerequisites of 
+two other certifications before you get to this so   that's why it is relatively high up on this list 
+is because it is very high paying and also too   very in demand for number two on the list is cism 
+certified information security manager and this of   course is a really well paid certification you are 
+getting into management level here it's definitely   something if you're earlier on in your career to 
+strive for at this level with this certification   it really focuses more on a management level so 
+it's designed to really have education and an   understanding for engineering security protocols 
+and to be able to manage a company's overall I.T   security as a cism individual you'll have access 
+lines of business you will be in charge of the   company you are working at it's department for 
+security so this is probably it's a massive   role when you think about all the responsibility 
+that really falls under it and of course they're   very well paid soft skills says you can make 
+an average of 162 000 per year on average so   some people make much higher some people make 
+lower coming in at number one is AWS Solutions   architect but the professional certification we 
+spoke earlier in this list of the associate one   and now we're talking about the professional 
+this is an extremely high paying certification   starting in a round or averaging around 168 000 
+U.S and this is an exam that no we cannot just   start working in Tech and start taking we do 
+have to have experience at least two years of   experience working with AWS is required you must 
+know one scripting language have expertise with   AWS apis and also to be familiar with both Linux 
+and windows so this is a course that if you're   already on this path that I would highly suggest 
+you looking to taking if you're just starting your   career definitely look at how you can structure 
+your career based on these exams and really   work your way up all right those are the top 10 
+certifications in tech for 2023. this list as I   mentioned at the beginning was really based on a 
+lot of different lists on Trends I saw throughout   the list and then also to trying to keep it a bit 
+diverse that no matter if you are coming from a   technical or non-technical background there is 
+a certification in here for you I think though   throughout this list one thing you will see 
+is really a trend between two areas one being   cloud and the other being cyber security these are 
+two areas that Based on data based on numbers are   really growing and jobs are so in demand in these 
+two areas so if you're looking for an area to   really focus your energy and expert T-Zone these 
+are two that I'd really check out alright thank   you all for watching I hope you enjoyed this list 
+down below some other certifications that maybe   weren't included in this video I'm always curious 
+to hear what you are working on also give this   video a thumbs up and don't forget to subscribe 
+alright I'll see you all soon foreign [Music]

@@ -1,0 +1,17 @@
+ata one sec here all right so I jumped ahead a bit and just copied 
+this code that I created I already did this   project and I'm redoing it of course to share 
+with you okay so as you can see authorization   bear and then your token here content type 
+this is a Json then let's use this requests   so let's go response equals requests get and 
+then we are going to use the URL that was in here   to break data actually and copy this URL here 
+okay we're recording screen as you can see on my   screen here I am now getting the response printing 
+out the data as you can see so I thought we'd do   something really fun here uh let's let's utilize 
+let's harness chat GPT we always talk about it   and is it going to take over programmers jobs and 
+all that why not test it out so what I'm going to   do actually is copy this code here and go into 
+chat GPT you can see I've been playing around   with it already for this and I'm going to paste 
+it in and I'm going to say what should we tell   it to do let's say use this code to write 
+more code in Python to get the prices for   prices for each object and notify the user when 
+it is under 300 go 300. I don't know this might   not be word in the best way but this is really 
+fun just to see what it does okay we're going [Music] all right that's good it's doing pretty good prices for item and data a pen item this 
+looks really good like scarily good are   we out of a job no I think you know even to go 
+through this part and get this code back which   I just did you need to understand exactly as 
+to what you are typing in how to utilize it   

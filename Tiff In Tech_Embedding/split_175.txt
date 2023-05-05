@@ -1,0 +1,1 @@
+okay here are some python projects to help you stand out the first one is a virtual assistant that will understand different voice commands another one is a password generator that generates a unique password and also a URL shortener similar to bitly but you make your own

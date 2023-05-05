@@ -1,0 +1,17 @@
+rs per se but understand how Tech 
+is built and how it operates is going to become   more and more in demand that's just my personal 
+take based on the way things are going and what   we have seen thus far so I guess the point of 
+that ramble is if you are worried about should   you still break into Tech or should you learn 
+how to code now is a better time than ever if   you ask me I know the jog Market is not ideal now 
+where we're not going to cover that but if you are   looking long term I think Now's the Time actually 
+this is completely impromptu but I was just doing   doing a video on this extension for chat GPT and I 
+just thought why not add it in this video speaking   of future Tech let me show you okay you can see 
+my screen here this is very candid I'm doing this   and I just installed this plugin it's called 
+Genie by openai it's open source and what it   does is it gives you some shortcuts for your 
+code so you can see here there is tests find   problems optimize explain complete code so what 
+I have here is a super super simple script it's   really basic but even if you do something where 
+it's like let's do add tests and then you can   see here how quickly it is generating the test 
+this isn't sponsored or anything I just found   this plugin I thought was really cool and it's 
+connected right to open AI I had to put an API   key in from openai to use it and so that's how 
+fast it just generated some tests you can also   do say I want to understand these tests I guess 
+maybe so highlight it and then go down to explain should explain this code is a unit test o

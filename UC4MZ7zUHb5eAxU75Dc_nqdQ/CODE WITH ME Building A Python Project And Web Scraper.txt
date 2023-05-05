@@ -1,0 +1,202 @@
+okay I'm at home for the holidays hence the 
+different setup actually let's pause here   quickly look at my view this is the snow this is 
+the level of snow I'm in Saskatchewan by the way   and it gets really cold really quickly here in 
+Winter anyways that's not the point the point   of this video is I was thinking over the holidays 
+of about deals there's always a lot of deals going   on or new products coming up and it takes a long 
+time to monitor these deals sometimes they go up   sometimes they go down I think how did I miss that 
+this technology this product was on sale for so   much cheaper I wish there was a way that I would 
+get notified when a product drops below a certain   price and naturally of course as the programmers 
+technologists we are I decided to write a python   script to do this for me well let's back up a 
+sec here before I wrote The Python script the   most important part of this was actually to scrape 
+data and I needed to think of a way to build a web   scraper and there's really two ways that I could 
+have done this or that I thought of doing this   the first is the manual way meaning literally bill 
+building a web scraper to scrape data and in this   case from Amazon now there are some downfalls 
+to this way though the first is you have to   maintain the code the second is well what if 
+the HTML element tree actually changes so if   you are scraping data based on the structure of 
+the HTML it's very common that it can change and   in turn break your application now this is an 
+application for you or I just building for fun   that's one thing but when you start thinking of 
+large companies that you work for oftentimes if   they're building a web scraper how this could 
+be detrimental then I thought well what is the   alternative what is a better solution and for 
+this I found bright data this is a tool that   I was blown away by I've been using it tinkering 
+around with it for quite some time and I'm going   to take you along today in how I was able to in 
+minute scrape Amazon daily daily for whatever   product I'm looking for I'm getting ahead of 
+myself here let's just get right into it so   to sum it up two parts of this project first is 
+actually getting the data through a web scraper   and in my case I want to get daily data so I want 
+this to be data that is scraped daily the second   part is actually building the script for this to 
+notify me a desktop notification when the price   drops to a certain Point actually speaking of 
+that when I was playing around with this I ran   into an error and I thought you know what'd be fun 
+let's try using chat GPT for it and that's what   I did so I'll share that with you in the video 
+as well all right got my computer here [Music]   okay I'm gonna put up on screen here right there 
+this is a tool that I mentioned we are going to be   using bright data essentially is a comprehensive 
+platform that allows businesses to easily manage   integrate and analyze their data from multiple 
+sources so this could include structured data from   databases or unstructured data from sources like 
+social media emails and documents one of the key   benefits that I noted right away when using bright 
+data is its ability to quickly and easy integrate   data from different sources this can save yourself 
+the businesses you work for resources and Time   by eliminating the need for manual data entry 
+and Reconciliation all right let's dive into it   foreign okay so as you can see on screen here I 
+am logged into my bright data account and you can   focus on proxy infrastructure web data platform 
+in this case I'm already going to go into the data   collection platform and go into collectors now 
+in here you can see I have some data sets I've   been playing around as I mentioned with bright 
+data already so that's why there's some existing   ones for this though I'm going to go through 
+developing a new self-managed collector and kind   of going back to the beginning of this video we 
+are going to be creating a Amazon product search   that searches for iPhones so for this they already 
+have some templates that you can build upon so go   develop a self-managed collector and then from 
+here you can see there are a ton of different   templates now you can start from scratch you don't 
+have to use one of these templates this using one   of these templates I found really helped save 
+time and you can modify them to your specific   needs which is a benefit as well so for this 
+let's go Amazon product search use template okay so as you can see here it already has some 
+code for you it's already doing the pagination   for you too which is huge and let's go into scroll 
+down you can type in a keyword what is the latest   iPhone 13. let's do iPhone 11. let's keep it this 
+way because what I think this will do is the whole   purpose of this project is to search for products 
+that might be on sale and I feel like iPhone 11 is   in that sweet spot that might be on sale now and 
+actually totally off topic but this is something   I really need because one of my friends is looking 
+for a used iPhone so this might be the way to go   all right from here let's simply click on preview 
+and we can see it running here the Run log which   is great and we can see the preview here so 
+right now it returned us the preview in HTML   scroll down we can see it all right and as you can 
+see you can modify this code if you would like I   really like as well how they leave comments 
+for what each part of the code is doing so   you can get very specific but in this case let's 
+finish editing okay and then you can see we have   a save template here and the output configuration 
+there is a ton of different options that it gives   you from search title URL I mean you're not just 
+getting one thing we want to focus more so on the   price but as you can see you can really build upon 
+with many different outputs so once again you saw   how many different templates there are it's really 
+cool okay let's start getting this integrating   this into our code okay so next up we can go to 
+the three dots here and let's initiate this by API and there are some commands that we need to 
+run one thing I want to note though as you   can see here you need to get your API token 
+and for this all you need to do is go into   settings account settings so first what I 
+want to do is actually go into API tokens   add token user permissions expiration date 
+yes this all looks good save okay enter in   my two-step verification code save and it will 
+generate a unique token [Music] copy my token   and I'm actually going to be able to show you 
+this token so I'm going to delete it afterwards   I'm going to dismiss now if 
+I go back into my collectors   and then go into initiate by API where we 
+were initially let's copy this curl here [Music] and let's go I just want to show you how 
+simple it is and just pasted it in a bit better   okay let's try this again now we 
+have my API token in there enter   all right and this now makes available the ability 
+to receive the result of the data collection so   let's go ahead and do that copy once again I'm 
+just going to update it with my token first data set is not ready yet okay I'm 
+getting a little too ahead of myself   let's try again in a few seconds in the me 
+time let's go take a coffee break [Music] Let It Be Good okay you can go back to it now okay 
+now we're back let's try this again   amazing look how cool that is 
+so quickly you have received   all of the data It's amazing And there's 
+so much you can do with this now all right   speaking of all we can do with this let's get 
+into building a python project to utilize this   data now to turn a notification a desktop 
+notification every time the price is under   300. okay you can see here I just created a new 
+empty project called python desktop notification   next I'm going to open a new terminal here and 
+I'm using Python 3 so we need to initiate the   virtual environment and to do so I just copy 
+and pasted in this command here click enter all right all right and you can see now we 
+have this file that contains other folders   for the virtual environment I always forget the 
+scripts you think after using python for many   years you remember it okay so I actually was in 
+the wrong documentation but I'll link this down   below because it was really helpful for me 
+when I was starting out in Python and as you   can see I still use it if I forget commands it's 
+essentially Visual Studio code documentation on   how to get python up and running it's so helpful 
+regardless if you've been using python for a long   time or not if you forget anything so we did the 
+virtual environment creation we just forgot to go   inside of it so let's do that now and now you can 
+see we are inside the virtual environment so next   up we need to install some packages let's 
+create a new file called main.pi to start   with and now let's start by importing requests 
+import requests let's go pip install requests all right it is installed come on go away we 
+installed you there we go and we also need to   install plier from notification and this is 
+for to use a package to implement actually   notifying us or showing the notifications 
+on our desktop pip install here we go   all right perfect so now just as we did we 
+created that command in the terminal using   Curl we're going to do the same thing but in 
+our project here so first we need to Define our   headers so this would include the content type and 
+also to the Token that we created in bright data one sec here all right so I jumped ahead a bit and just copied 
+this code that I created I already did this   project and I'm redoing it of course to share 
+with you okay so as you can see authorization   bear and then your token here content type 
+this is a Json then let's use this requests   so let's go response equals requests get and 
+then we are going to use the URL that was in here   to break data actually and copy this URL here 
+okay we're recording screen as you can see on my   screen here I am now getting the response printing 
+out the data as you can see so I thought we'd do   something really fun here uh let's let's utilize 
+let's harness chat GPT we always talk about it   and is it going to take over programmers jobs and 
+all that why not test it out so what I'm going to   do actually is copy this code here and go into 
+chat GPT you can see I've been playing around   with it already for this and I'm going to paste 
+it in and I'm going to say what should we tell   it to do let's say use this code to write 
+more code in Python to get the prices for   prices for each object and notify the user when 
+it is under 300 go 300. I don't know this might   not be word in the best way but this is really 
+fun just to see what it does okay we're going [Music] all right that's good it's doing pretty good prices for item and data a pen item this 
+looks really good like scarily good are   we out of a job no I think you know even to go 
+through this part and get this code back which   I just did you need to understand exactly as 
+to what you are typing in how to utilize it   what does this code do and it does tell you that 
+but there definitely is need for the human touch   still so let's give this a try just for fun 
+here copy code [Music] so it's looping over   each item in data and then appending the item 
+to price all right this is good and then let's   go over here for price and prices if price is 
+under 300 let's use the notification employer let's open up our terminal a bit and let's see what happens when we run this oh you know what I was getting this error 
+before so type error list must be integers   or slices not strings so right now we're getting 
+a string back okay so I'm not going to show you   in this video but I was getting this error 
+before and I literally that's how I started   playing around with chat GPT I was sharing 
+with chat GPT this error and finding other   ways to resolve this so I'm going to actually 
+update this code to the way that I resolved   it so you know why it was causing that error 
+is because I wasn't using data so as you can   see here I'm actually not using data at all 
+so I can get rid of this and now we can see   we are going through looping over the response 
+in Json format which then now should work so as   you can see here using notification in the from 
+plier you can add in title message app icon and   for this case it's not under 200 it's under 300. 
+now let's run this and it should work no usable no module oh yes we need to install this I got 
+this as well no module so let's go pip install   so this is another module within plier now let's 
+try again we're gonna get this one time [Music]   my friends okay I'm back in a different location 
+this is Tiffany coming from the future and the   reason being is when I was going through this 
+video and uh working on it I thought you know what   this is something that I really want to use on 
+an ongoing basis on a daily basis I want to get   these notifications every day so I decided to 
+use AP scheduler and we'll go through the code   here essentially it is a python module that will 
+allow your python library that will allow you to   schedule when the code executes so this could 
+be on a daily basis this could be on a monthly   whatever the case may be now you have to keep 
+your application running for this to Executive   course but it's still but it's super interesting 
+and it's very simple I've never scheduled a job   to run on an ongoing basis before for one 
+of these projects so I was really excited   to play around with it so let's dive into it 
+to make us get this notification if there is   an iPhone that is under a certain price every 
+single day and you can see how handy this is   for various projects actually I use this library 
+on New Year's when it was at 12 a.m I scheduled   because I would be sleeping I was a very I had a 
+very quiet New Years and I knew I'd be sleeping   so I scheduled that at midnight for text messages 
+to go out I use twilio and this Library here for   text messages to go out saying Happy New Year 
+so there's so many different things you can   use with this library that let's dive into it 
+for this project and it's just a great tool to   use for various projects so okay enough of me 
+talking let's get back into it okay so as you   can see here I added in AP scheduler now let's 
+go and install that so pip install AP scheduler go oh come on all right perfect okay I also 
+imported uh pits pipes pits I'm not 100 sure but   essentially what this is is it will be a python 
+library that we can use to define date and time   so with blocking scheduler it automatically is 
+set to UTC time I'm in Eastern time so I want   to set it to my time zone is why I imported 
+it now if we scroll down let's initiate this   function here so let's call or say scheduler 
+equals blocking scheduler then what we will do   is on top of our for Loop here let's create a 
+function called it's called send notification   you can't spell today what is new that's 
+the story of my life all right and then here let's also choose we're going to use 
+uh pits so let's go time zone equals   hits and then get the time zone and we are 
+setting it to for me anyways I am setting it   to us Eastern you can read the documentation 
+if you're sending it to something else   all right there we go it is mad about us 
+don't need to be mad go we're not mad anymore   not gonna lie I'm a JavaScript script girl 
+I feel like python with its indentations   all right so now let's actually uh 
+schedule the function to run daily so   scheduler dot add job you can see we have 
+some different options here we are going   to do send notification which we created up 
+here and for this it's going to be a Cron job I'm telling you if you could count 
+how many times I mess up my spelling   if I give you a dollar for each one we'd be 
+you'd be rich all right day of the week we're   gonna set the day of the week let's should we 
+set the day a week what do you want every day   we want every day let's just do every day but 
+if you want you could do day of the week like   I just did uh to get specific days all right now 
+let's do our we want it to be 10. I'm gonna do a   minute two because I set it for 10 but now it's 
+1004 so let's do 10 of 6. companies like that I   gotta double check I think it's like that 
+then time zone will be TZ that we just set all right minute let me double check that this is 
+how to do a minute give me a sec here okay so yes   this is how you do minute let's quickly change to 
+eight save and I already started running this and   as I mentioned you have to keep this running so 
+let's see well you can't see the time but it's   1007 right now so let's give this a minute and 
+let's see if the notification pops up I know it   did because it already did for 1007. for some 
+reason the notifications are giving me grief   when I'm using QuickTime so be curious to see if 
+it actually shows up because last time I had to   insert a screenshot of it I don't know why it's 
+uh kicking the notifications away with QuickTime   because that's what I'm using to record my screen 
+but okay it's 1008 come on notification are you   gonna appear I don't know why it doesn't appear 
+with QuickTime anyways I'll insert a screenshot   here because it will work on your computer it does 
+work on mine uh it's just for some reason with   QuickTime it won't appear anyways okay we were 
+able to make that within a few minutes so imagine   using bright data in a larger application or at 
+work uh hint if you want to stand out to your   bosses I would definitely suggest you share with 
+them about bright data but I also want to share   with you other things it has to offer so right 
+now as you can see I'm in proxy manager and this   is a great way an advanced open source tool to 
+really help speed up development time and manage   any proxy operations so there's a few features 
+that I want to highlight here from live preview of   the whole traffic logs and statistics IP rotation 
+session management it's just incredible and it's   all in one platform so also too they have a Chrome 
+extension different API and Integrations and then   of course where I was in the data collection 
+platform so bright data has a range of options   that you can utilize all within your company 
+or if you are building your own product okay   I don't know about you but that was really fun 
+to do and it's literally something I'm going to   be using on a regular basis now to notify me for 
+product updates especially for the iPhone but as   I mentioned this can be used for any product 
+and there are so many different templates to   choose from if you're wondering why I'm sitting on 
+the floors because the camera keeps on dying and   we're just keeping it real and organic over here 
+I linked bright data down below so make sure to go   sign up give them a checkout it's I I have so much 
+fun playing around with them and just seeing all   the possibilities also too I will link this code 
+down below so you can add on to this project build   it as well and if you haven't hit that subscribe 
+button for more coding Tech and career related   videos and it's boxing day here so I feel like 
+I need to go eat some more treats bye everyone foreign [Music]

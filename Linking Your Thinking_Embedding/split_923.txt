@@ -1,0 +1,18 @@
+ct these ideas over time it's easy 
+when we have 50 notes but when we have 500 and we   have 5000 it's a different story so i created this 
+kit to allow you to kind of figure out how that   works that'll be a different video and a whole 
+different series for now though let's use it to   explore themes so this is a custom theme this is 
+called cybertron which um i created and it's kind   of like futuristic and stuff you can see a little 
+bit of the look so what's kind of neat here is   remember bold in this theme bold is its own 
+color and you know if we wanted something to be   italicized that's its own color you can see the 
+color for links if we want to click on direction   that takes us to this direction note if we click 
+on four virtues that takes us to this note a   lot going on here let's not just stay on this 
+theme though let's go back to that really cool   kind of obsidian alternative theme by one 
+of the obsidian mods on the discord forum   actually so this is pretty cool it's clean it 
+really takes advantage of that purple color and if we look at the graph view here it's 
+a pretty cool looking thing and we can click   into any of these notes let's click into what 
+our higher order notes and here's the structure   of a note listed now we're in edit view and 
+we can see this is a title right just that   single hash we could add hashes and reduce the 
+size but that's a title we'll keep it that way   something else you might have noticed 
+is this thing called the local graph   so any note i click on and this is really wild 
+but we can see a local graph version of it 

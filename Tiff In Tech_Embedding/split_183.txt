@@ -1,0 +1,17 @@
+the most you can also use it to help you debug   and explain code this is great as you progress 
+in your learnings that when you're coding on   your own you might not understand something or 
+maybe you're still in the tutorial portion of   it and you need it explain it in a different way 
+also tip actually let me show you and this can be   code that you are getting explained to from your 
+tutorial maybe you're onboarding at a new company   or in this example I have free code cam up on the 
+screen here and I literally just did I searched   up samples of python code and this is a really 
+actually this is a link this free code Camp down   below because let me scroll up without making you 
+dizzy here it is very long article it's a really   helpful article because it does go through what 
+they will cover for different uh Topics in Python   so if I go to let's go to recursion because that's 
+so hard to explain especially or grasp when you're   first learning so it does do they have in their 
+own blog a little article or a little summary of   what exactly recursion in Python is but if you're 
+having some trouble still understanding it let's   let's go let's do this in the Fibonacci function 
+copy it go in here and then go explain to me and   then once again this is key explain to me 
+as an engineer as a kindergartner however   you want so I'm going to say explain to me 
+in very simple terms what this code does   I think say explain to me what 
+this code does and you will get   a response but the more specific you 
+are the better result you will get says I'm gonna be so I'm gonna b

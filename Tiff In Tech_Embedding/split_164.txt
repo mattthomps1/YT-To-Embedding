@@ -1,0 +1,17 @@
+ because if you remember here 
+default icon is icon.png and then we have as well   default index default pop-up which is index HTML 
+which is coming from here so it's very important   to make sure that you have those things outlined 
+properly next up let's go to API ninjas and this   is where I am getting this API from now I'm 
+actually here we go okay so for this API as   I mentioned it is for the currency exchange so 
+if you go down to exchange rate there is a one   hour delay in fetching the latest exchange rates 
+which I'm fine with if you I was using this in an   application where others were using it maybe 
+um for I mean but the exchange rate doesn't   change that much typically famous last words 
+in an hour so I'm fine with it uh so yeah API   ninjas it's free to sign up and I really love 
+they have a ton of different apis which makes   me get really creative and this isn't sponsored 
+by them or anything I just discovered them and   love them so yeah I went to exchange rate and 
+then if you scroll down you can see here they   have code examples so we used something similar 
+for JavaScript well we used fetch but similar   concept anyway so now we need to grab our API key 
+so I'm going to go ahead and log in and after I   log in I will take you along with me as to where 
+to get the API key from okay now that I've logged   into forgot my passwords how to reset that uh now 
+that I've logged into API ninjas you can see here   I just went to my account and then right here is 
+where you will be able to find your API key I'm   obviously not going to share it with you but thi

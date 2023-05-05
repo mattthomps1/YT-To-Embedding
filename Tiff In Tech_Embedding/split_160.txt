@@ -1,0 +1,18 @@
+are on these glasses I'm telling you   it gives them metadata to Chrome about this 
+extension so things like the version things   like uh the description let's get into 
+it here first let's start with the name and let's give it the version for 
+this of course it's version 1.0   first version of this app manifest 
+version which is the version for this   manifest which let's just go to for now oops two 
+description description of this is extension two and then we need to give some information about 
+the browser actions so for this will be another   object here default under underscore icon 
+which will be the default icon for this   let's call this icon which we need to create still 
+do icon.png we're getting really fancy here and   then let's also give this a default pop-up which 
+will be our HTML so in this case let's call this   index.html all right perfect next up speaking 
+of HTML let's create this index.html file also I share this in one of my other videos and 
+I was kind of embarrassed to share this because I   thought oh everyone must know this but if you just 
+go exclamation mark and then enter it will create   a file for you or the beginning of a file for 
+you which is super nice so now in this index.html   we essentially want to be able to choose what 
+currency we are converting what currency we are   converting this is where I need more coffee right 
+now to US dollars so let's have Canadian European   let's put a few others in there and then 
+whatever you can select which currency you   are currently in and convert it to us so from 
+here let's take out all of this 

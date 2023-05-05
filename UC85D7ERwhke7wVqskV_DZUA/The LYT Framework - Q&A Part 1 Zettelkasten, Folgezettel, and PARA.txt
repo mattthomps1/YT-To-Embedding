@@ -1,0 +1,133 @@
+this is the q a time and i will stay 
+as long as as people have questions   as long as it doesn't stretch into like 
+three hours how do mocs differ from   structure notes and that's asked by anonymous 
+attendee so mocs i tried to answer this a little   bit but and we go into this in depth in in the 
+workshop but in mlc in a structure note are very   very similar because you have a regular note 
+what is a note a note is a container of thought   okay so let's make sure we have our definitions 
+that's what a note is it's a container of   thought an moc and structure note hub note um 
+outline zettle all of these are notes with links   to other notes that's their main focus right 
+that's that's their main description uh it's   not to say a regular note can't have a link or 
+two but things like structure notes their purpose   is to link out to other notes and and to provide 
+you with a sense of how notes are connected   the reason moc is different is because it has it's 
+much more fluid it's not just being an index note   and i hope i showed that with the concepts moc an 
+moc allows you multiple ways to rework these same   links based on what you're trying to accomplish 
+it is way more flexible it is way more fluid   that's not to say that you can't do that with a 
+structure note but that's not the purpose of a   structure note every definition i read of 
+the structure note that's not the purpose   but in essence both of those notes where they 
+overlap in similarity of the venn diagram is that   they are assembling links to other notes okay next 
+question let's see i'm going to look in the chat let's see what do you think dimitri what do 
+you think how do you utilize tags for the   most effective connections great question um when 
+the note is abstract meta future self so yeah how   can we make sure our future self finds notes 
+and how can we use tags to to help with that   well i mean if you saw the new graph view 
+it was basically like you know the uh   the the rumors of my death have been greatly 
+exaggerated that's how i feel about tags you know   um i i know rome which is a fantastic program kind 
+of did away with tags um i don't know like and i   don't have the ultimate answer here so we are all 
+learning together let me just preface with that   but with this new graph feature in an obsidian i'm 
+starting to really recognize the value of a tag   and it tracks with i had an article called in what 
+ways can we make relationships between notes tags   are weak links you don't always want a direct link 
+you're right you don't always want to say that's   that's my brother and that's my sister and that's 
+my mother and that's my father sometimes you just   want to say like hey we kind of live in the 
+same town or you know we play bingo together   random example you want a weak 
+relationship and that's what a tag can do   so i tried to show this in in the video 
+about the graph but off the top of my head   i mean i'm trying to think of a good one i find 
+the best tags and i think most people would agree   are actionable ones like something that you take 
+an action on and so here i have the develop so   this tells me the note has been created it might 
+be good already but i want to make it better or   it might basically have nothing in it so these 
+existing files only so these are the the the   notes that i want to develop and i'm using a 
+tag to denote that and then once i've i'm done   developing it let's go into priming once i feel 
+like this isn't bad i'm okay with priming but   i know there's so much more to develop but once 
+i'm done developing it i just get rid of develop   as a tag and there you have it then it won't 
+show up in the graph that's one use of tag as far as to save that for another time 
+kevin says asks is there any software   available that will convert evernote notes 
+to markdown effectively kevin someone in this   webinar right now has the answer so i want i want 
+that person to speak up and and say what the best   approach they have i did my evernote 
+conversion when it was so painful in 2015   so don't don't be me there are better methods 
+out there so someone answered kevin's question   how to convert their evernote notes uh 
+gustav light seems like a set of principles   of organizing things you know what i'm going to 
+type this so you guys can see the questions too um how would you how would an empty light kit look 
+what does light add to xenocostin as you mentioned   is the base yes so light adds the map of contents 
+light adds the home note what are these things   they are fluid frameworks they are frameworks 
+that basically float on top of your xedelkosten   independent note structure and from these 
+frameworks that's how we can not only organize   and structure this information but what i'm really 
+trying to advocate for when it comes to an moc   is that's how we develop information we talk 
+about folders being top down and we talk about   um notes organically zettlecostin is bottom 
+up a map of content is middle out it informs   the notes above it informs the the individual 
+notes below that is the true power and so until   you've experienced it it's hard to consider an 
+moc more than just an index node a structure note   but once you realize oh i get all these notes in 
+a room together and i get them to fight it out   and battle it out and they become sharper 
+they become better arguments they become   clearer notes and not only is that great for 
+the end product but your process of doing that   makes you that much better of a thinker makes you 
+that much more um able to recall the information   because you've done the work that's not note 
+taking that's no making pretty awesome right okay   next question is there uh can i use light 
+with foglesettle oh rabbit hole alert i   will say this that is the beauty of a map of 
+content is it employs focal settle elements   right but you don't have the limitations of 
+focal settle because i'm not going to go into it   but vocal zeddle means that you have all of your 
+notes and they're in one specific rigid structure   another version of fogalcital is just using a an 
+arbitrary timestamp you know why not just do that   but the point being is a map of content 
+allows me to create a fluid vocal zeddle   let that sink in for you focal zettle users 
+this is fluid because i can organize these ideas   a million different ways and i showed 
+that in the concept moc right this is just   a version of a focal zeddle these ideas are 
+lined up one after another but then i do it in   a different way right here so hopefully that makes 
+uh some light bulbs go off for full result users   all right thank you so much for everyone who's 
+attended we're just going to keep going i can't   believe that everybody is here and they're still 
+asking so many great questions is there a way to   auto populate the backlinks in a non eponymous 
+note uh i.e any time concepts moc is used   the note referencing it auto populates 
+the concepts mlc node oh okay so basically   is there a way that i don't have to manually 
+put the note in um that's what backlinks do   so if you're in a rush and you don't have the 
+time to actually place a new note in your moc   all you have to make sure i'm trying to find 
+an example of where this might be the case   goals law yeah this is okay so who asked 
+that question sarah so sarah your question   it's as simple as this go to your moc and 
+look into the backlinks section i'm just   going to collapse them and then you say which 
+of these notes have i not actually put into it manually put into this you can or you you don't 
+have to but a good example is gold's law it's not   in this anywhere but in gold's law guess what i 
+linked to the concept moc so that means in the   concept moc there is a backlink or a better better 
+term for it is a linked mention right here awesome   all right so we're on to david's question we're about a quarter of the way through 
+the questions yeah i'll answer all of them   if you stick around then stick 
+around feel free to go as well   and we'll make sure you get 
+everything you need david asks   and hey let me just put this into the chat it's 
+kind of strange how these windows work in zoom can you talk about your process of building notes 
+before you get to mapping them great yeah okay   so bottom up approach what's the relationships 
+between say literature notes and more evergreen   notes how are you tracking sources attributions 
+or do you bother okay so let's let's approach that   in this i'm using the light kit for the example 
+here david i'm going to go into where is it at   so douglas hoff's daughter i i watched this 
+youtube video a few months back and i just   decided let me take notes on this and kind of 
+you know give a good example for everyone so as   my notes initially you did not look this 
+pretty but i did go back and you know   pretty them up a little bit but i'm just taking 
+notes right using um kind of an outline format and   when i got to a note that i thought i wanted to i 
+was like whoa this is yeah this is a new concept   then i was like okay let's make a new note and 
+then put that information here and so that's what   concept expansion became now this is my literature 
+note right here in sources so i can always go back   to this literature note and kind of get the 
+additional context the big note i want to say   with literature notes that you see here these are 
+my words these are my thoughts and it's it's me   interpreting what i listen to and if if i did 
+quote something because it was so perfect i will   quote it here so i always remember that so that's 
+how i make sure to do the attributions properly   i'm not as rigorous about the attributions as 
+a true academic that's me personally but you   can be there's nothing preventing you from 
+being that level of rigor i always want to   make sure i attribute ideas to the right person 
+however because that's just the right thing to do   but let's say i'm here here's a good example back 
+to the concepts map and then i'm looking in linked   mentions and oh what's this concept expansion 
+click on that here we are and then i'm like oh   let's go back to the quote literature note and 
+then i'm back to the literature now so i hope   i hope that help answered your question answer 
+your question david about uh literature notes   and and and by the way none of that used a 
+map so that's just you know bottom up working how is light compared to para or other pkm methods i'll be careful with this one   i would say at the at the heart of it all is 
+light is flexible and you customize your system   para depends on four folders and it seems like 
+every other comment in the world of linking   with obsidian and rome is they they'll say 
+something like well i use para but i don't use   the a or you know i kind of blend this and that 
+so if it's helpful for you do that um i think   when you change your your mindset from folders 
+to links uh para kind of loses a lot of its value   this is another valuable note 
+though there are uses for para   people are using para in or pera i don't know 
+in obsidian quite effectively uh one of the mods   on the uh obsidian forum um discord channel 
+they're using para they're doing a lot of project   management and that's truly the big point here 
+hey if you're a project manager if that's the real   reason that you're using your notes your digital 
+notes then you probably yeah try to do that whole   par approach however that's not my main audience 
+and i hope that's not you to any i mean yeah sure   we all manage stuff what i want to manage what 
+i want to develop where i want to spend my time   is with ideas with memories with making sense 
+out of things that's the beauty of linking your   thinking now if you just want to manage people and 
+manage projects then you know project management   can happen in obsidian it can happen in rome 
+it can happen in these linked networking apps   but it's just not um where i'm going to put 
+my attention and because of that para makes   zero sense for me um and what i'm trying to get at 
+is you need to make your custom system when it's   based on links links change the game so we have 
+to you know consider everything from a blank slate   what's going to work best and that blank slate 
+for me is these are some folders honestly these   folders could change maybe i decide i don't really 
+need workspaces because i'm linking my thoughts but if i have a business then i might have a 
+workspace just for those notes because those   things are tend to tend to be more together so i 
+hope that answers without getting into it too much you

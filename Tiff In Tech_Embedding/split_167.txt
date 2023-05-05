@@ -1,0 +1,18 @@
+ice and this is used 
+right here result price this result is still here we don't need this perfect all right 
+let's try this one more time here to remove two extensions exchange rates 100 Canadian okay we are back and I figured out what was 
+wrong you can see I have a bunch of console   logs essentially what was happening is we actually 
+need to wrap this entire file in an event listener   for when the index HTML file has already loaded so 
+we were loading our Javascript file before we were   loading our index index HTML and therefore all 
+our get Elements by ID were null so I will share   that code with you in a second here but before I 
+go up there to show you that I also want to share   with you that I update the code in a few places 
+so I actually renamed this to result price and I   think we we spoke about this result price which 
+is once again here and then as well the data is   not just rate it's exchange rate this goes to I 
+feel like I'm being The Stereotype of read the   freaking documentation all right so now I was 
+just testing it out by going into dragging the   index.html file into Chrome here let's do one more 
+time before we go 100 convert from Canadian to US   and we can see also isn't that not insane 
+100 I'm Canadian I go to the us all the   time if I buy something that's worth 
+100 Canadian I had to pay 135. which   is mind-blowing mind-blowing let's go back 
+over to the extensions and we can just refresh   exchange rates and we can see now let's 
+try this here as well Canadian convert   and there we go we did it this is so cool this 
+was so fun and simp

@@ -1,0 +1,19 @@
+ you how quickly these uh code Snippets update so as I mentioned
+we have here we can see what code is utilized and highlighted but if we go back to repositories
+say we go to react search app source and obviously if you can do this in vs code but let me just
+show you uh here how quick it is so go and go down and say we say we wanted to make I
+mean even something simply like change text so never enough net worth from 2023. just change some text but this could be changing
+big things in your code base Etc next let's go commit changes all right now we go back
+into our documentation brush it you can see here from 2023 so these changes
+are happening almost instantaneously which is you can see how useful this would be especially
+when you're working in collaboration in teams I mean even in this instance it's so useful
+for us to be able to have some documentation about the project we are building and where
+to find our API Keys Etc now let's commit these draft changes you can see here in the
+top right hand corner docs successfully closed doc successfully committed I cannot speak
+today so let's go back here and you can see now we have a DOT swim which is all of our
+Docs name file version app version introduction
+and it's so like it looks so pretty the code is so nice you can imagine with hundreds or
+maybe not hundreds I hope we don't have hundreds of documentation but with tons of documentation
+how beautiful this could really get we also have a Json version of this just to have um
+information about the idea of the rep repo and also if it's configured with swim which
+it is okay let's do

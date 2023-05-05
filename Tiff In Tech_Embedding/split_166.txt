@@ -1,0 +1,17 @@
+r 
+run manifest manifest V2 extensions so all right so let's go back to our code and update 
+that see this is what happens when you learn in   public we also fail in public so it just actually 
+got uh updated to version three it says in January   so pretty recently so let's go back here I love 
+how though they are so they just shared errors   with you like that let's go back to our code okay 
+there we go save and let's see do we have to re   do the re-upload the project yeah I think we do 
+okay let's go remove and let's try this again and we have spelling errors this is just the 
+reality of course you don't recognize this   this is there anything else I did wrong today okay I think we should be good now let's 
+remove it again this process one more time   move I'm packed so what to 
+use instead seeing browser browser action required Parts copy that oh it's just action now foreign okay let's try that so just to action now 
+all right and then didn't say anything   about default icon or default pop-up so 
+hopefully that's okay let's go here all   oops removed and let's try this again no errors see and there's a will there's a way 
+let's keep on moving forward now now if we go   into our extensions icon we will see here we have 
+our exchange exchange rates and use this this is   super cool enter an amount I'm going to enter in 
+a hundred dollars and let and convert currency okay here's what we did I it's the naming 
+convention which is terrible so I have   result here and then I also have const result up 
+top so this needs to be something different so   let's call this result pr

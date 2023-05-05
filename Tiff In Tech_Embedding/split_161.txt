@@ -1,0 +1,19 @@
+outside of the   head and let's start by giving this a title 
+and for this let's call this uh tiffs Exchange   currency exchange and obviously if you're 
+publishing this I'm not actually going to   publish this we'll go through that process 
+but I'm not actually going to uh publish it   but if you are obviously give it a better 
+title than that and then we are going to   be putting in some script here which will 
+be coming from uh let's call it exchange.js all right perfect and then let's actually just 
+create that file now so we don't name something   else later on or something happens perfect now 
+outside the head let's get into creating this   and inside the body of course okay so in here 
+let's give this an H1 for heading and this is   going to be exchange rate converter 
+and then let's also start giving it   some input where we will input what oops 
+what you liking me all right anyways input   and in this input it is a type of a number 
+just give it some information be specific here let's do a placeholder let's 
+call this enter and amount   so and actually let's make input self closing 
+there we go input is self-closing right yeah   all right next up we are going to have a select 
+which will be the ID of currency we will use these   IDs in our Javascript file and then in select 
+we will have some options so let's do option and the value will be European and as I mentioned 
+we'll do copy let's do a few others do CAD let's do British which I just looked up as GBP 
+maybe I should know that I don't know and then   no I should I'm not British and let's do one 
+more I'm goin

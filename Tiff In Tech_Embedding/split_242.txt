@@ -1,0 +1,19 @@
+okay do you want to know one of the hardest
+things that I found when I was first learning to code well specifically learning react I
+should say was search functionality and I think it's because searching through an API
+or a list it seems so simple in theory similar to a to-do list but in reality it can get
+complex pretty quickly and it's one of those things though that when you actually do take
+the time to really understand how it works and go through the process of building it
+it's one of those things that will stick with you and it really helps solidify a lot of
+the fundamentals so today we are going to be building a react app going through search
+functionality of a really fun API also too I want to include I feel like I've done a
+few of these code with me videos and we don't talk about git very much so we're going to
+speak about that in this video as well and of course another thing similar to git in
+the sense of we don't talk about it a lot but it's so important is documentation I'm
+going to be sharing with you a tool that a lot of your employers will be looking for
+if you have skills around or have used in the past and let's just dive into it okay
+let's go [Music] okay so as you can see on screen here we are going to get into the react
+app in a second but as I mentioned earlier I really want to focus on other parts of the
+development process you know a lot of these codes with me are a round code which makes
+sense but there is so much other tools and things that you need to be aware of as a developer
+or someone interested in coding so you can see up on screen here I've 

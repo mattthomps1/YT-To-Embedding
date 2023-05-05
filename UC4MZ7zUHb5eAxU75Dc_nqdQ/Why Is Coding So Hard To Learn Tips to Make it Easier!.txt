@@ -1,0 +1,120 @@
+why is coding so hard to learn and does it 
+get easier all these amazing engineering   leaders seem to have it all figured out are 
+they just Geniuses or what is the secret   today oh geez okay let's just you know today 
+I'm going to be covering with you why exactly   when you are first learning how to code it 
+can feel so difficult so challenging and of   course learning anything new comes with a lot 
+of challenges but for some reason when we are   learning how to code whether it be your first 
+programming language or even if you've been a   software engineer for quite some time I mean 
+it definitely gets easier with time there is   hope for you that is just starting out but why 
+is it so hard to grasp and I want to share with   you today my thoughts around it okay also can you 
+believe in literally less than one week less than   one week actually in a few days the interact 
+conference is happening which I am so excited   about I'm curious to know who has signed up for 
+it as you know it's a completely free virtual   conference that is happening on October 25th this 
+is a conference I went to last year and I still   keep in touch with a lot of the speakers that were 
+there they are engineering leaders they have some   amazing advice to give I felt like I took away 
+from the conference a lot of insight a lot of   knowledge but honestly most importantly in my 
+opinion is a lot of inspiration in how I can   grow my career so whether you are just starting 
+out in your Tech Career or you are an engineering   leader yourself there is so much value that 
+you will gain from this conference some of the   panel topics include connecting your Dev teams 
+work to the business bottom line being a leader   in uncertain times how to treat devs like human 
+beings and the science of building products for   emerging Industries also you know we all love this 
+part of conferences which is giveaways there are   going to be a ton of different giveaways here lots 
+of prizes and also too there's going to be a live   event chat so you can connect with others that 
+are attending the conference or other speakers and   make sure to come say hi to me there are going to 
+be some incredible engineering leaders speaking at   this event some of them include ruckmany Reddy who 
+is the SVP of platform engineering Smooty Patel   who is the head of engineering and charity Majors 
+who is the CTO and co-founder now this is just   listing a few there are so many others that you 
+can connect with which is really exciting so if   you haven't already click the link down below my 
+bio it's completely free happening in a few days   and leave a comment if you will be attending so I 
+can look out for you okay let's get back into it   okay we are back now back in action and it's way 
+more peaceful and quiet just the way I like it   let's get back to it though why is coding so hard 
+to learn I want to share with you a little story   on this when I first started learning how to 
+code there are really different I discovered   there are different kind of waves you go through 
+throughout the learning to code process at first   there's this Terror there's a sphere am I going 
+to be able to do it and you question yourself a   lot then comes this almost honeymoon phase where 
+you're taking coding tutorials you're like wow   this is amazing thinking of all the projects 
+you can build how you are going to be the next   Mark Zuckerberg and just take over the world 
+and it's just like this euphoric moment when   you first start learning to code and are taking 
+tutorials and everything's going pretty smoothly   you're telling your friends about it and they're 
+all really impressed that you're gonna be a coder   it's really cool and then you think you know 
+what I've taken a few coding tutorials let me try   building something on my own this is where that 
+that Peak hits of that honeymoon and you start   going downhill very quickly meaning you start 
+building a project on your own and you quickly   realize that wow this is a lot harder than when 
+I was following a tutorial and it's one of those   things that you realize I don't know as much as I 
+thought I did so then you start Google searching   searching for other topics searching for other 
+ideas maybe you even end up in what is called maybe you even end up in what is known as tutorial 
+hell which essentially is you just keep on doing   tutorial after tutorial this point usually 
+comes after the honeymoon phase when you should   be focusing on building your own projects but you 
+just have that fear of the what if and the unknown   and maybe you've even tried to build projects on 
+your own and just gone in stock and didn't know   where to go long story short there is definitely 
+highs and lows and very high highs and very low   lows when you are learning to code the funny thing 
+is it's not just when you are starting to learn to   code it does get better as you get more experience 
+because you have the toolkit to learn new things   and learn them quicker however there definitely is 
+times where you will still face imposter syndrome   even 10 20 years in and you pick up something new 
+it's way easier because you had that toolkit but   you still have those feelings so going back to it 
+why is coding so hard to learn I'm going to break   it down to you as far as some of the reasons 
+behind why is the first one is it's a new way   of thinking for many people and I can attest to 
+myself who didn't pay attention in high school   really to math or Sciences I just didn't seem 
+quote unquote cool at the time now I wish I did   and no one really pushed me to so in turn I didn't 
+have to I didn't have that side of my brain that   logic side of my brain that is used in programming 
+that wasn't a strong suit of mine to begin with so   as much as I was learning how to code I was 
+also learning how to think in a new way how   to problem solve in a new way and I think that is 
+something that a lot of people discover when they   are starting out in their coding journey is that 
+this is a whole new way of thinking and problem   solving another thing that happens way more often 
+than not is that feeling of overwhelmed kind of   like I am in this rain right now trying to walk 
+the dogs but when you start learning to code or   learning something new in Tech the first thing you 
+will quickly realize is there is a lot to learn   there are so many resources out there so much out 
+there and it's overwhelming for me I remember I   would start learning you know react and then view 
+came out and I was like or it was the hot thing   at the time it's like oh my gosh I need a switch 
+and you know then something else came out and it's   that feeling that you're never learning enough and 
+you are first of all learning enough it's just you   need to take it day by day and I think one of 
+the most important things is whatever you pick   just stick to it until you feel pretty proficient 
+in it it's easy to jump around and then in turn   not really learn anything okay another reason why 
+coding can be really difficult to learn is coding   is hard to teach and a lot of times you will be 
+taking coding tutorials and maybe you really look   up to these people but they're not teaching it 
+in the best way possible let me rewind that a bit   maybe they're teaching it in the best way possible 
+but not in the way that works best for you and I   think half the battle is really finding someone an 
+instructor or a mentor that can speak the way you   understand if that makes sense everyone learns so 
+differently some more visually than others and at   first it takes a while getting used to what works 
+best for you for example for me when I started I   completely ignored the documentation I was more a 
+visual person I wanted to see tutorials see things   moving on screen and I do not recommend at all 
+ignoring the documentation that came to bite me   in the butt later on but the point is whatever 
+way that works best for you to start learning   do that even if it might not be the quote-unquote 
+correct way or the way people are suggesting   sometimes in order just to start something new 
+you need to do what you are comfortable with or   what you know works best for you and if you don't 
+know what works best for you that's also a part of   the reason I think that a lot of people struggle 
+with learning to code is because they're learning   how to learn which sounds kind of funny but it 
+really is a skill in itself another thing that   happens more often than not is we learn too fast 
+when you go online you see all these articles of   how I became a full stack engineer in you know 
+two months or how I landed my first job in two   weeks or I don't know just ridiculous things like 
+that and it puts subconsciously a lot of pressure   on ourselves that we need to learn everything so 
+quickly but what that really does is we end up not   learning anything because we don't learn anything 
+well another thing that really didn't work well   for me when I was first learning and still to this 
+day I need to have I'm someone who needs to have   support and everyone's different a lot of people 
+I've seen some incredible programmers who are   self-taught and never had to ask another human 
+a question but just you know went on stackable   they asked another human but they just went on 
+stack Overflow and asked that way I am someone   who gives me all of the support you got let me 
+you know take all your advice and insight and   when I was learning to code I actually hired a 
+mentor I hired someone a tutor to sit down with   me once a week I was building a react project and 
+I was actually working at the time as a software   developer very early on in my career but I was 
+still learning react I was working more in the   back end side of things and I was like I just want 
+someone who is an expert in the front end expert   with react to sit down with me once a week and 
+just like soak up all their knowledge now maybe   this isn't feasible for you know some people 
+I'm not saying to have to you have to go and   spend your money on a mentor or a tutor for me 
+it was completely an amazing investment because   I learned so quickly so much information because 
+I was able to have that one-on-one with someone   who's an expert all right let's talk about it 
+you know it's coming this word that's so overused   imposters but it's true it really can slow down 
+your learning A lot of times we question are we   good enough are we worth it am I skilled enough 
+to learn this new thing and it can really slow   down your learning to the point where it almost 
+freezes you that you stop learning for a while   because you think maybe this isn't for me this 
+is for you if you want it and it takes time as   I mentioned earlier it takes a lot of time and 
+it's one of those things that you just have to   keep on repeating it's like a muscle I always say 
+the more you practice the stronger you will get   okay those are some things that I think really 
+some insights into what makes coding difficult   to learn but at the end of the day it's one of 
+those things that I really believe anyone can   do it and maybe to varying degrees depending 
+on your background and things but at least   learn the basics build some really interesting 
+projects and get a lot of value out of it also   if you haven't already hit that subscribe button 
+show me some love and support I love you all so   much and genuinely I am so passionate about 
+making videos to help you and on that note if   there are videos you want me to cover topics 
+you want me to cover leave in the comments   it's how I get my my ideas of what you want to 
+see and I'll see you all soon thanks everyone

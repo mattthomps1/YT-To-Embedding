@@ -1,0 +1,116 @@
+for many people block reference is a killer 
+feature a superpower it's what allows bruce banner   to become the incredible hulk but is that always 
+a good thing sometimes it is sometimes it's not   but before i get into my hot take on 
+block references let's explore this   exciting new feature in obsidian just as a 
+reminder i'm nick milo and this is linking   your thinking where we talk about the why and 
+how of making meaningful notes let's hop in   i have made a new note with today's date block 
+ref test i've made a couple sentences this is   me testing out block reference let's talk about 
+the mental squeeze point so that's another note   i know there's a nice paragraph block that i can 
+use here so let's start with an embedded reference   to the main block of the note so starting from 
+scratch even though it's below i'm just going to   explode it with an exclamation point bracket 
+bracket so that's the notation then i'll do mental   okay so it auto completed i'm going to arrow 
+down to it so now with it kind of highlighted   in the arrow down i can hit the shift six block 
+references like you know it's a little bit more   to take in so just keep that in mind this is an 
+advanced use you certainly don't need to use it so   i can hit shift six which will insert the carrot 
+now it's looking at all the blocks in that note   i'm going to choose this main paragraph note 
+that i want to use and let's see what happens   cool so the carrot changes to a hashtag and it 
+gives it this hex identifier so i really don't   need this for reference anymore now if i go into 
+my preview mode let's see what this looks like   okay let's go check out what the actual linked 
+reference looks like for comparison so it gave   us this little paragraph now if we open the 
+link here's what i'm referencing and i'm in   preview mode here when i hop into edit mode notice 
+what's at the very end so the program has added   this little hex code the six digit code with a 
+carrot so that's the basics of a block reference   now let's look at other ways that it can be used 
+a regular link to the main block would look like   this so what's the in edit mode if i just if i 
+don't want to embed the block reference but if   i just want to link to it same thing i'm going to 
+type in mental okay arrow down to it in the pop-up   and then i can hit carrot which is shift six and 
+then i can go down to the thing that i want to   reference hit enter and boom there it is and so 
+when i go into preview mode no preview because   i exploded it here but we can still link to it 
+here click and there we go so i click back okay   so why does the carrot right now i have pulled up 
+why does this convert autocomplete to a hashtag   and for my limited tech knowledge this is so 
+every url that you create let's imagine that you   want to use obsidian publish all of these urls 
+are maintained so there's complete consistency and   you've been able to use obsidian publish to block 
+reference which i guess is pretty fascinating when   you think about it okay so that's the basic of 
+block reference now let's just explore a couple   simple use cases i know that you'll have a lot 
+yourself these are a couple that i just kind of   ran into that i thought were useful so if part 
+one was the general use of block references in   obsidian now we're diving into some interesting 
+use cases here's something that's kind of neat   about how obsidian is handling block references is 
+you can actually choose what the the code is that   references it all you need to do is add a carrot 
+so let's explain what i just said because that   didn't make sense while i said it if i go to let's 
+go to sources and we're going to dive into let me   make this a little bit easier for you we're 
+going to dive into this research paper on   willpower so this is something i took notes 
+on a long time ago in zotero which is still   a great app for collecting research article 
+pdfs so we're scrolling down and we get to my   extracted notations so these are highlights in 
+a pdf that i've extracted into markdown now it   exists within obsidian so if we look at one 
+of these paragraphs i want to focus on this   anterior cingulate cortex as a part of our brain 
+that's involved in behavior regulation and it gets   exhausted when we use willpower so let's explore 
+this paragraph so i want to reference this note   in the note called flow i just want to put it 
+in somewhere what would i do how would i do   that i go to the end of this paragraph this block 
+i make sure that there's a space between the last   character and then i hit carrot and then i can 
+type in whatever in this case let's just call it   cognitive and then robinson for the last name 
+of the first author and i could put 2010 if   i wanted a date what i'm trying to get at here 
+is i've just created manually a block reference   that is actually descriptive it's descriptive 
+to what it's showing me and maybe i put an a at   the end just to kind of give it some arbitrary 
+numbering system so this is pretty cool and it   is now a block reference why that's important 
+is because i decided years later oh i want to   reference this in my note on bean and flow not the 
+best example but you kind of get it so now if i'm   in this note i want to look at this title which 
+is source and i give it a date and all that jazz   so let me explode because i want to embed this 
+bracket bracket it saw that i was looking at this   so i can put this oh put that note in 
+there i'm going to backspace hit a carrot   and now what was that in neurocognitive okay so if 
+i go down in neurocognitive terms cool if we look   at what that reference was cognitive robinson 
+2010 a and we can see it's referenced here   so if i go to preview mode we can actually 
+preview this and if i click on the link   it goes directly to that block and that's that's 
+one of the powers of block reference so if you're   used to my other videos this is way more advanced 
+you don't need to use this feature but it does   provide some value if you know what you're 
+doing and you really need to reference blocks   i want to show a little bit more of a paired 
+down example of referencing blocks using obsidian   just today i was on twitter and i found something 
+kind of cool so i want to open up something i saw   giovanni okay not that but giovanni said something 
+about block references and i want to quote that   in my personal knowledge management system so 
+you know he says here i use obsidian for this   type of use and he says something else so i'm 
+just going to i know there are better methods   to extract things from twitter this is a manual 
+method just copy text i go back and let me just   paste that text in which i just re-pasted in and 
+let's say this in particular this block i want to   reference so i just go to the end of it and uh i 
+hit carrot and i hit a one that's it all i have to   really do is hit a one doesn't have to be a unique 
+identifier because what we're identifying is the   text so the i use obsidian so now let's go to this 
+actually my script for this video and starting   from scratch if we want to reference blocks 
+like quotes and tweets and here's something from   giovanni that i want to reference let's start from 
+scratch i backspace i'm going to explode this note   which is the date today's date it's my daily note 
+if you will now let's hit carrot and i can look at   all the different blocks in this note so let's 
+just explore what that means that means this first   title block is right here then the next one tweets 
+from giovanni is right here web here i use i use   and they are they are so we're looking at all the 
+blocks i just think that's kind of interesting and   something important to kind of break down slowly 
+so we can digest block reference because if i   backspace and hit hashtag which is the header 
+level reference so instead of a block level   reference it's header level let's go back to that 
+giovanni note the daily note and now we see just   the two headers are referenced so hopefully you're 
+getting a little bit of sen of a sense of how to   link out these different levels of reference you 
+can link pages which is just that or we can go   to the header level and link to one of these or 
+now we can go to the block level so it gives us   this great flexibility in what we can do almost 
+too much sometimes but it does give us flexibility   in this case i'm going to block reference what 
+giovanni said about how he uses obsidian it   autocompletes to hashtag one because remember i 
+put in the carrot one so now if we go back to this   hit preview and we have the quote right here we 
+can link back we can click this button and boom   we're looking exactly at what was referenced a 
+couple extra notes on block reference we can do   global searches now so if you hit let's see 
+anywhere let's go here and i go bracket bracket   instead of just hitting the caret once which 
+is only searching this one file if i hit it   again now i'm searching all the blocks in 
+my library which you know that's insane   but you can do it if you know exactly what you're 
+looking for and same thing now with headers so we   actually have the header functionality as well 
+and i can search all my headers that works a   little bit better for me just another interesting 
+note in version 0.9.5 we can now search headers   outside of block reference there are two things 
+in 0.9.5 that are also worth mentioning which   is now there's a command to if you're someone 
+who uses a lot of uh checklists you know you   have that one and this one this one so now you 
+can just go to whatever note you're on and hit   command enter to complete it that way so it's a 
+really fast way to toggle your your check boxes   and finally the community theme has been restyled 
+so this is just something instead this massive   image where you really had to scroll now we can 
+see a lot more a lot more easily and i think it   does scale so yeah so if you zoom out you can 
+see three at a time depending on your screen   size you'll probably see two at a time which 
+is a little bit more helpful so those are the   basics of block reference in the new version of 
+obsidian 0.9.5 now let's go to the conclusion   so after we've gone over this preview where do i 
+sit well i'm not sure block references are game   changers for me but that could always change with 
+a little bit of time it is an incredibly powerful   tool that we now have access to in obsidian so 
+i guess in that way i feel like bruce banner   deciding whether or not to go full hulk mode do 
+i want to link atomic blocks in an overpowered   hard to control and potentially fragmented way or 
+do i want to stay in bruce banner mode and keep a   sense of control over my thoughts and my abilities 
+to articulate ideas calmly as with most things   somewhere in the middle the truth lies so on this 
+more than most things i'm extremely curious how do   you plan to use block references in obsidian and 
+hey as always if you got something out of this   video please give it a like and subscribe 
+if you haven't already and please comment   below i really want to know how you'll be using 
+block references in obsidian until next time you

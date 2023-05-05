@@ -1,0 +1,17 @@
+tion so we're gonna   enable fast content creation on top of that but 
+the design part of things uh was slightly kind   of like you know in the back of our mind but 
+not really a focus because we were like okay   designers are building in figma developers 
+will develop whatever they're building on   from figma on stack with and they will build 
+it in a componentized way so we'll have compo   we we already have like designers uh can you end 
+content creators can just use their components um   like their their crafted personal components that 
+they created on figma on sketch or whatever they   did and and then they can reutilize them really 
+fast with like you know a component Library great   and now suddenly um we were like huh actually 
+we can like just seamlessly integrate figma into   um our structured content um our methodology 
+yeah and what happened is Joe one of our solution   Engineers was able to create that integration and 
+it was pretty it's still pretty mind-blowing yeah   it's still evolving but right now what he um kind 
+of like unlocked is the ability for um designers   to sync their design system into um into stack bit 
+meaning let's say you have a website on stack bit   you will usually what you'll do is you'll 
+have your components kind of like build under   um like design system guidelines yeah and 
+your design system and your components are   probably held in like uh in between products 
+such as like storybook or something which is   which is all your components all your design 
+system implemented in code right so you're   maintaining it basically on stac

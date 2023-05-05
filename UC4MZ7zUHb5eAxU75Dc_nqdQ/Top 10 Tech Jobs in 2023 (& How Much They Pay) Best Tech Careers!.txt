@@ -1,0 +1,146 @@
+notice anything different anything that looks 
+different on me today what about the Hat what do   we think of the Hat Tiff and Tack merch although 
+I'm not selling it yet anyways I don't know if   I will or not okay but enough about that today we 
+are going to be talking about 10 jobs 10 top jobs   in tech for 2023 and this topic is so important 
+to really have an understanding of because Tech   as we know and have seen especially the last 
+few years is moving quick and I'm not talking   quick like it has the past few years this one or 
+two last years it has moved at an ever-changing   pace and even if we're not looking to change 
+roles today it's important to be aware of   where things are moving what direction things are 
+moving in order to stay ahead let's jump into it the first on the list no surprise here is AI 
+engineer and this is a role that there are   not enough people to fill spots for and it will 
+continue to go this way as AI continues to blow   up now I get asked a lot around is AI just going 
+to be hyped up like blockchain was like web 3   was or is it actually here to stay well so I know 
+web3 is here to stay but more so is it just gonna   be this hype this rush and then it calms down I 
+really don't think it's the same as the web 3 hype   AI you can see is already being integrated and 
+adopted in a much wider setting with businesses   who maybe were more reluctant to adopt to web3 AI 
+is definitely catching on to the general public I   mean we've seen the stats around how quickly chat 
+GPT caught on with everyone that the user base   mods they can hear that in the video now we've 
+already seen with the attention that Chad GPT   has had and how quickly it has garnered 
+a user base I mean quicker than any other   social platform out there it's kind of insane 
+when you think about it and for me anyways as   I mentioned a few other videos AI is definitely 
+an area that I'm going to be spending more time   on and really investing my time my energy into and 
+I would highly suggest you look into as well now   even if you aren't necessarily an engineer or 
+software developer there are so many different   roles within AI that you can pursue whether it 
+be specializing I mean there's so many courses   actually which I'll I'll list here I'll put on 
+screen here from product management the business   side all of this is encompassed within AI it's 
+not just about engineering I list engineering   here because it is a huge area that there are so 
+many roles looking to be filled but it doesn't   mean that there aren't a ton of others out there 
+for non-technical people that need to be filled   and you need to have a deep understanding of AI 
+the good thing is there are so many courses out   there that you can take right from home even now 
+this is one of those areas that if you are looking   to break into Tech or maybe even evolve your 
+career getting into cyber security is one of   the safest bets that you can make and this is 
+going coming from someone who is not a better   the reality is as more things continue to become 
+online where businesses go online the demand for   cyber security Specialists whether you are a cyber 
+security engineer cyber security business analyst   whatever role you play getting into the field of 
+cyber security in general is going to continue to   grow in demand and with a growing in demand I'll 
+share a stat here actually the numbers as you can   see there are not enough people to fill all of 
+these roles so in turn what does that mean well   one thing it means is the salary will continue to 
+increase this is a great area for you to focus in   on if you are looking for job security and an 
+extremely high paying salary another area that   is very in demand is cloud architect and this is 
+something that we have seen especially with since   I would say 2020 even before then but really 
+in 2020 when everyone was working from home   more businesses were continuing to go online the 
+demand for cloud Architects or really any role   that touches the cloud has continued to Skyrocket 
+now how do you get into Cloud architecture well   there is no no formal education needed to become 
+a cloud architect however you should have a solid   understanding of cloud computing Cloud deployment 
+models cloud service models and Cloud deployment   architectures so how do you get this well for one 
+start working anywhere in the cloud touching the   cloud I always say if you're looking to get into 
+cloud of course a great place to start is with   an AWS course that's very specific but as it is 
+the most widely used place for the cloud that's   definitely where I would start I took some 
+AWS courses When I Was preparing for the AWS   developer quiz or test and I actually took them 
+on udemy they're really great very user friendly   the resources out there are just it feels infinite 
+so it's more so what resource to choose from for   me I really like udemy two other areas that I'm 
+kind of combining each one although they are two   separate jobs is data scientist and data analyst 
+and as we've heard and seen these quotes around   the internet of data is the new oil it's really 
+the truth the amount of data that come companies   are gathering about the reality is you and I 
+are continuing to increase and increase and   having an expert who can not only analyze this 
+data but then provide recommendations on how   they should best structure their products what 
+directions they should move into will continue   to go in demand now I'll actually put up on 
+screen here the differences between a data   analyst and data scientist because as you can see 
+they are very different actually I combine them   in one topic because I think we can cover them 
+both in this time span but they will continue   to grow in demand as we continue to gather more 
+and more data and the reality is the date is not   going anywhere all right let's talk about a role 
+here which is also categorized as a unicorn or a   mythical creature does it even really exist can 
+you guess what I'm talking about if you guessed   full stack developer you are correct it's full 
+stack developer now some of you might be pulling   out your hair going Tiff why are you including 
+this on this list it doesn't even exist no one   can be a full stack developer listen if you go 
+on LinkedIn and search up fold stack developer   I'm telling you companies are hiring for this 
+and what does that look like well let's not get   into the specifics around what we think a full 
+stack developer should be or not be but rather   what companies are looking for which really varies 
+it's not necessarily that every company is looking   for the same thing or this magical unicorn they 
+are looking for knowledge on a lot of tech and   I don't think full stack developer is something 
+that you can get as your first job typically or   you shouldn't anyways but rather use your first 
+job to gather experience in various Technologies   and then you can apply that to something what 
+these companies are calling Anyways full stack   developer oh if you haven't already hit that 
+subscribe button give this video a like and   leave in the comments any questions or comments 
+you have I will do my best to go through them all   next on our list is devops devops is one of 
+those areas that I find personally it's very   hard to describe and I think it's because it 
+encompasses a lot of different practices and   methods actually instead of me just speak talking 
+about it let's put on screen here a visual of what   devops is so devops is essentially the combination 
+of cultural philosophies practices and tools that   increases in organization's ability to deliver 
+apps and services at a high velocity so they   essentially focus on automating and integrating 
+different processes into software development   and I.T they really are the links between a lot 
+of different roles and this role is extremely   important because without them things would be 
+much slower they are in control of automating   and speeding up these processes connecting all 
+the pieces together and ensuring teams are able   to work in an agile setting actually speaking of 
+devops here are some salaries for devops you can   see here on screen devops is a great area to get 
+into if you have a software development background   or really any technical kind of background you 
+can apply it to devops next on the list is mobile   application developer and this is something that 
+honestly I don't hear maybe it's because I'm not   in that world but I don't hear a ton about but 
+when I was doing research for this video it kept   on coming up in job postings in data as one of the 
+most in-demand tech drops and I think it's because   everything nowadays needs to be mobile and a lot 
+of the bigger companies are investing in having a   separate app for mobile so Android iOS whether you 
+do both or you do one or the other it's very in   demand whether you do kotlin Java iOS development 
+and Swift however it looks I definitely would   suggest if you're interested in app development 
+to go forward with it it's widely used and these   skill sets that you will learn through mobile 
+development can be transferred into other areas   in the future what does that look like I'm not 
+sure what that will look like but I think it   will be one of those things that app development 
+will continue to evolve and having really good   quality Engineers to bring these apps to life will 
+continue to be extremely important next up on the   list is ux UI designer and these well they are 
+really essentially two different roles which let's   put up on screen here the differences you can see 
+there are a ton of differences between the two   crap at the end of the day though if you are a UI 
+ux researcher or designer you need to be really   in tune with your audience who are you targeting 
+how will they use this product how will they go   through the flow and in turn this role does 
+require to connect with external individuals   this might be through user-focused groups through 
+creating different surveys for people to fill out   but having a deep understanding of people so a lot 
+of my friends who actually get into ux UI design   love people and I mean very opposite from the 
+typical let's say software developer like myself   who would rather just you know talk to people 
+sometimes and then work yes ux UI designers talk   do the same thing talk to people sometimes and 
+then work but they're always always thinking about   how will the end user use this how can I best 
+make this flow for them okay the next on the list   just give me a minute here before you judge this 
+next one which is blockchain developer or really   any blockchain specialist I think nowadays A lot 
+of times blockchain has a kind of bad rap or for   the general public at least meaning when you think 
+blockchain you immediately associate it to crypto   which is definitely not the case yes it's one 
+area that blockchain touches but there are so many   areas around sustainability health care business 
+growth identity theft that blockchain can touch   so please let's not create the two to be combined 
+together blockchain is continuing to evolve and   grow in demand this Tech skill this technology 
+will be an area of focus for the current and   future as far as we can see it will continue to 
+expand so being able to have this knowledge now   and get this experience now will enable you in 
+the future to be able to be more senior at the   time that it becomes extremely widely used and ask 
+for a really high salary intern I mean you already   could do that with blockchain the possibilities 
+of it are really endless so how to become a   blockchain developer or at least very well versed 
+in blockchain if you're thinking a bit more from   a business standpoint well for one if you are 
+looking to become a blockchain developer the   good thing is there are so many courses online 
+in which you can take you need to understand   what a ledger is what consensus is you need to 
+understand how to build smart contracts and the   good news is if you're already a developer all of 
+those things I can tell you firsthand are pretty   straightforward to learn you just need to start 
+building really if you are looking to get it on   it from the business standpoint I would suggest 
+as well to take a Course once again this can just   be from online just to have that certification 
+on your resume especially to you know please AI   as it is sifting through your resume it will see 
+that you have these certifications and last but   definitely not least on the list is AR and VR 
+designers so augmented reality virtual reality   designers this is an area that touches education 
+gaming Healthcare you name it and it touches it   actually meta released recently here I don't 
+know if I'll get copyrighted for it so I'm not   going to share it in this video but I'll link it 
+down below they shared recently an ad and in the   ad what it did is it showed how augmented reality 
+and virtual reality can be used in a wide range   of Industries they were showing on screen the kids 
+learning and going through back in time being able   to interact with these creatures or animals 
+that are no longer that are extinct and then   they were also sharing about how doctors can use 
+this to you know see the virtual reality scans of   someone's knee as they're looking at the knee how 
+it will really impact our everyday lives and this   is coming very soon I mean it's already here so be 
+being part whether you're a designer engineer or   once again on the business side this is an area 
+that will continue to be in demand is extremely   popular for 2023 and beyond all right we were able 
+to list the top 10 Tech careers for 2023 and it   was very strategic in listing these and ensuring 
+that they were not only for 2023 but areas and   careers that you can grow in be comfortable in for 
+the foreseen future for seeing future near future   is it what it is for a scene future foreseeable 
+future these are careers that are really exciting   and there's so much opportunity in them 
+so I'm really curious to hear what are you   interested in leave down in the comments 
+and I'll see you all soon thanks everyone oh

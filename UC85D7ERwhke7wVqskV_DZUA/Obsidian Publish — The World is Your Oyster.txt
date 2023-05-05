@@ -1,0 +1,138 @@
+it seems just like last week i was sharing 
+with you the new graph features in obsidian   and the two ways that they slightly changed the 
+game for me here i am again because obsidian   has just released obsidian publish which 
+allows you to take your plain text files   hit a button and immediately your ideas are on the 
+web and they're not just ideas on the web they're   your linked ideas they have the same structure as 
+obsidian offline so again this is like a subtle   game changer and in the following video i'm 
+going to show you how to take advantage of that   and at the very end i'm going to show you 
+how you can start right now doing this   so hey join me in the following video i'm going to 
+walk through obsidian publish for the first time   and we're going to see the different ways 
+that we can start to apply this cool feature   and at the very end of the video i'm going to walk 
+you through how you can activate this setting and   start publishing your linked ideas right now 
+hey just in case you forgot i'm nick milo with   linking your thinking where we talk about the how 
+and why of making meaningful notes let's dive in okay so let's check this thing out we start in 
+the light kit right i'm going to publish all of   this online so what you do is you go to settings 
+account excuse me about make sure hey version is   0.9.2 or higher and receive 
+insider builds is activated   then you go to plug-in scroll all the way to the 
+bottom and publish let's toggle this thing on so   you probably saw this airplane note appear let's 
+click on it it loads so i did this one other time   so i have this site but let's look it out if i 
+wanted to change the site options you click this   button the site name let's call it light kit 
+let's make the home page file the start here   file let's go with the light mode for now let's 
+show navigation why not let's show the graph   that all looks pretty good so let's just go back 
+the next thing you can do is hit the switch cite   button and then if you hit the edit site id this 
+is part of the url so it's not the site name but   it's part of the url is the site id apparently so 
+let's just go light dash kit it looks like we can   only use letters numbers and dashes so i like 
+that let's cancel and we're pretty good there   click publish it loads i did have a change to 
+timestamps i don't care hey this is exactly a   good example i want the change to populate 
+so that's all good and boom hit publish   all that your files will load in this case i 
+only had one file that had an update to it so   only that thing is going to update and what 
+i did is i deleted it out of the light kit   and in the meantime let's go check 
+this link out so click on that and boom here it is this is the light 
+kit online using obsidian publish   so pretty cool we can zoom in on the graph we have 
+a table of content that's showing your headers   and then we can just kind of dive into 
+different notes so let's imagine we started on   the home note and this has a bunch of links to my 
+main home maps let's just kind of dive into to uh   concepts so if we dig into concepts then we 
+can dig into something else so then we could   and by the way look at the table of contents 
+tons of nice headers we could dig into flow and then we have something i wrote 
+some ideas it's a placeholder   we can see the links so this is pretty 
+cool right i mean we put something online   it's here other people can look at it and all of 
+a sudden i'm able to do what andy matushak does   and you're able to do what andy matushak can 
+do who's andy let's check it out let's go   and type in so you've probably come across this 
+at some point if you're into personal knowledge   management but andy matushak has his notes live 
+here and so if i click on let's say evergreen note   writing it opens up in a new sleeve a panel a pane 
+and then i can keep on clicking open new notes and   reading these new notes and then i can hit shift 
+and then the scroll wheel kind of scroll back   and forth so that's pretty awesome and it's been 
+out for a while i don't know when andy started it   but i know it dates back into 2019 and so now we 
+can be that we can do that i mean they won't be as   polished and beautiful as andy's notes but it's a 
+start it's a start to get other people looking at   your material and so it could be very polished 
+material or you can be working with the garage   door open a good example of that and an example 
+of something you can do with obsidian publish   is to create a choose your own adventure sort 
+of story and a good example i have for that   is the flow creation map of content so this is 
+something i created for some friends and family   a couple years ago because i'm obsessed with flow 
+that that concept by popularized by mihai chiksen   mihai and so what what does this look like this is 
+the map of content let's start with flow map and   you know you read this thing you're kind 
+of you're kind of ingesting it digesting it   um there are a couple links you can click 
+on that's the choose your adventure so   let's just choose flow creation theory 
+and then that throws us into this note   we can read up on this note i mean i'm really 
+amazed at how gorgeous this looks online   um then it gets to something that's the four 
+factors of flow and the whole idea around this   flow creation uh practical guide was that you kind 
+of troubleshoot your issues it's like hey why am i   bouncing out of flow is it because i don't have 
+direction in my life i don't have strong goals   is it because i'm lacking the ability to focus is 
+it a lack of enthusiasm is it a lack of energy so   in this case it's let's say let's go with 
+direction it's a lack of direction goals   and so it's kind of a way to troubleshoot problems 
+and then you can be prescriptive to your own needs   the whole point being is this is another 
+use of obsidian publish where you can   share something with your friends 
+and family and say hey check this out   or you just had a great conversation out in public 
+somewhere or online it doesn't matter you can say   hey check out this link because so this is pretty 
+cool each note has its unique url i mean right   so now you can share these on twitter through 
+text message whatever it is whenever you say to   yourself in conversation you say to somebody else 
+hey that reminds me of something i wrote about   boom send them a link so instead of sending 
+a link outside to some random amazon book like this awesome book daring greatly by brene 
+brown you can actually just link to content that   you've already you know that you've already made 
+these notes and then they can go on a wild ride   and it's not just some amazon review it's 
+actually your thoughts with the material so then   that person comes back to you and the conversation 
+that you have goes to a whole other level because   you're on the same wavelength talking about 
+the same ideas and they challenge some of your   thoughts and they agree with other thoughts and i 
+mean that's a good way to go and that's the power   of linking your thinking and now we can share 
+the this linked network of thought with other   people so i mean i'm just super excited 
+about the functionality involved with this   all these different notes that you can go to 
+concept expansion click on that that leads to   other things so pretty exciting i would 
+say so as you can see obsidian publish   is super powerful and i want to talk about 
+how you can get started with it right now okay just to recap to make sure i didn't miss 
+anything what can you do with obsidian publish   why is this so cool now if you're familiar with 
+andy matushak you can do the same thing he does   you can publish your notes online doesn't 
+mean they're going to look as nice as his   but it's a start and then you can share 
+your ideas with others get feedback   and it's really cool i have to tell you once 
+it's your notes it really feels different so that's what i'm going to do with the light 
+kit at this point it's been downloaded 4 200 plus   times but now with obsidian publish i can just 
+have a public file that you can look at and refer   to at any time that you want to look a little bit 
+more into hey how can we use maps of content also   you saw the sneak peek into how 
+we can do a choose your adventure   linked sort of journey i'm really excited to see 
+where this avenue goes there's a real art to it   what i showed you wasn't much of an art with the 
+flow creation choose your adventure but what you   can do i'm excited for or if you're collaborating 
+with other people obsidian publish can be your   online knowledge base it can be the directory 
+where you go to get all that information same   thing if you do have clients that you're working 
+with that can be a place of documentation where   you show everything that they need to know it's 
+so quick to edit that's the real advantage here so who is obsidian publish really for i think 
+we're going to find out but my guess is is for   people that don't know how to program who don't 
+want to mess with websites what they want to do is   stay with the signal and not the noise and what 
+is th what is the signal that's writing that's   creating that's linking that's connecting 
+ideas and sharing them with other people   so in my estimation obsidian publish is really 
+great because you don't have to worry about   anything to do with squarespace with wix with 
+wordpress with all this html and these pages   you just worry with your offline obsidian vault 
+then you select the files or the folder that   you want to publish you hit the button and 
+boom your ideas your thoughts are out there   you make revisions you make changes great that's 
+fine hit the button boom those changes are pushed   online and then after a few minutes those those 
+revisions are out there so it's pretty wild   you might be wondering but is it private hey 
+i'm not a programmer i'm not a coder but what   i've heard reassures me that your notes are 
+still private they're still protected and   if you have any doubt at all you take the notes 
+that you want to publish online which obviously   aren't private if you want to publish them online 
+and then you just move them to a separate vault   that's being triple safe i'm not that concerned 
+so i'm just going to select the notes that i   need to uh that are the light kit and i can 
+just hit publish on that but the question of   is it safe the answers that i've heard reassure 
+me but because i'm not the most technical person   i can't explain them to you right now so 
+there'll be more information that comes out   and like i promised at the top of the video 
+i want to share with you how you can start   sharing your ideas with the world right 
+now not just ideas but your linked   ideas your linked thoughts so what 
+we do is we go to obsidian.md pricing   and that'll take us to this window and what 
+you want to do if you're able to and you want   it right now is support the team i'm not a part 
+of the team i just think the team is amazing and   i love supporting them i love what obsidian has 
+done for me so if you can and you want to take   advantage of publish now then hit the catalyst 
+option and it's just a one-time payment of 25   and then you can play around with this 
+really really cool feature now long term   there this will be an add-on service so obsidian 
+publish will have a monthly cost to it and   this is how obsidian i mean the question was like 
+how are they actually planning to make money the   app is always free all these core functionalities 
+are always free so how are they making money   and obsidian publish is one of those ways so 
+instead of using squarespace and paying whatever   that amount is what instead of using wix same 
+situation the idea here is that you use publish   and the beauty of this this route is now you 
+can use your notes your linked notes in plain   text and use publish and they look beautiful so 
+that's really the value proposition here i think   they're going to be quite successful i'm looking 
+forward to see how different people use publish   because as i mentioned i only have a couple ideas 
+and it'll be very exciting to see where it goes   as for me as i've mentioned i'm a big andy 
+matushak fan so i'll be doing something similar   with the light kit it'll be public and it will be 
+iterating updating and hopefully providing some   some ideas for everyone who visits it hey so if 
+you enjoyed this video please subscribe below   i just started recently and i've 
+been overwhelmed by the response   there's obviously a demand for working with ideas 
+with linking our thinking and i'm more than happy   to keep these videos coming your support your 
+encouragement in the comments has been greatly   greatly appreciated i hope you have found 
+some value and i'll see you in the next video you

@@ -1,0 +1,16 @@
+I being such a widely used tool I   want to share with you some other tools that you 
+can use that maybe will help you in other areas   in your coding career and I'll list them down here 
+okay in this video we are talking a lot about chat   GPT of course because it's mainly the one that's 
+been hyped up for so many of us and honestly I   actually really like using it it's very I know the 
+data hasn't been updated since 2021 but otherwise   it's still extremely valuable and helpful and I've 
+really found it helpful in my career thus far this   brings us to the question though what programming 
+languages should we focus in on to use these tools   most effectively the first programming language 
+I'd probably focus on is Python and also too I'm   walking through Central Park during this video and 
+let's check out this view so I had focus on python   is because it's so versatile there are so many 
+areas that you can use it there are so many things   you can do with it and it's one of those things 
+that if you are just starting out in your coding   career and you don't necessarily know what route 
+you want to take do you want to be a front-end   developer back-end developer data scientists there 
+are so many different roles that's starting with a   programming language that is as flexible and 
+widely used as python is a great way to go also   too I've been doing a lot with chat gbt and Python 
+and I feel like it really likes Python and knows   python so it's a great programming language 
+to start learning with the help of AI another   programming language that I would really sugg

@@ -1,0 +1,18 @@
+ends okay I'm back in a different location 
+this is Tiffany coming from the future and the   reason being is when I was going through this 
+video and uh working on it I thought you know what   this is something that I really want to use on 
+an ongoing basis on a daily basis I want to get   these notifications every day so I decided to 
+use AP scheduler and we'll go through the code   here essentially it is a python module that will 
+allow your python library that will allow you to   schedule when the code executes so this could 
+be on a daily basis this could be on a monthly   whatever the case may be now you have to keep 
+your application running for this to Executive   course but it's still but it's super interesting 
+and it's very simple I've never scheduled a job   to run on an ongoing basis before for one 
+of these projects so I was really excited   to play around with it so let's dive into it 
+to make us get this notification if there is   an iPhone that is under a certain price every 
+single day and you can see how handy this is   for various projects actually I use this library 
+on New Year's when it was at 12 a.m I scheduled   because I would be sleeping I was a very I had a 
+very quiet New Years and I knew I'd be sleeping   so I scheduled that at midnight for text messages 
+to go out I use twilio and this Library here for   text messages to go out saying Happy New Year 
+so there's so many different things you can   use with this library that let's dive into it 
+for this project and it's just a great tool to   use for various projects so okay enough of me 
+talking 

@@ -1,0 +1,19 @@
+let's actually do that so now that we have our project open I should
+say let's go ahead and run its npm start just to make sure the react app is working it came
+up on a different page here there we go we have our standard react app and as I mentioned
+in this project we are going to be focusing on search functionality and I thought I would
+do the fun celebrity API so actually while I'm speaking of the celebrity a pride let's
+go to it right now API Ninja alright so I found this resource a while ago it's really
+cool it's called API ninja and essentially there's just a lot of fun apis so I made an
+account you don't have to put in a credit card or anything and I went down to there
+we go celebrity and this is the API we will be using so as you can see here in celebrity
+provides a lot of different uh parameters that are optional name net worth uh obviously
+you need to get an API key which you can do from my account your account but the button's
+called my account just to be clear and you can see here some sample requests so it's
+very user friendly so we are going to be using this for this project okay now let's stop
+this from running for a minute here and the reason being a lot of this video as I mentioned
+I want to focus around git as well and documentation so let's create do get init to create a new
+Repository re-initialized oh I already had this repository okay if you
+don't do get in it and it will create this now if I go into let's go here we can see
+we have this dot get file uh in our react search app okay I got ahead and myself and
+some of it was not recording but what did I 

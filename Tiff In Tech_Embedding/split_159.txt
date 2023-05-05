@@ -1,0 +1,18 @@
+we are going to code today we are going to code 
+a Chrome extension we built a Chrome extension   a while back and one of the most common questions 
+on that video was Tiff we want to see it published   like go through the publishing process so 
+we're going to include that today starting   from beginning to end and do it all relatively 
+quickly I did not know how simple it is to build   Chrome extensions they are so cool and it's such 
+a great way to add something to your portfolio or   your projects and really stand out for employers 
+and be able to talk about this project that's not   you know a to-do app or a to-do list this is 
+something that whether you're a beginner or   further along in your career you can follow 
+along to very simple to do we are going to be   using HTML JavaScript and we're also going to 
+be using an API for this project specifically   we are going to do a currency converter so I 
+always am looking on my phone or searching up   to convert different currencies I'm Canadian so 
+from Canadian a lot of times to us or European I   work with a lot of different kind of companies and 
+I thought this would be a really fun project to do   if you are interested in something that's not a 
+currency converter the steps we are taking though   you can really modify this to use whatever API you 
+want to use whatever kind of structure your Chrome   extension however you want okay copy okay we have 
+the liquid of the Gods we're ready to get coating first what we're going to do is create 
+a manifest Json file and what this is   going to do is give some metadata the 
+gl

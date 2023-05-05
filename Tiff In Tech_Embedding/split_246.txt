@@ -1,0 +1,19 @@
+e this to react search app
+and then this document describes the let's do it's not necessarily flow in our
+system but I really like this template so this describes the react application that
+uh is building out search functionality perfect select the first step where the flow Begins
+the entry point or API call okay we will come back to this as Next Step let's actually integrate
+and use this API okay all right let's get into the code now let's go source and let's
+go into our app.js so for this let's simply as of right now let's take out all of this
+just have an empty div here and really the first thing I want to do is start uh let's
+let's start using this API first let's create search term and that's
+also good set search [Music] [Music] [Music] thank you [Music] foreign [Music] foreign [Music] [Music] thank you [Music] [Music] [Music] thank you [Music] [Music] okay now we can see if we search for an apple
+baby let's do my past searches here Gwyneth 150 million that's insane okay let's do cake
+see  it's really cool though I like how we built
+it that the results will continue to filter as you're a surgeon so sometimes he or has
+and I should say so this is really cool this is simple functionality
+but it allows you to take a very important part of react and coding and have this skill
+be able to do it and build on to it now let's get to the fun part first of all let's go
+back to our project here I'm going to stop running this for a second and the next thing
+I'm going to do is look at my status okay so you can see here we have modified I have
+my terminal perfect so next let's go get

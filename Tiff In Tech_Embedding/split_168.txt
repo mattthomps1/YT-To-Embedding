@@ -1,0 +1,17 @@
+le now let's get into quickly   how to publish this how to actually publish this 
+okay here are the steps for publishing this on the   Chrome extension site so the first thing you're 
+going to do is zip your project up and make sure   this contains all the files that we just created 
+including your icon.png then you're going to go   to this URL Here sign into your Google account 
+click on the add new item and of course read   through the agreement and if you choose to accept 
+the developer's agreement essentially then you can   upload your zip containing all of your files and 
+then they require you to send in some screenshots   of your Chrome extension and I think this is so 
+they can check it out as well so then at this   point you can either make your Chrome extension 
+free or a paid version and then essentially click   on publish changes at this point you have to wait 
+till the review process is done which can take a   day or a few days and once it's done you will get 
+notified if your Chrome extension is published let   me know down in the comments if you do this and 
+what you end up publishing I definitely want to   check them out maybe I'll do some shout outs of 
+extensions you make in future videos that would   be fun yeah let me know share with me the Chrome 
+extensions you make and I'll share with them in   some future videos I think that'd be really fun 
+also I link this code down below so if you want   to follow along through cloning this repository 
+go ahead and do so hit that subscribe button   and let me know in the comments what what should 
+we build next I l

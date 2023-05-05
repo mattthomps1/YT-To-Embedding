@@ -1,0 +1,18 @@
+ 
+way because what I think this will do is the whole   purpose of this project is to search for products 
+that might be on sale and I feel like iPhone 11 is   in that sweet spot that might be on sale now and 
+actually totally off topic but this is something   I really need because one of my friends is looking 
+for a used iPhone so this might be the way to go   all right from here let's simply click on preview 
+and we can see it running here the Run log which   is great and we can see the preview here so 
+right now it returned us the preview in HTML   scroll down we can see it all right and as you can 
+see you can modify this code if you would like I   really like as well how they leave comments 
+for what each part of the code is doing so   you can get very specific but in this case let's 
+finish editing okay and then you can see we have   a save template here and the output configuration 
+there is a ton of different options that it gives   you from search title URL I mean you're not just 
+getting one thing we want to focus more so on the   price but as you can see you can really build upon 
+with many different outputs so once again you saw   how many different templates there are it's really 
+cool okay let's start getting this integrating   this into our code okay so next up we can go to 
+the three dots here and let's initiate this by API and there are some commands that we need to 
+run one thing I want to note though as you   can see here you need to get your API token 
+and for this all you need to do is go into   settings account settings so first what I 
+want to do is ac

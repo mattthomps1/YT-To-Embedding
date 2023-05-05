@@ -1,0 +1,129 @@
+how many programming languages do you need to 
+know in order to be considered a successful   software engineer well let me reverse that 
+a little bit how many programming languages   do you need to know to be successful in 
+your software engineering career today   I'm going to share with you my thoughts on 
+how many you should learn to start with and   how many most programmers end up learning 
+in their career before we get to it though   you know the drill we need to collect coffee 
+let's go come on okay wait wait wait wait wait   before I head out actually we need to talk 
+about the interact conference it is a free   virtual conference that I will be attending 
+and I want to see you there I attended the   last conference and one of the best things about 
+it is you get to learn from the top engineering   leaders and what I really found helpful is it was 
+kind of like a day full of mentorship and guidance   from some of these incredible leaders that you 
+wouldn't get to typically hear speak otherwise   especially all packed into one day also there are 
+two tracks that you can focus on at the conference   one is Dev interrupted where you will listen to 
+stories of failure Redemption panels featuring   the biggest names in engineering leadership this 
+track has insights processes and really lots of   know-hows on how to turn Engineers into leaders 
+and companies into unicorns then the second track   or the other track is linear Beyond learn about 
+tactical practices insights and success stories   that Linear B customers have used to transform 
+their their value delivery pipeline okay I keep   on mentioning engineering leaders that will 
+be speaking at this conference who are they   some of them include ruckmany Reddy who is the 
+SVP of engineering at slack charity Majors CTO   and co-founder at honeycomb and Lewis Tapp 
+the VP of engineering at blockchain.com   and there are so many more make sure to check 
+it out I linked it down in my bio so you can   check out who is speaking uh one thing I like to 
+do before conferences is really check out who's   speaking and then also to think of ways to follow 
+up with them after the conference it's a great   way to kind of you know start a conversation you 
+heard them speak you really appreciated certain   points that they made and then kind of open that 
+conversation up that's just a little side tip also   speaking of networking and mentorship there is 
+a live event to connect with speakers and other   audience members so if you are there make sure 
+to come say hi to me virtually and you get access   to the dev interrupted Discord Channel this is a 
+great way to also interact with other engineering   leaders now a question I get asked a lot is do 
+I have to be an engineering leader in order to   attend this conference the answer is no no matter 
+if you are currently an engineering leader Midway   in your career just starting out this is a 
+conference that you'll find a lot of value   from I linked it down below go sign up today did 
+I mention it's free and come say hi okay let's go okay we are on our way to the co-working space 
+and of course to get some coffee some much needed   coffee coffee and code or coffee and Tech in 
+general they go hand in hand in my opinion I'm   curious though are you a coffee drinker or 
+are you more of a tea person do we have tea   drinkers in the audience here let me know okay 
+let's get to the question here though how many   programming languages do you need to know as a 
+software engineer and I'm going to answer this   in a few stages the first one being how many 
+you need to know when you are starting out   looking for your first job second part I'm going 
+to answer is throughout your career how many do   you need to know because that changes as you 
+grow in your career okay one thing though I   should know before we even get into this video 
+is how many programming languages do I know   so I'm going to share with you how many prank 
+whoa we got bright quickly here for myself for   programming languages the first one I Learned was 
+JavaScript and honestly it was a really good first   programming language to learn for me I think if 
+I was to start all over again it might be python   that I would learn first but JavaScript group 
+was the first one I learned I was learning the   mer and stack so [ __ ] Express react and node and 
+after that I spent a lot of time with JavaScript I   ended up focusing mainly in the front end with 
+react side of things and absolutely loved it   then as I progressed in my career there was some 
+requirements to do PHP so I did PHP full time I   was really nervous to dive into PHP because 
+it does have a bad rap I think it's a great   programming language actually but it doesn't 
+have the best reputation in the tech industry   I find especially when you're starting out people 
+are like oh PHP but once you grow in your career   I think it's a really really great language to 
+learn and it's used in so many different areas   that it's a really important one to learn as well 
+then as I progress further in my career I wanted   to pick up Python and this wasn't because it was 
+required in my job but it was required or sorry   wasn't required but it was something that I was 
+super interested in it's very popular and I knew   it was a skill or a language I really wanted to 
+know so I did the self teaching method at that   point it was really easy because I had already 
+picked up two other languages now I want to take   a second to note here that when going back to 
+JavaScript when I was working my last job at IBM   I was on the Consulting side so I was doing a lot 
+of projects for different companies which really   meant working in different Tech Stacks so the main 
+one I was working with for a framework was angular   but also there was some react as well and then on 
+the side I was tinkering I would say with view a   little bit it not so much anymore but I found 
+that as I progressed in my career whether it be   for my day job or even through you know Finding 
+resources and learning for this channel for my   tech Channel it slowly became less about learning 
+new programming languages and more about learning   new Frameworks especially with JavaScript but 
+that's just the way I preferred to grow it doesn't   mean it's the way you have to go going back to 
+how many programming languages do you need to know   if you are just starting out start out 
+with one programming language and there   might be some debate around this I find but I 
+think starting out with one typically there's   always different use cases is a really 
+good way to go because you want to focus   on learning the fundamentals you want to focus 
+on learning the basics and what that will do is   if you are able to really grasp that later on 
+in your career when it's required to learn more   languages it'll be easier to pick up because 
+you actually have a strong Foundation versus   you skim the fundamentals and went straight 
+to a programming framework the next question   I get asked is well what programming language 
+to learn first and it really depends on what   you want to be programming what you want to be 
+building so I'm going to list more generic ones   overall overarching but take this with a grain 
+of salt in the situation of depending on what   you want to learn so if I was to go all over again 
+I would learn as I mentioned probably python first   but other great ones to learn first would include 
+JavaScript or I would say Java those are the three   main ones if you are going the self-teaching route 
+that are something that you can learn on your own   and easily pick up and there's a lot of resources 
+online about them which really helps too also if   you're wondering Tiff why aren't you going to your 
+co-working space I thought you're getting coughing   going there I got locked out so we're just going 
+for a walk around Toronto and talking and walking   a very casual friend intimate way of doing this 
+video which I you know I love okay so as I just   said one programming language to start with now 
+as you grow in your career does that change or   can you just focus on one programming language 
+and the quick answer is yes you can focus on   just one programming language and really dive 
+deep into that for example I had a co-worker who   they had been programming for 10 
+plus no not 10 that would make sense   they're all going for a very long time all 
+they focused on was JavaScript and react so   and it was right when react came out how many 
+years was that when react came out but anyways   right when it came out till now they went hard on 
+react they love react you can ask them anything   about it and they will know and that's kind of 
+them going really deep into one they have zero   interest in taking a job or a project though that 
+would require learning a different uh framework   or programming language so that's definitely one 
+way to go really deep into one there can be some   downsides to that such as if you're not willing 
+to even be flexible or consider you know you   might be missing out on some opportunities but on 
+the other hand some companies might really really   want someone who's a very deep specialist in that 
+so it's not a negative or positive I think it's   just a preference thing for me anyways I never 
+went that way because I'm way too curious I love   exploring different languages and Frameworks 
+the other way to go though is more like what   I did where you were growing in your software 
+engineering career and naturally as you go from   company to company over time it will be required 
+to pick up different programming languages and   when I was looking online and I spoke to I do a 
+little poll actually texting some of my software   engineering friends who I've worked with in the 
+past and said how many programming languages do   you know not tinkered around with but like 
+actually no and on average it was around two   to three I would say closer to three for most and 
+they are mainly individuals who are Midway through   their career so still have a lot of growth to do 
+so maybe that will change as they grow but what   I find is that really depends on how you grow in 
+your software engineering career which I mean you   can go senior engineer and continue to grow and 
+be coding your entire career but more often than   not we see that software Engineers end up kind of 
+evolving with their roles as their career grows as   well and I think that's why the number three is a 
+good number for typically on average the number of   programming languages that a software engineer 
+will know really in depth now as I mentioned   there's a ton of different uh caveats to this that 
+you could include but but I would say on average   based on my research about three now I don't want 
+that to stress you out though if you are starting   out in your career it doesn't mean that you have 
+to know everything right away please do not take   this as that but it's more something I was just 
+curious about how many programming languages do   most developers know actually on that note leave 
+in the comments how many years you have been   a programmer for or been coding for and how many 
+languages you know once again not just like Tinker   around with but really no okay I hope you found 
+this video very helpful in a fun and Casual way   I really wanted to connect with you on this topic 
+and there's no right or wrong answer to this this   is just based on my research what I've learned 
+and my experience I think more than anything   to have a successful career as a software 
+engineer and continue to evolve it's being   open to learn new learn it's being oh my goodness 
+you can tell I needed that coffee it's being open   to experiencing and learning new things I think 
+that's the most important thing of all okay I   hope you enjoyed this video if you haven't 
+already as I mentioned earlier leave in the   comments what programming languages you know 
+how many you know and if you haven't subscribe   for more Tech coding and career related videos 
+I mean I'm sitting in the middle of a park here   people are looking at me and I'm filming for 
+you so give me some love give me a like give me   a subscribe and also let me know down below what 
+other questions you have I make these videos for   you based on what you want to hear so leave in the 
+comments and I'll see you all soon thanks everyone foreign
