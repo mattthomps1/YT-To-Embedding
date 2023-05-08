@@ -16,9 +16,7 @@ GPT_MODEL = "gpt-3.5-turbo"
 EMBEDDING_MODEL = "text-embedding-ada-002"
 BATCH_SIZE = 1000
 MAX_TOKENS = 1600
-channel_id = "UC85D7ERwhke7wVqskV_DZUA"
-completed_channels = set()
-style = "Pirate"
+channel_id = "UC6Q0fcSXWyKUmVSFyrbMHRw"
 
 def get_video_ids_from_urls(urls):
     return [url.split('=')[-1] for url in urls]
@@ -52,19 +50,19 @@ def yt_transcript(video_id, channel_name):
 
 
 def save_all_transcripts(channel_id):
-    
     if os.path.exists(sanitize_filename(channel_id)):
         print(f"Transcripts for channel {channel_id} have already been saved.")
-        return
-    
-    video_urls = get_all_video_in_channel(channel_id, max_results=150)
-    video_ids = get_video_ids_from_urls(video_urls)
+        return True
+    else:
+        video_urls = get_all_video_in_channel(channel_id, max_results=150)
+        video_ids = get_video_ids_from_urls(video_urls)
 
-    for video_id in video_ids:
-        yt_transcript(video_id, channel_id)
-    
-    completed_channels.add(channel_id)
-    print(f"Transcripts for channel {channel_id} saved successfully.")
+        for video_id in video_ids:
+            yt_transcript(video_id, channel_id)
+
+        print(f"Transcripts for channel {channel_id} saved successfully.")
+        return False
+
 
 
 def get_video_details(video_id):
@@ -111,6 +109,8 @@ def get_all_video_in_channel(channel_id, max_results=150):
 channel_name = get_channel_name(channel_id)
 
 save_all_transcripts(channel_id)
+transcripts_exist = save_all_transcripts(channel_id)
+
 
 input_dir = f'{sanitize_filename(channel_id)}/'
 output_dir = f'{sanitize_filename(channel_name)}_Embedding/'
@@ -134,9 +134,24 @@ for i, text_string in enumerate(all_strings):
         file.write(text_string)
 
 openai.api_key = my_secret2
+# Defining the introductions message
+introductions = {
+    "default": "Use the below YouTube video titles and transcripts to answer the subsequent question. If the answer cannot be found in the information provided, say you are not sure then give a fun, engaging guess for the answer.  Phrase all your replies as if you are the creator of the YouTube videos.",
+    "pirate": "Use the below YouTube video titles and transcripts to answer the subsequent question, ye scallywag! If the answer cannot be found in the information provided, say ye be not sure then give a fun, engaging guess for the answer, arr! Phrase all of your replies in the style of a Pirate!",
+  "shakespeare": "Useth the below-eth YouTube video titles and transcripts to answereth the subsequent question. If the answer cannot beest found in the information provid'd, prithee sayeth thee art not sure then giveth a fun, engaging guess for the answer. Phrase all of thy replies in the style of Shakespeare!",
+    # Add more styles here
+}
+# Defining the system message
+system_messages = {
+    "default": "You are the creator of the YouTube videos you have been provided.  You answer questions using the provided YouTube video titles and transcripts. Phrase all your replies as if you are the creator of the YouTube videos.",
+    "pirate": "Ahoy! Ye be the creator of the YouTube videos ye have been provided.  Ye answer questions using the provided YouTube video titles and transcripts.  DO NOT FORGET TO ANSWER AS IF YE BE THE CREATOR OF THE VIDEOS! Phrase all of your replies in the style of a Pirate!",
+  "shakespeare": "Thou art the creator of the YouTube videos thou hast been provid'd. Thou shalt answer questions using the provid'd YouTube video titles and transcripts. Pray, remember to answer as if thou art the creator of the videos! Phrase all of thy replies in the style of Shakespeare!",
+    # Add more styles here
+}
 
-embeddings = []
-for batch_start in range(0, len(all_strings), BATCH_SIZE):
+if not transcripts_exist:
+  embeddings = []
+  for batch_start in range(0, len(all_strings), BATCH_SIZE):
     batch_end = batch_start + BATCH_SIZE
     batch = all_strings[batch_start:batch_end]
     print(f"Batch {batch_start} to {batch_end-1}")
@@ -145,15 +160,11 @@ for batch_start in range(0, len(all_strings), BATCH_SIZE):
         assert i == be["index"]
     batch_embeddings = [e["embedding"] for e in response["data"]]
     embeddings.extend(batch_embeddings)
-
-df = pd.DataFrame({"text": all_strings, "embedding": embeddings})
-
+    df = pd.DataFrame({"text": all_strings, "embedding": embeddings})
+    SAVE_PATH = f"{sanitize_filename(channel_name)}_Embeddings.csv"
+    df.to_csv(SAVE_PATH, index=False)
 
 SAVE_PATH = f"{sanitize_filename(channel_name)}_Embeddings.csv"
-
-
-df.to_csv(SAVE_PATH, index=False)
-
 df = pd.read_csv(SAVE_PATH)
 df['embedding'] = df['embedding'].apply(ast.literal_eval)
 
@@ -188,11 +199,13 @@ def query_message(
     query: str,
     df: pd.DataFrame,
     model: str,
-    token_budget: int
+    token_budget: int,
+    style: str = "default",  # Add the style parameter with a default value
 ) -> str:
     """Return a message for GPT, with relevant source texts pulled from a dataframe."""
     strings, relatednesses = strings_ranked_by_relatedness(query, df)
-    introduction = 'Use the below YouTube video titles and transcripts to answer the subsequent question. If the answer cannot be found in the information provided, say you are not sure then give a fun, engaging guess for the answer. DO NOT FORGET TO ALWAYS TALK LIKE A PIRATE!'
+    introduction = introductions.get(style, introductions["default"])
+    introduction = introduction
     question = f"\n\nQuestion: {query}"
     message = introduction
     for string in strings:
@@ -222,15 +235,17 @@ def ask(
     model: str = GPT_MODEL,
     token_budget: int = 4096 - 500,
     print_message: bool = False,
+    style: str = "default",  # Set the default value for the style parameter
 ) -> str:
     """Answers a query using GPT and a dataframe of relevant texts and embeddings."""
     message = query_message(query, df, model=model, token_budget=token_budget)
     if print_message:
         print(message)
 
+    system_message = system_messages.get(style, system_messages["default"])
     for i in range(5):
         messages = [
-            {"role": "system", "content": "You are the creator of the YouTube videos you have been provided.  You answer questions using the provided YouTube video titles and transcripts.  DO NOT FORGET TO ANSWER AS IF YOU ARE THE CREATOR OF THE VIDEOS.  ALWAYS RESPOND AS IF YOU MADE THE VIDEOS YOURSELF. AND DONT FORGET TO BE FUN, ENGAGING! DO NOT FORGET TO ALWAYS TALK LIKE A PIRATE!"},
+            {"role": "system", "content": system_message},
             {"role": "user", "content": message},
         ]
         messages.append({"role": "user", "content": input("User: ")})

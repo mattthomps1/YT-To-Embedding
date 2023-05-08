@@ -1,2 +1,10 @@
-The df doesn't seem to change with each ask, maybe that's an issue or maybe not depending on the embeddings.  It seems to work but havn't checked it to much
+The df doesn't seem to change with each ask, maybe that's an issue or maybe not depending on the embeddings.  It seems to work but havn't checked it to much - done - it seems to work well and the other methods don't seem to be a better option
 
+
+Fix the style variable - done
+
+make it a web server - next
+
+connect to a database - next
+
+see if there are other methods to get the data into openai - done, didn't really seem to work
